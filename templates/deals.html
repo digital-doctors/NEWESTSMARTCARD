@@ -15,6 +15,18 @@
             --deal-warning: #FF9500;
             --deal-gradient: linear-gradient(135deg, #020202 0%, #764ba2 100%);
         }
+        /* Fix scrolling for deals page */
+.app-container {
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+}
+
+/* Make sure main content area can scroll */
+main {
+    flex: 1;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
 
         body {
             font-family: 'DM Sans', system-ui, -apple-system, BlinkMacSystemFont;
@@ -336,10 +348,43 @@
             gap: 8px;
             font-size: 14px;
         }
+        /* Add these lines to the end of your <style> section */
+.app-container {
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+}
+
+main {
+    flex: 1;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.deal-card-grid {
+    padding-bottom: 40px; /* Add extra padding at bottom for scrolling */
+}
 
         .rate-limit-warning.show {
             transform: translateX(-50%) translateY(0);
         }
+        .refresh-btn {
+    background: #000000;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.refresh-btn:hover {
+    opacity: 0.9;
+}
 
 
         /* Category Colors */
@@ -552,6 +597,8 @@
         loading.style.display = 'none';
         empty.style.display = 'none';
         grid.style.display = 'grid';
+        // Ensure content is scrollable
+        document.querySelector('main').style.overflowY = 'auto';
         
         document.getElementById('deals-count').textContent = deals.length;
         
