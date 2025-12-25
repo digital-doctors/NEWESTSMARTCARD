@@ -1,0 +1,127 @@
+{
+  "nikhi.kanda@gmail.com": {
+    "deals": [
+      {
+        "id": "4b98851f-2c1e-4c3d-b942-8da27fed2642",
+        "merchant": "Walgreens",
+        "category": "pharmacy",
+        "distance": 0.4,
+        "deal_text": "60% off Photo Calendars!",
+        "timestamp": "2025-12-25T12:16:24.056257"
+      },
+      {
+        "id": "ed3a20ec-2b30-4d95-a05b-8c307912ade4",
+        "merchant": "Walgreens",
+        "category": "pharmacy",
+        "distance": 0.4,
+        "deal_text": "BOGO 50% off Scott Paper",
+        "timestamp": "2025-12-25T12:16:24.056268"
+      },
+      {
+        "id": "f547bbc9-35e3-46c6-a8a3-09537d62421f",
+        "merchant": "Walgreens",
+        "category": "pharmacy",
+        "distance": 0.4,
+        "deal_text": "Up to 60% Off Orders",
+        "timestamp": "2025-12-25T12:16:24.056282"
+      },
+      {
+        "id": "1d087eae-a32a-4746-8ab4-6d9bbfc9489c",
+        "merchant": "Walgreens",
+        "category": "pharmacy",
+        "distance": 0.4,
+        "deal_text": "Buy 2 Get 2 Free Pepsi",
+        "timestamp": "2025-12-25T12:16:24.056976"
+      },
+      {
+        "id": "0e237b28-5836-41ff-b60a-944ed867762b",
+        "merchant": "Walgreens",
+        "category": "pharmacy",
+        "distance": 0.4,
+        "deal_text": "Score 30% Off Cart",
+        "timestamp": "2025-12-25T12:16:24.056989"
+      },
+      {
+        "id": "b2ea80d1-dc28-4625-8dfd-45062d51ad3e",
+        "merchant": "Chipotle",
+        "category": "restaurant",
+        "distance": 0.7,
+        "deal_text": "BOGO Entr\u00e9e w/ Sweater",
+        "timestamp": "2025-12-25T12:16:25.897662"
+      },
+      {
+        "id": "4434b856-b69b-4767-bc6c-d27a74d085ee",
+        "merchant": "Chipotle",
+        "category": "restaurant",
+        "distance": 0.7,
+        "deal_text": "Free Guac w/ Rewards Sign-up",
+        "timestamp": "2025-12-25T12:16:25.897682"
+      },
+      {
+        "id": "cb18fc78-007e-43b3-87e5-6abfd8fefd98",
+        "merchant": "Chipotle",
+        "category": "restaurant",
+        "distance": 0.7,
+        "deal_text": "$10 Off First Purchase",
+        "timestamp": "2025-12-25T12:16:25.897692"
+      },
+      {
+        "id": "a53ba6b8-092f-43c2-a42d-b1b00e45a210",
+        "merchant": "Chipotle",
+        "category": "restaurant",
+        "distance": 0.7,
+        "deal_text": "Up to 25% Off Orders",
+        "timestamp": "2025-12-25T12:16:25.897701"
+      },
+      {
+        "id": "b22858aa-2453-4d89-99a5-ba12648d31cc",
+        "merchant": "Chipotle",
+        "category": "restaurant",
+        "distance": 0.7,
+        "deal_text": "10 Points Per $1 Spent",
+        "timestamp": "2025-12-25T12:16:25.897710"
+      },
+      {
+        "id": "87e8d1cc-db13-49d3-98c9-f20ed6c550b7",
+        "merchant": "Walmart Supercenter",
+        "category": "grocery",
+        "distance": 0.8,
+        "deal_text": "Up to 65% Off Flash Deals!",
+        "timestamp": "2025-12-25T12:16:27.846559"
+      },
+      {
+        "id": "f82e31ef-58b0-45f0-8ec1-b13b719400c9",
+        "merchant": "Walmart Supercenter",
+        "category": "grocery",
+        "distance": 0.8,
+        "deal_text": "$20 Off First 3 Grocery Orders!",
+        "timestamp": "2025-12-25T12:16:27.846590"
+      },
+      {
+        "id": "df850192-0840-4420-8446-e9146e556d44",
+        "merchant": "Walmart Supercenter",
+        "category": "grocery",
+        "distance": 0.8,
+        "deal_text": "Buy One Get One Free Offers!",
+        "timestamp": "2025-12-25T12:16:27.846607"
+      },
+      {
+        "id": "887a9d83-a9d2-49fd-8824-6ee2896043d3",
+        "merchant": "Walmart Supercenter",
+        "category": "grocery",
+        "distance": 0.8,
+        "deal_text": "50% Off Walmart+ for Students!",
+        "timestamp": "2025-12-25T12:16:27.846623"
+      },
+      {
+        "id": "2bab9655-b5e9-47dc-b259-3234955e7174",
+        "merchant": "Walmart Supercenter",
+        "category": "grocery",
+        "distance": 0.8,
+        "deal_text": "Up to 50% Off Weekly Ad Deals!",
+        "timestamp": "2025-12-25T12:16:27.846639"
+      }
+    ],
+    "timestamp": "2025-12-25T12:16:27.846929"
+  }
+}

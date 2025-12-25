@@ -1,0 +1,8084 @@
+[
+  {
+    "name": "Yoshinoya",
+    "category": "restaurant",
+    "lat": 34.0762169,
+    "lon": -118.216019,
+    "osm_id": 72448982,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jack in the Box",
+    "category": "restaurant",
+    "lat": 34.0766932,
+    "lon": -118.216012,
+    "osm_id": 72448995,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Barbara's",
+    "category": "restaurant",
+    "lat": 34.0645693,
+    "lon": -118.2181096,
+    "osm_id": 464745074,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sweetfin",
+    "category": "restaurant",
+    "lat": 34.0487063,
+    "lon": -118.2584697,
+    "osm_id": 470868191,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Philippe The Original",
+    "category": "restaurant",
+    "lat": 34.0596738,
+    "lon": -118.236941,
+    "osm_id": 470872073,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cole's P.E. Buffet",
+    "category": "restaurant",
+    "lat": 34.0448335,
+    "lon": -118.2495584,
+    "osm_id": 470881976,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Famima",
+    "category": "retail",
+    "lat": 34.0520632,
+    "lon": -118.2509637,
+    "osm_id": 470881984,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bottega Louie",
+    "category": "restaurant",
+    "lat": 34.047039,
+    "lon": -118.256567,
+    "osm_id": 470881995,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lili Ya",
+    "category": "restaurant",
+    "lat": 34.0511299,
+    "lon": -118.2448967,
+    "osm_id": 470888534,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Restaurant Aoi",
+    "category": "restaurant",
+    "lat": 34.0499025,
+    "lon": -118.2399704,
+    "osm_id": 470889787,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Daikokuya",
+    "category": "restaurant",
+    "lat": 34.0499714,
+    "lon": -118.2400831,
+    "osm_id": 470890156,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Carl's Jr.",
+    "category": "restaurant",
+    "lat": 34.0449001,
+    "lon": -118.253359,
+    "osm_id": 470891322,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Great Thai",
+    "category": "restaurant",
+    "lat": 34.0517217,
+    "lon": -118.2666829,
+    "osm_id": 470893427,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ralphs",
+    "category": "grocery",
+    "lat": 34.0455899,
+    "lon": -118.2608354,
+    "osm_id": 470894217,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Yard House",
+    "category": "restaurant",
+    "lat": 34.0449843,
+    "lon": -118.265798,
+    "osm_id": 470895665,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Starbucks",
+    "category": "restaurant",
+    "lat": 34.0406343,
+    "lon": -118.2696008,
+    "osm_id": 470897912,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Shell",
+    "category": "gas",
+    "lat": 34.0430344,
+    "lon": -118.261042,
+    "osm_id": 470920608,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Drago Centro",
+    "category": "restaurant",
+    "lat": 34.051302,
+    "lon": -118.2570963,
+    "osm_id": 471255269,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Corner Bakery",
+    "category": "restaurant",
+    "lat": 34.0480163,
+    "lon": -118.2617582,
+    "osm_id": 471255273,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ciudad",
+    "category": "restaurant",
+    "lat": 34.0525962,
+    "lon": -118.2571993,
+    "osm_id": 471255278,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Wokcano",
+    "category": "restaurant",
+    "lat": 34.0486901,
+    "lon": -118.259063,
+    "osm_id": 471255285,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Wolfgang Puck",
+    "category": "restaurant",
+    "lat": 34.0492588,
+    "lon": -118.2563746,
+    "osm_id": 471255286,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Subway",
+    "category": "restaurant",
+    "lat": 34.0490405,
+    "lon": -118.2560063,
+    "osm_id": 471255287,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cafe Pinot",
+    "category": "restaurant",
+    "lat": 34.0511811,
+    "lon": -118.2558175,
+    "osm_id": 471255290,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Daily Grill",
+    "category": "restaurant",
+    "lat": 34.049965,
+    "lon": -118.2573452,
+    "osm_id": 471255295,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Counter",
+    "category": "restaurant",
+    "lat": 34.0485569,
+    "lon": -118.258255,
+    "osm_id": 471255296,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Marie's Coffee & Deli",
+    "category": "restaurant",
+    "lat": 34.0486352,
+    "lon": -118.258366,
+    "osm_id": 471255297,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Izakaya Gazen",
+    "category": "restaurant",
+    "lat": 34.0491094,
+    "lon": -118.239352,
+    "osm_id": 473762784,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Original Pantry Cafe",
+    "category": "restaurant",
+    "lat": 34.0463719,
+    "lon": -118.2628977,
+    "osm_id": 529213054,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "PI^LA",
+    "category": "restaurant",
+    "lat": 34.0482445,
+    "lon": -118.2480655,
+    "osm_id": 553094391,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Purgatory Pizza",
+    "category": "restaurant",
+    "lat": 34.0474525,
+    "lon": -118.2257385,
+    "osm_id": 566336317,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Arco",
+    "category": "gas",
+    "lat": 34.0354024,
+    "lon": -118.284313,
+    "osm_id": 591042107,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Valero",
+    "category": "gas",
+    "lat": 34.0403747,
+    "lon": -118.2121714,
+    "osm_id": 607902553,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sbarro",
+    "category": "restaurant",
+    "lat": 34.0509146,
+    "lon": -118.247615,
+    "osm_id": 607992175,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Pollo Loco",
+    "category": "restaurant",
+    "lat": 34.0509782,
+    "lon": -118.2477031,
+    "osm_id": 607992176,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "76",
+    "category": "gas",
+    "lat": 34.0692525,
+    "lon": -118.291986,
+    "osm_id": 608957448,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Chevron",
+    "category": "gas",
+    "lat": 34.0667917,
+    "lon": -118.2698071,
+    "osm_id": 610178498,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "McDonald's",
+    "category": "restaurant",
+    "lat": 34.080601,
+    "lon": -118.260636,
+    "osm_id": 610178519,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Little Caesars",
+    "category": "restaurant",
+    "lat": 34.077536,
+    "lon": -118.2572057,
+    "osm_id": 610180416,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "CVS Pharmacy",
+    "category": "pharmacy",
+    "lat": 34.0643555,
+    "lon": -118.2493837,
+    "osm_id": 610186122,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "USA Gasoline",
+    "category": "gas",
+    "lat": 34.0733788,
+    "lon": -118.217175,
+    "osm_id": 614042901,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "King Taco",
+    "category": "restaurant",
+    "lat": 34.0734572,
+    "lon": -118.211408,
+    "osm_id": 614042918,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sinclair",
+    "category": "gas",
+    "lat": 34.0735207,
+    "lon": -118.208118,
+    "osm_id": 614042925,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Trojan Grounds (Starbucks)",
+    "category": "restaurant",
+    "lat": 34.0212898,
+    "lon": -118.2824417,
+    "osm_id": 614990288,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Homegirl Cafe",
+    "category": "restaurant",
+    "lat": 34.0624267,
+    "lon": -118.2358012,
+    "osm_id": 616923792,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Empress Pavilion",
+    "category": "restaurant",
+    "lat": 34.0666824,
+    "lon": -118.2372669,
+    "osm_id": 683080613,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mobil",
+    "category": "gas",
+    "lat": 34.0783324,
+    "lon": -118.279553,
+    "osm_id": 757327019,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El C Lollo Meat Market",
+    "category": "grocery",
+    "lat": 34.0769216,
+    "lon": -118.275498,
+    "osm_id": 757327034,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Majestic Malt Shop",
+    "category": "restaurant",
+    "lat": 34.046284,
+    "lon": -118.249232,
+    "osm_id": 853984748,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The California Endowment Courtyard Cafe",
+    "category": "restaurant",
+    "lat": 34.0593278,
+    "lon": -118.2360282,
+    "osm_id": 1069655015,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Wurstk\u00fcche",
+    "category": "restaurant",
+    "lat": 34.0455378,
+    "lon": -118.2360081,
+    "osm_id": 1214166696,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mr. Ramen",
+    "category": "restaurant",
+    "lat": 34.0497124,
+    "lon": -118.2396931,
+    "osm_id": 1434999959,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rakkan Ramen",
+    "category": "restaurant",
+    "lat": 34.0495076,
+    "lon": -118.239428,
+    "osm_id": 1435012193,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Far Bar",
+    "category": "restaurant",
+    "lat": 34.0496226,
+    "lon": -118.2395849,
+    "osm_id": 1435012202,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Korean BBQ House",
+    "category": "restaurant",
+    "lat": 34.0498115,
+    "lon": -118.24218,
+    "osm_id": 1435041904,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Suehiro Cafe",
+    "category": "restaurant",
+    "lat": 34.0498104,
+    "lon": -118.2398257,
+    "osm_id": 1435041912,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "San Sui Tei",
+    "category": "restaurant",
+    "lat": 34.050236,
+    "lon": -118.2404477,
+    "osm_id": 1435041916,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "JiST Cafe",
+    "category": "restaurant",
+    "lat": 34.0507644,
+    "lon": -118.240384,
+    "osm_id": 1435810185,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "C & J",
+    "category": "gas",
+    "lat": 34.06632,
+    "lon": -118.2119621,
+    "osm_id": 1488571301,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Walgreens",
+    "category": "pharmacy",
+    "lat": 34.0479509,
+    "lon": -118.2573199,
+    "osm_id": 1584088199,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Chipotle",
+    "category": "restaurant",
+    "lat": 34.0475188,
+    "lon": -118.2566694,
+    "osm_id": 1584088933,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sugarfish",
+    "category": "restaurant",
+    "lat": 34.0473499,
+    "lon": -118.256999,
+    "osm_id": 1584090340,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "IHOP",
+    "category": "restaurant",
+    "lat": 34.0470446,
+    "lon": -118.260069,
+    "osm_id": 1584131214,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pizza Next Door",
+    "category": "restaurant",
+    "lat": 34.0473558,
+    "lon": -118.2604543,
+    "osm_id": 1584135985,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Roy's Hawaiian Fusion",
+    "category": "restaurant",
+    "lat": 34.0478055,
+    "lon": -118.2611301,
+    "osm_id": 1584148737,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "SanSai Japanese Grill",
+    "category": "restaurant",
+    "lat": 34.0473255,
+    "lon": -118.2604059,
+    "osm_id": 1584149761,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Coffee Bean & Tea Leaf",
+    "category": "restaurant",
+    "lat": 34.0453231,
+    "lon": -118.260413,
+    "osm_id": 1584153811,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Simply Salad",
+    "category": "restaurant",
+    "lat": 34.045512,
+    "lon": -118.260235,
+    "osm_id": 1584156670,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Panini Cafe Downtown",
+    "category": "restaurant",
+    "lat": 34.0450964,
+    "lon": -118.2607358,
+    "osm_id": 1584158713,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Quiznos",
+    "category": "restaurant",
+    "lat": 34.0454731,
+    "lon": -118.260294,
+    "osm_id": 1584165091,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Nickel Diner",
+    "category": "restaurant",
+    "lat": 34.0459981,
+    "lon": -118.248945,
+    "osm_id": 1738802895,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "First Cup Caffe",
+    "category": "restaurant",
+    "lat": 34.049798,
+    "lon": -118.2479742,
+    "osm_id": 1738802899,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Guisados",
+    "category": "restaurant",
+    "lat": 34.0702234,
+    "lon": -118.2502772,
+    "osm_id": 1944730492,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "La Parrilla",
+    "category": "restaurant",
+    "lat": 34.0479178,
+    "lon": -118.2107203,
+    "osm_id": 1994547208,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Tepeyac (Manuel's)",
+    "category": "restaurant",
+    "lat": 34.0477847,
+    "lon": -118.1975999,
+    "osm_id": 1997543767,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Blue Cube",
+    "category": "restaurant",
+    "lat": 34.0514278,
+    "lon": -118.2456266,
+    "osm_id": 2021109459,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Galleria Market - Galleria Vermont",
+    "category": "grocery",
+    "lat": 34.0655794,
+    "lon": -118.290934,
+    "osm_id": 2026766420,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Blossom",
+    "category": "restaurant",
+    "lat": 34.0473895,
+    "lon": -118.24769,
+    "osm_id": 2096811531,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "B\u00e4co Mercat",
+    "category": "restaurant",
+    "lat": 34.0477861,
+    "lon": -118.2473359,
+    "osm_id": 2096811589,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sultan Chicken Restaurant",
+    "category": "restaurant",
+    "lat": 34.0469647,
+    "lon": -118.252315,
+    "osm_id": 2163606664,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Trimana",
+    "category": "retail",
+    "lat": 34.0480735,
+    "lon": -118.251005,
+    "osm_id": 2163606665,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kiss Pizza & Deli",
+    "category": "restaurant",
+    "lat": 34.0464803,
+    "lon": -118.2524999,
+    "osm_id": 2163661646,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rainbow",
+    "category": "retail",
+    "lat": 34.0442976,
+    "lon": -118.2545104,
+    "osm_id": 2163769539,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Soot Bull Jeep",
+    "category": "restaurant",
+    "lat": 34.0575821,
+    "lon": -118.2959098,
+    "osm_id": 2168231371,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Park's Finest BBQ",
+    "category": "restaurant",
+    "lat": 34.0666786,
+    "lon": -118.2544194,
+    "osm_id": 2247874052,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "George's Greek Grill",
+    "category": "restaurant",
+    "lat": 34.052768,
+    "lon": -118.257213,
+    "osm_id": 2263083435,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Polanco Modern Mexican Steakhouse",
+    "category": "restaurant",
+    "lat": 34.0423497,
+    "lon": -118.254092,
+    "osm_id": 2375490976,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Original Tommy's Hamburgers",
+    "category": "restaurant",
+    "lat": 34.0695496,
+    "lon": -118.2765586,
+    "osm_id": 2406456598,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "KFC",
+    "category": "restaurant",
+    "lat": 34.0472792,
+    "lon": -118.2072007,
+    "osm_id": 2452195949,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Los Molcajetes Restaurant",
+    "category": "restaurant",
+    "lat": 34.0600645,
+    "lon": -118.2846629,
+    "osm_id": 2611795243,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Image Gear USA",
+    "category": "retail",
+    "lat": 34.032812,
+    "lon": -118.26279,
+    "osm_id": 2626144251,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Badmaash",
+    "category": "restaurant",
+    "lat": 34.0510743,
+    "lon": -118.2448108,
+    "osm_id": 2633410281,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "23rd Street Cafe",
+    "category": "restaurant",
+    "lat": 34.0337161,
+    "lon": -118.280961,
+    "osm_id": 2643391587,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lee's Market",
+    "category": "retail",
+    "lat": 34.0336786,
+    "lon": -118.2808943,
+    "osm_id": 2643391588,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Beverly Soon Tofu Restaurant",
+    "category": "restaurant",
+    "lat": 34.0530242,
+    "lon": -118.2924797,
+    "osm_id": 2678224143,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Chiguacle",
+    "category": "restaurant",
+    "lat": 34.057097,
+    "lon": -118.2386286,
+    "osm_id": 2894755461,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Justice Urban Tavern",
+    "category": "restaurant",
+    "lat": 34.0509394,
+    "lon": -118.2423351,
+    "osm_id": 2964681656,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Les Noces de Figaro",
+    "category": "restaurant",
+    "lat": 34.0459934,
+    "lon": -118.2523539,
+    "osm_id": 2983737083,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mendocino Farms",
+    "category": "restaurant",
+    "lat": 34.0527687,
+    "lon": -118.250534,
+    "osm_id": 3060474519,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sib Song",
+    "category": "restaurant",
+    "lat": 34.0777342,
+    "lon": -118.2665697,
+    "osm_id": 3119815054,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "7-Eleven",
+    "category": "retail",
+    "lat": 34.0776853,
+    "lon": -118.2664375,
+    "osm_id": 3119817446,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Burrito King",
+    "category": "restaurant",
+    "lat": 34.0777418,
+    "lon": -118.263794,
+    "osm_id": 3119887457,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "K&K Donut",
+    "category": "restaurant",
+    "lat": 34.0778239,
+    "lon": -118.2636886,
+    "osm_id": 3119887459,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kazu Nori",
+    "category": "restaurant",
+    "lat": 34.0476428,
+    "lon": -118.2478072,
+    "osm_id": 3144591452,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cielito Lindo",
+    "category": "restaurant",
+    "lat": 34.0579573,
+    "lon": -118.237396,
+    "osm_id": 3211936878,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Blue Cow",
+    "category": "restaurant",
+    "lat": 34.0518002,
+    "lon": -118.2518606,
+    "osm_id": 3262466437,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Prufrock Pizzaria",
+    "category": "restaurant",
+    "lat": 34.0471358,
+    "lon": -118.2479565,
+    "osm_id": 3358087097,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Blue Bottle Coffee",
+    "category": "restaurant",
+    "lat": 34.0390904,
+    "lon": -118.2326722,
+    "osm_id": 3449745087,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Black Sheep",
+    "category": "restaurant",
+    "lat": 34.0447338,
+    "lon": -118.2494253,
+    "osm_id": 3449754913,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Escondite",
+    "category": "restaurant",
+    "lat": 34.0461064,
+    "lon": -118.242205,
+    "osm_id": 3449763201,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Shin-Sen-Gumi Hakata Ramen",
+    "category": "restaurant",
+    "lat": 34.0482755,
+    "lon": -118.239061,
+    "osm_id": 3454386527,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rite Aid",
+    "category": "pharmacy",
+    "lat": 34.0285539,
+    "lon": -118.260642,
+    "osm_id": 3577173167,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "O Dae San Korean BBQ",
+    "category": "restaurant",
+    "lat": 34.0527908,
+    "lon": -118.2972509,
+    "osm_id": 3795768631,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Surawon",
+    "category": "restaurant",
+    "lat": 34.0527874,
+    "lon": -118.2956264,
+    "osm_id": 3795772626,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jang An Restaurant",
+    "category": "restaurant",
+    "lat": 34.052965,
+    "lon": -118.2939697,
+    "osm_id": 3797634879,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Masan Restaurant",
+    "category": "restaurant",
+    "lat": 34.0528397,
+    "lon": -118.2962374,
+    "osm_id": 3797634884,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Restaurant at The Standard",
+    "category": "restaurant",
+    "lat": 34.05002,
+    "lon": -118.2567865,
+    "osm_id": 3898615965,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Broadway Market",
+    "category": "retail",
+    "lat": 34.0421045,
+    "lon": -118.2560662,
+    "osm_id": 3905714571,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Chapman Market",
+    "category": "retail",
+    "lat": 34.0436122,
+    "lon": -118.2541694,
+    "osm_id": 3905774489,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Anson's Eatery",
+    "category": "restaurant",
+    "lat": 34.0420122,
+    "lon": -118.255916,
+    "osm_id": 3905935447,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "OAK Los Angeles",
+    "category": "retail",
+    "lat": 34.0419756,
+    "lon": -118.2561963,
+    "osm_id": 3905940970,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Whole Foods Market",
+    "category": "grocery",
+    "lat": 34.0458779,
+    "lon": -118.2576698,
+    "osm_id": 3967578956,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Vespaio",
+    "category": "restaurant",
+    "lat": 34.0538784,
+    "lon": -118.2507983,
+    "osm_id": 4003035765,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pour Haus",
+    "category": "restaurant",
+    "lat": 34.0356095,
+    "lon": -118.2337556,
+    "osm_id": 4026590720,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Daily Dose",
+    "category": "restaurant",
+    "lat": 34.0354538,
+    "lon": -118.2341331,
+    "osm_id": 4026590721,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Chairman",
+    "category": "restaurant",
+    "lat": 34.04158,
+    "lon": -118.2360817,
+    "osm_id": 4039425354,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Santee Court Market",
+    "category": "retail",
+    "lat": 34.0423945,
+    "lon": -118.2504777,
+    "osm_id": 4096326965,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Nick's Cafe",
+    "category": "restaurant",
+    "lat": 34.0660435,
+    "lon": -118.2331493,
+    "osm_id": 4096361913,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "No Ghost Bears",
+    "category": "restaurant",
+    "lat": 34.0414627,
+    "lon": -118.2513558,
+    "osm_id": 4096409095,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "TBLA Catering & Cafe",
+    "category": "restaurant",
+    "lat": 34.041763,
+    "lon": -118.2513203,
+    "osm_id": 4096413391,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Nabeeya",
+    "category": "restaurant",
+    "lat": 34.0415783,
+    "lon": -118.2511853,
+    "osm_id": 4096417421,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Guero's Cocina Mexicana",
+    "category": "restaurant",
+    "lat": 34.0426273,
+    "lon": -118.2515434,
+    "osm_id": 4096419473,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Wood Spoon",
+    "category": "restaurant",
+    "lat": 34.0418828,
+    "lon": -118.2551697,
+    "osm_id": 4096427424,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Peking Tavern",
+    "category": "restaurant",
+    "lat": 34.0428052,
+    "lon": -118.2536811,
+    "osm_id": 4096432294,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Terroni",
+    "category": "restaurant",
+    "lat": 34.0428852,
+    "lon": -118.2536127,
+    "osm_id": 4096433314,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Two Boots",
+    "category": "restaurant",
+    "lat": 34.0429796,
+    "lon": -118.2552247,
+    "osm_id": 4096433741,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Verve Coffee",
+    "category": "restaurant",
+    "lat": 34.0423785,
+    "lon": -118.2544884,
+    "osm_id": 4096433794,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Umami Burger",
+    "category": "restaurant",
+    "lat": 34.0424851,
+    "lon": -118.2556527,
+    "osm_id": 4096436797,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Masa of Echo Park",
+    "category": "restaurant",
+    "lat": 34.0776039,
+    "lon": -118.2596873,
+    "osm_id": 4098454491,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Brite Spot Diner",
+    "category": "restaurant",
+    "lat": 34.0777947,
+    "lon": -118.2613715,
+    "osm_id": 4098462580,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Papi's Pizza",
+    "category": "restaurant",
+    "lat": 34.042597,
+    "lon": -118.2528003,
+    "osm_id": 4098463766,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Biscuit and Bean",
+    "category": "restaurant",
+    "lat": 34.0797913,
+    "lon": -118.26918,
+    "osm_id": 4098487070,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "WOOD",
+    "category": "restaurant",
+    "lat": 34.0829122,
+    "lon": -118.2729844,
+    "osm_id": 4098494396,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Silverlake Ramen",
+    "category": "restaurant",
+    "lat": 34.083574,
+    "lon": -118.2736786,
+    "osm_id": 4098494398,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Margarita's Place",
+    "category": "restaurant",
+    "lat": 34.0439187,
+    "lon": -118.2511085,
+    "osm_id": 4098601256,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Nino Ferretti",
+    "category": "retail",
+    "lat": 34.0422233,
+    "lon": -118.2521533,
+    "osm_id": 4101041603,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Paolo Cellini",
+    "category": "retail",
+    "lat": 34.0423499,
+    "lon": -118.2519387,
+    "osm_id": 4101045061,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Italian Corner",
+    "category": "retail",
+    "lat": 34.0419077,
+    "lon": -118.2520621,
+    "osm_id": 4101049502,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sam's Leather",
+    "category": "retail",
+    "lat": 34.0419499,
+    "lon": -118.2520057,
+    "osm_id": 4101049906,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Suit Fellas",
+    "category": "retail",
+    "lat": 34.0420966,
+    "lon": -118.2517965,
+    "osm_id": 4101051550,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cafe Alba",
+    "category": "restaurant",
+    "lat": 34.0427344,
+    "lon": -118.250847,
+    "osm_id": 4101052388,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bronzed Aussie",
+    "category": "restaurant",
+    "lat": 34.0427433,
+    "lon": -118.2506164,
+    "osm_id": 4101058482,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Enerjuicer",
+    "category": "restaurant",
+    "lat": 34.0425611,
+    "lon": -118.2505869,
+    "osm_id": 4101060690,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pizza Hut",
+    "category": "restaurant",
+    "lat": 34.0425944,
+    "lon": -118.2506378,
+    "osm_id": 4101060691,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mexican Village",
+    "category": "restaurant",
+    "lat": 34.0761008,
+    "lon": -118.2884833,
+    "osm_id": 4113535400,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tacos Mexico",
+    "category": "restaurant",
+    "lat": 34.0761588,
+    "lon": -118.2881137,
+    "osm_id": 4113535401,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Don Felix",
+    "category": "restaurant",
+    "lat": 34.0765656,
+    "lon": -118.2872303,
+    "osm_id": 4113535402,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Clay Pit",
+    "category": "restaurant",
+    "lat": 34.0767342,
+    "lon": -118.2872352,
+    "osm_id": 4113535403,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "YuYu Hosiery",
+    "category": "retail",
+    "lat": 34.0440313,
+    "lon": -118.2483918,
+    "osm_id": 4116109560,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Yxta Cocina Mexicana",
+    "category": "restaurant",
+    "lat": 34.0391331,
+    "lon": -118.2405378,
+    "osm_id": 4116170713,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Angelina Hosiery",
+    "category": "retail",
+    "lat": 34.0275987,
+    "lon": -118.2394851,
+    "osm_id": 4116324537,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ai Hoa Supermarket",
+    "category": "grocery",
+    "lat": 34.0640481,
+    "lon": -118.2387185,
+    "osm_id": 4121132644,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Chinatown Pharmacy",
+    "category": "pharmacy",
+    "lat": 34.0611042,
+    "lon": -118.2406597,
+    "osm_id": 4121132645,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Columbus Pharmacy",
+    "category": "pharmacy",
+    "lat": 34.0639396,
+    "lon": -118.2377177,
+    "osm_id": 4121132647,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Domino's",
+    "category": "restaurant",
+    "lat": 34.0455522,
+    "lon": -118.256161,
+    "osm_id": 4121132649,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Gigo's Cafe & Deli",
+    "category": "restaurant",
+    "lat": 34.0638044,
+    "lon": -118.237754,
+    "osm_id": 4121132651,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hill Street Cafe",
+    "category": "restaurant",
+    "lat": 34.0632321,
+    "lon": -118.2390993,
+    "osm_id": 4121132654,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hong Kong BBQ",
+    "category": "restaurant",
+    "lat": 34.0626681,
+    "lon": -118.2383375,
+    "osm_id": 4121132655,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hop Woo BBQ & Seafood Restaurant",
+    "category": "restaurant",
+    "lat": 34.0636302,
+    "lon": -118.2378713,
+    "osm_id": 4121132656,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Yang Chow Restaurant",
+    "category": "restaurant",
+    "lat": 34.0628483,
+    "lon": -118.238292,
+    "osm_id": 4121132666,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Circle H Market",
+    "category": "retail",
+    "lat": 34.0799078,
+    "lon": -118.269345,
+    "osm_id": 4166608936,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cafe Tropical",
+    "category": "restaurant",
+    "lat": 34.0829003,
+    "lon": -118.2735534,
+    "osm_id": 4166608938,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bodega Park",
+    "category": "restaurant",
+    "lat": 34.0826175,
+    "lon": -118.273193,
+    "osm_id": 4166608942,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Brunch",
+    "category": "restaurant",
+    "lat": 34.0426934,
+    "lon": -118.2507778,
+    "osm_id": 4207303307,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sonoratown",
+    "category": "restaurant",
+    "lat": 34.0415628,
+    "lon": -118.2521722,
+    "osm_id": 4207350987,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Carmen's Snack Shop",
+    "category": "retail",
+    "lat": 34.0414745,
+    "lon": -118.2520905,
+    "osm_id": 4209682055,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Coffee House Donuts",
+    "category": "restaurant",
+    "lat": 34.0408704,
+    "lon": -118.2509484,
+    "osm_id": 4209682068,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "New Downtown Cafe & Market",
+    "category": "retail",
+    "lat": 34.0426195,
+    "lon": -118.2492412,
+    "osm_id": 4209682192,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "New York Town",
+    "category": "retail",
+    "lat": 34.0432587,
+    "lon": -118.2506785,
+    "osm_id": 4209682199,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Marcel's",
+    "category": "retail",
+    "lat": 34.0431819,
+    "lon": -118.2507913,
+    "osm_id": 4209682200,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Silk & Leather Collection",
+    "category": "retail",
+    "lat": 34.0431667,
+    "lon": -118.2508401,
+    "osm_id": 4209697717,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Suit 4 Less",
+    "category": "retail",
+    "lat": 34.0431289,
+    "lon": -118.2508749,
+    "osm_id": 4209697718,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Henry Duarte",
+    "category": "retail",
+    "lat": 34.0430044,
+    "lon": -118.251052,
+    "osm_id": 4209706148,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "New Warehouse",
+    "category": "retail",
+    "lat": 34.0429577,
+    "lon": -118.2511056,
+    "osm_id": 4209706149,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Flagship",
+    "category": "retail",
+    "lat": 34.0428844,
+    "lon": -118.2511968,
+    "osm_id": 4209706150,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "J. Valintin",
+    "category": "retail",
+    "lat": 34.0428666,
+    "lon": -118.2512478,
+    "osm_id": 4209706151,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rogert Stuart Clothes, Inc.",
+    "category": "retail",
+    "lat": 34.0427488,
+    "lon": -118.2514006,
+    "osm_id": 4209706152,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Numero Uno Markets",
+    "category": "grocery",
+    "lat": 34.04638,
+    "lon": -118.2836939,
+    "osm_id": 4250315820,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Langer's",
+    "category": "restaurant",
+    "lat": 34.0562589,
+    "lon": -118.2767722,
+    "osm_id": 4259783966,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Se\u00f1or Fish",
+    "category": "restaurant",
+    "lat": 34.0514186,
+    "lon": -118.2444294,
+    "osm_id": 4268640804,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Marukai Market",
+    "category": "grocery",
+    "lat": 34.0502168,
+    "lon": -118.24229,
+    "osm_id": 4269938708,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Little Tokyo Market Place",
+    "category": "grocery",
+    "lat": 34.0448135,
+    "lon": -118.2388853,
+    "osm_id": 4269938709,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Yong Su San Restaurant",
+    "category": "restaurant",
+    "lat": 34.0538538,
+    "lon": -118.2913537,
+    "osm_id": 4269959251,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Taco House #1",
+    "category": "restaurant",
+    "lat": 34.0505199,
+    "lon": -118.2499494,
+    "osm_id": 4271070596,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Art and Fish",
+    "category": "restaurant",
+    "lat": 34.0397923,
+    "lon": -118.2324348,
+    "osm_id": 4275158266,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Otium",
+    "category": "restaurant",
+    "lat": 34.0544145,
+    "lon": -118.251268,
+    "osm_id": 4281235623,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "California Pizza Kitchen",
+    "category": "restaurant",
+    "lat": 34.0524845,
+    "lon": -118.252371,
+    "osm_id": 4281238082,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Target",
+    "category": "retail",
+    "lat": 34.0491424,
+    "lon": -118.261357,
+    "osm_id": 4286972965,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Morton's The Steakhouse",
+    "category": "restaurant",
+    "lat": 34.049142,
+    "lon": -118.2605672,
+    "osm_id": 4286972968,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Foo Chow Restaurant",
+    "category": "restaurant",
+    "lat": 34.0658846,
+    "lon": -118.2382005,
+    "osm_id": 4294018639,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Denny's",
+    "category": "restaurant",
+    "lat": 34.0473363,
+    "lon": -118.2614835,
+    "osm_id": 4325259890,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "L.A Donuts & Croissant",
+    "category": "restaurant",
+    "lat": 34.0725731,
+    "lon": -118.2912889,
+    "osm_id": 4329836756,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Alfred Coffee Silverlake",
+    "category": "restaurant",
+    "lat": 34.0875364,
+    "lon": -118.2756297,
+    "osm_id": 4351430423,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Burgerlords",
+    "category": "restaurant",
+    "lat": 34.0652695,
+    "lon": -118.237203,
+    "osm_id": 4358370089,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Stumptown Coffee Roasters",
+    "category": "restaurant",
+    "lat": 34.0332312,
+    "lon": -118.229862,
+    "osm_id": 4361590800,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Food 4 Less",
+    "category": "grocery",
+    "lat": 34.0571794,
+    "lon": -118.2706167,
+    "osm_id": 4399334440,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "71Above",
+    "category": "restaurant",
+    "lat": 34.0511544,
+    "lon": -118.2545533,
+    "osm_id": 4465168798,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Elf Caf\u00e9",
+    "category": "restaurant",
+    "lat": 34.0775801,
+    "lon": -118.2646234,
+    "osm_id": 4566480465,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Macy's",
+    "category": "retail",
+    "lat": 34.0473538,
+    "lon": -118.2591719,
+    "osm_id": 4575731358,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Honey Hi",
+    "category": "restaurant",
+    "lat": 34.0768865,
+    "lon": -118.2580612,
+    "osm_id": 4584804826,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Perch",
+    "category": "restaurant",
+    "lat": 34.0489443,
+    "lon": -118.2513974,
+    "osm_id": 4624144790,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "KoBaWoo Restaurant",
+    "category": "restaurant",
+    "lat": 34.0600337,
+    "lon": -118.2909312,
+    "osm_id": 4679024595,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Nick & Stef's Steakhouse",
+    "category": "restaurant",
+    "lat": 34.0527336,
+    "lon": -118.2527685,
+    "osm_id": 4718706690,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Uncle John's Cafe",
+    "category": "restaurant",
+    "lat": 34.0449937,
+    "lon": -118.2563965,
+    "osm_id": 4718728689,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jeon Ju",
+    "category": "restaurant",
+    "lat": 34.0524141,
+    "lon": -118.2922306,
+    "osm_id": 4867570924,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Smart & Final",
+    "category": "grocery",
+    "lat": 34.0473388,
+    "lon": -118.262109,
+    "osm_id": 4879577302,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "6th Street Market",
+    "category": "retail",
+    "lat": 34.0461557,
+    "lon": -118.2514782,
+    "osm_id": 4885688168,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "D-Town Burger Bar",
+    "category": "restaurant",
+    "lat": 34.0461935,
+    "lon": -118.2515346,
+    "osm_id": 4885688169,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Springtime in New York Cafe",
+    "category": "restaurant",
+    "lat": 34.0461288,
+    "lon": -118.2509892,
+    "osm_id": 4885688171,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Little Jewel of New Orleans",
+    "category": "restaurant",
+    "lat": 34.0600861,
+    "lon": -118.2381942,
+    "osm_id": 4908362224,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Five Guys",
+    "category": "restaurant",
+    "lat": 34.0270769,
+    "lon": -118.2763462,
+    "osm_id": 4927493958,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Karl Strauss Brewing Company",
+    "category": "restaurant",
+    "lat": 34.0479408,
+    "lon": -118.2563218,
+    "osm_id": 4944285614,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Las Anitas",
+    "category": "restaurant",
+    "lat": 34.0580315,
+    "lon": -118.2375745,
+    "osm_id": 4946245021,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Juanita's Cafe",
+    "category": "restaurant",
+    "lat": 34.0578585,
+    "lon": -118.2375085,
+    "osm_id": 4946281521,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Paseo Inn",
+    "category": "restaurant",
+    "lat": 34.057491,
+    "lon": -118.2377698,
+    "osm_id": 4946281522,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Rancho Grande",
+    "category": "restaurant",
+    "lat": 34.0577723,
+    "lon": -118.237576,
+    "osm_id": 4946281621,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "La Golondrina Cafe",
+    "category": "restaurant",
+    "lat": 34.0576965,
+    "lon": -118.2379377,
+    "osm_id": 4946281721,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "La Noche Buena",
+    "category": "restaurant",
+    "lat": 34.0571606,
+    "lon": -118.238164,
+    "osm_id": 4946290521,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sushi & Teri",
+    "category": "restaurant",
+    "lat": 34.0488947,
+    "lon": -118.2399887,
+    "osm_id": 4946311822,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mitsuru Cafe",
+    "category": "restaurant",
+    "lat": 34.0489945,
+    "lon": -118.2400734,
+    "osm_id": 4946311922,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Maruya",
+    "category": "restaurant",
+    "lat": 34.0490982,
+    "lon": -118.239781,
+    "osm_id": 4946318821,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Nijiya Market",
+    "category": "grocery",
+    "lat": 34.0487979,
+    "lon": -118.2401698,
+    "osm_id": 4946318822,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hibachi BBQ",
+    "category": "restaurant",
+    "lat": 34.0490768,
+    "lon": -118.2405573,
+    "osm_id": 4946398335,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Shabu-Shabu House",
+    "category": "restaurant",
+    "lat": 34.0490031,
+    "lon": -118.2403421,
+    "osm_id": 4946398336,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kagura Downtown",
+    "category": "restaurant",
+    "lat": 34.048922,
+    "lon": -118.2405996,
+    "osm_id": 4946398337,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tilt Coffee Bar",
+    "category": "restaurant",
+    "lat": 34.0481785,
+    "lon": -118.2463485,
+    "osm_id": 4984040951,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Factory Kitchen",
+    "category": "restaurant",
+    "lat": 34.0390371,
+    "lon": -118.2359501,
+    "osm_id": 5029780922,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pitchoun",
+    "category": "restaurant",
+    "lat": 34.0485232,
+    "lon": -118.2540562,
+    "osm_id": 5032246023,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Redbird LA",
+    "category": "restaurant",
+    "lat": 34.0505683,
+    "lon": -118.244045,
+    "osm_id": 5106524282,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cafe Dulce",
+    "category": "restaurant",
+    "lat": 34.0488472,
+    "lon": -118.2404483,
+    "osm_id": 5106542232,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pacific Restaurant",
+    "category": "restaurant",
+    "lat": 34.0638399,
+    "lon": -118.237717,
+    "osm_id": 5111888223,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Caffe Bene",
+    "category": "restaurant",
+    "lat": 34.061971,
+    "lon": -118.2939669,
+    "osm_id": 5112100831,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Holy Crab",
+    "category": "restaurant",
+    "lat": 34.0616212,
+    "lon": -118.2934149,
+    "osm_id": 5112204727,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Metro Fresh",
+    "category": "retail",
+    "lat": 34.0626745,
+    "lon": -118.2909789,
+    "osm_id": 5116063525,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Shiloh",
+    "category": "retail",
+    "lat": 34.0623609,
+    "lon": -118.2912992,
+    "osm_id": 5116063526,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Wheelhouse",
+    "category": "restaurant",
+    "lat": 34.0387977,
+    "lon": -118.2339418,
+    "osm_id": 5127650276,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "New Kamara Restaurant",
+    "category": "restaurant",
+    "lat": 34.0610067,
+    "lon": -118.2409172,
+    "osm_id": 5184539860,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Everybody's Kitchen",
+    "category": "restaurant",
+    "lat": 34.021383,
+    "lon": -118.2821139,
+    "osm_id": 5231970324,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Trader Joe's",
+    "category": "grocery",
+    "lat": 34.0257159,
+    "lon": -118.2848075,
+    "osm_id": 5237417649,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "SunLife Organics",
+    "category": "restaurant",
+    "lat": 34.0249245,
+    "lon": -118.2851337,
+    "osm_id": 5237417652,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "CAVA",
+    "category": "restaurant",
+    "lat": 34.0250185,
+    "lon": -118.2844838,
+    "osm_id": 5237417654,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Civilization Cafe",
+    "category": "restaurant",
+    "lat": 34.0525231,
+    "lon": -118.2470955,
+    "osm_id": 5251330563,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Il Giardino",
+    "category": "restaurant",
+    "lat": 34.0251948,
+    "lon": -118.2843417,
+    "osm_id": 5261316289,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sage Vegan Bistro",
+    "category": "restaurant",
+    "lat": 34.0771298,
+    "lon": -118.25863,
+    "osm_id": 5272870326,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Dog Cafe",
+    "category": "restaurant",
+    "lat": 34.0760109,
+    "lon": -118.2862985,
+    "osm_id": 5278630121,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mariscos Jalisco Food Truck",
+    "category": "restaurant",
+    "lat": 34.0211071,
+    "lon": -118.2128274,
+    "osm_id": 5287806626,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "LudoBird",
+    "category": "restaurant",
+    "lat": 34.0430445,
+    "lon": -118.2678206,
+    "osm_id": 5287806628,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Greekman's",
+    "category": "restaurant",
+    "lat": 34.0805591,
+    "lon": -118.269801,
+    "osm_id": 5309210186,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "fundamental",
+    "category": "restaurant",
+    "lat": 34.0466095,
+    "lon": -118.2569522,
+    "osm_id": 5309210204,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Caf\u00e9 Tondo",
+    "category": "restaurant",
+    "lat": 34.062678,
+    "lon": -118.236338,
+    "osm_id": 5309211709,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rossoblu",
+    "category": "restaurant",
+    "lat": 34.0349774,
+    "lon": -118.2536312,
+    "osm_id": 5309228560,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bridge & Burn DTLA",
+    "category": "retail",
+    "lat": 34.035709,
+    "lon": -118.240745,
+    "osm_id": 5309679953,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Phoenix Bakery",
+    "category": "restaurant",
+    "lat": 34.0659484,
+    "lon": -118.236662,
+    "osm_id": 5322500507,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hop Louies",
+    "category": "restaurant",
+    "lat": 34.0654095,
+    "lon": -118.2377452,
+    "osm_id": 5322500508,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Broadway Cuisine",
+    "category": "restaurant",
+    "lat": 34.064423,
+    "lon": -118.23747,
+    "osm_id": 5322526878,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "B Twentyfour",
+    "category": "restaurant",
+    "lat": 34.0738193,
+    "lon": -118.2171253,
+    "osm_id": 5333868761,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Maple Block Meat Co.",
+    "category": "restaurant",
+    "lat": 34.0508455,
+    "lon": -118.249442,
+    "osm_id": 5335300438,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pok\u00e9 Bar",
+    "category": "restaurant",
+    "lat": 34.0521739,
+    "lon": -118.2516405,
+    "osm_id": 5335740033,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Asiago",
+    "category": "restaurant",
+    "lat": 34.0521128,
+    "lon": -118.2512885,
+    "osm_id": 5335740034,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Georges Greek Grill",
+    "category": "restaurant",
+    "lat": 34.0521272,
+    "lon": -118.2515667,
+    "osm_id": 5335740035,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Earl of Sandwich",
+    "category": "restaurant",
+    "lat": 34.0520752,
+    "lon": -118.25147,
+    "osm_id": 5335740036,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mixt",
+    "category": "restaurant",
+    "lat": 34.0520227,
+    "lon": -118.2513723,
+    "osm_id": 5335740037,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pressed Juicery",
+    "category": "restaurant",
+    "lat": 34.0522027,
+    "lon": -118.251204,
+    "osm_id": 5335740038,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Barista Society",
+    "category": "restaurant",
+    "lat": 34.0524428,
+    "lon": -118.2510799,
+    "osm_id": 5335740040,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Beyond",
+    "category": "retail",
+    "lat": 34.0523761,
+    "lon": -118.2508989,
+    "osm_id": 5335740042,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Dans Deli",
+    "category": "restaurant",
+    "lat": 34.0525016,
+    "lon": -118.251033,
+    "osm_id": 5335740043,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Salata",
+    "category": "restaurant",
+    "lat": 34.0525796,
+    "lon": -118.2509571,
+    "osm_id": 5335740044,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Safron",
+    "category": "restaurant",
+    "lat": 34.0528772,
+    "lon": -118.2507044,
+    "osm_id": 5335740046,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Firenza Pizza",
+    "category": "restaurant",
+    "lat": 34.0526172,
+    "lon": -118.2510853,
+    "osm_id": 5335740048,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Speciality's",
+    "category": "restaurant",
+    "lat": 34.0515586,
+    "lon": -118.2532114,
+    "osm_id": 5338487696,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pez Cantina",
+    "category": "restaurant",
+    "lat": 34.0514794,
+    "lon": -118.253287,
+    "osm_id": 5338488655,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sweetgreen",
+    "category": "restaurant",
+    "lat": 34.0505562,
+    "lon": -118.254112,
+    "osm_id": 5338488657,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Peet's Coffee",
+    "category": "restaurant",
+    "lat": 34.0515945,
+    "lon": -118.2531755,
+    "osm_id": 5338488948,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Yuko Soup Bar",
+    "category": "restaurant",
+    "lat": 34.0470497,
+    "lon": -118.2488638,
+    "osm_id": 5338488952,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "LiOrient",
+    "category": "restaurant",
+    "lat": 34.0512974,
+    "lon": -118.2544323,
+    "osm_id": 5338489421,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Casa Impanema",
+    "category": "restaurant",
+    "lat": 34.0494205,
+    "lon": -118.253165,
+    "osm_id": 5338489422,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Yuko Kitchen",
+    "category": "restaurant",
+    "lat": 34.0469025,
+    "lon": -118.2485995,
+    "osm_id": 5338489423,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Yuk Dae Jang",
+    "category": "restaurant",
+    "lat": 34.0640314,
+    "lon": -118.287979,
+    "osm_id": 5405879621,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pizzanista",
+    "category": "restaurant",
+    "lat": 34.0347584,
+    "lon": -118.231622,
+    "osm_id": 5436601522,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Flame Broiler",
+    "category": "restaurant",
+    "lat": 34.0490847,
+    "lon": -118.25863,
+    "osm_id": 5444241178,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Z's Crazy Good",
+    "category": "restaurant",
+    "lat": 34.0519629,
+    "lon": -118.2542906,
+    "osm_id": 5448504144,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Night + Market Song",
+    "category": "restaurant",
+    "lat": 34.0869177,
+    "lon": -118.2758427,
+    "osm_id": 5452923735,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ali Mama Cafe",
+    "category": "restaurant",
+    "lat": 34.0863357,
+    "lon": -118.27504,
+    "osm_id": 5452950209,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Osen Izakaya",
+    "category": "restaurant",
+    "lat": 34.0832141,
+    "lon": -118.2731276,
+    "osm_id": 5465474717,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pho Cafe",
+    "category": "restaurant",
+    "lat": 34.0826521,
+    "lon": -118.27231,
+    "osm_id": 5465480293,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mae Ploy Restaurant",
+    "category": "restaurant",
+    "lat": 34.0799835,
+    "lon": -118.2701107,
+    "osm_id": 5465486705,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Marielas Taco",
+    "category": "restaurant",
+    "lat": 34.0799702,
+    "lon": -118.2690003,
+    "osm_id": 5465490961,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "King Bowl - Best Chinese Food",
+    "category": "restaurant",
+    "lat": 34.0779418,
+    "lon": -118.2664898,
+    "osm_id": 5465494845,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mohawk Bend",
+    "category": "restaurant",
+    "lat": 34.0776375,
+    "lon": -118.264808,
+    "osm_id": 5465500821,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sweetfin Pok\u00e9",
+    "category": "restaurant",
+    "lat": 34.0846896,
+    "lon": -118.2747103,
+    "osm_id": 5465591752,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Super",
+    "category": "grocery",
+    "lat": 34.0412733,
+    "lon": -118.1917986,
+    "osm_id": 5511141558,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kobunga Korean Grill",
+    "category": "restaurant",
+    "lat": 34.0250482,
+    "lon": -118.2853951,
+    "osm_id": 5567727178,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mr. Masala",
+    "category": "restaurant",
+    "lat": 34.0452619,
+    "lon": -118.263946,
+    "osm_id": 5567738314,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Qwench",
+    "category": "restaurant",
+    "lat": 34.0458515,
+    "lon": -118.261243,
+    "osm_id": 5567742821,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "La Guadalupana",
+    "category": "restaurant",
+    "lat": 34.0562928,
+    "lon": -118.2678539,
+    "osm_id": 5570313718,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Atitlan Express",
+    "category": "restaurant",
+    "lat": 34.0571365,
+    "lon": -118.269875,
+    "osm_id": 5570328484,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Cholo",
+    "category": "restaurant",
+    "lat": 34.0436045,
+    "lon": -118.2638492,
+    "osm_id": 5571198100,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Grocery Outlet",
+    "category": "grocery",
+    "lat": 34.0539643,
+    "lon": -118.2624455,
+    "osm_id": 5572520605,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Callejon All Star",
+    "category": "retail",
+    "lat": 34.037208,
+    "lon": -118.2554975,
+    "osm_id": 5693843869,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "California Family Pharmacy",
+    "category": "pharmacy",
+    "lat": 34.0343092,
+    "lon": -118.2644923,
+    "osm_id": 5695183056,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Thanh's Pharmacy",
+    "category": "pharmacy",
+    "lat": 34.0584394,
+    "lon": -118.2388812,
+    "osm_id": 5695239155,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Family's Market",
+    "category": "retail",
+    "lat": 34.0585105,
+    "lon": -118.2390153,
+    "osm_id": 5695239157,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tierra Mia Coffee",
+    "category": "restaurant",
+    "lat": 34.0448814,
+    "lon": -118.2521869,
+    "osm_id": 5695373441,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ching Hai",
+    "category": "restaurant",
+    "lat": 34.0447467,
+    "lon": -118.2913399,
+    "osm_id": 5695415786,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "L.A. Donuts",
+    "category": "restaurant",
+    "lat": 34.04475,
+    "lon": -118.2913962,
+    "osm_id": 5695415787,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Full House Seafood",
+    "category": "restaurant",
+    "lat": 34.0662177,
+    "lon": -118.238023,
+    "osm_id": 5706660729,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Smart & Final Extra!",
+    "category": "grocery",
+    "lat": 34.0755345,
+    "lon": -118.216565,
+    "osm_id": 5707510736,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Shake Shack",
+    "category": "restaurant",
+    "lat": 34.0444877,
+    "lon": -118.2560652,
+    "osm_id": 5707588917,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Full Moon House",
+    "category": "restaurant",
+    "lat": 34.0660777,
+    "lon": -118.2376689,
+    "osm_id": 5712856938,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "MedMen Los Angeles - Downtown (DTLA)",
+    "category": "pharmacy",
+    "lat": 34.04451,
+    "lon": -118.2542998,
+    "osm_id": 5738135843,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Urban Outfitters",
+    "category": "retail",
+    "lat": 34.0434469,
+    "lon": -118.254754,
+    "osm_id": 5744419321,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Wild Living Foods",
+    "category": "restaurant",
+    "lat": 34.0427245,
+    "lon": -118.2529318,
+    "osm_id": 5745696821,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pho 87",
+    "category": "restaurant",
+    "lat": 34.06734,
+    "lon": -118.2356553,
+    "osm_id": 5788616785,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Eggslut",
+    "category": "restaurant",
+    "lat": 34.0506567,
+    "lon": -118.2485745,
+    "osm_id": 5860077085,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sticky Rice",
+    "category": "restaurant",
+    "lat": 34.0778588,
+    "lon": -118.2594188,
+    "osm_id": 5862944051,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Colori Kitchen",
+    "category": "restaurant",
+    "lat": 34.0451038,
+    "lon": -118.2565154,
+    "osm_id": 5893930485,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pho Legend Noodle and Grill",
+    "category": "restaurant",
+    "lat": 34.0702544,
+    "lon": -118.2921322,
+    "osm_id": 5908799143,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bavel",
+    "category": "restaurant",
+    "lat": 34.0414422,
+    "lon": -118.2327188,
+    "osm_id": 5953394925,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Thai",
+    "category": "restaurant",
+    "lat": 34.0585572,
+    "lon": -118.2388291,
+    "osm_id": 6019708047,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cal Mart Beer & Wine Food Store",
+    "category": "grocery",
+    "lat": 34.0251267,
+    "lon": -118.2787842,
+    "osm_id": 6045067406,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kaitlyn",
+    "category": "retail",
+    "lat": 34.0245381,
+    "lon": -118.2845934,
+    "osm_id": 6047198321,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lasita",
+    "category": "restaurant",
+    "lat": 34.0615189,
+    "lon": -118.2394727,
+    "osm_id": 6094103390,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Howlin' Ray's",
+    "category": "restaurant",
+    "lat": 34.0615478,
+    "lon": -118.2397115,
+    "osm_id": 6094115933,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "it's boba time",
+    "category": "restaurant",
+    "lat": 34.0596168,
+    "lon": -118.2921179,
+    "osm_id": 6114613466,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Borrego De Oro Restaurant",
+    "category": "restaurant",
+    "lat": 34.0346181,
+    "lon": -118.2152233,
+    "osm_id": 6142580758,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lucy's bakery",
+    "category": "restaurant",
+    "lat": 34.039825,
+    "lon": -118.2849355,
+    "osm_id": 6216810098,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Simone",
+    "category": "restaurant",
+    "lat": 34.0424844,
+    "lon": -118.2355082,
+    "osm_id": 6260947295,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "United Oil",
+    "category": "gas",
+    "lat": 34.0755597,
+    "lon": -118.2539887,
+    "osm_id": 6278505019,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Border Grill",
+    "category": "restaurant",
+    "lat": 34.0526411,
+    "lon": -118.2572234,
+    "osm_id": 6305143257,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Papa John's",
+    "category": "restaurant",
+    "lat": 34.0609058,
+    "lon": -118.2439123,
+    "osm_id": 6353438296,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ham Ji Park",
+    "category": "restaurant",
+    "lat": 34.0637147,
+    "lon": -118.295936,
+    "osm_id": 6450245111,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Smashburger",
+    "category": "restaurant",
+    "lat": 34.0442572,
+    "lon": -118.2655494,
+    "osm_id": 6466088480,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Chick-fil-A",
+    "category": "restaurant",
+    "lat": 34.0493492,
+    "lon": -118.259506,
+    "osm_id": 6466088946,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "H&M",
+    "category": "retail",
+    "lat": 34.0491019,
+    "lon": -118.2610292,
+    "osm_id": 6466968651,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bestia",
+    "category": "restaurant",
+    "lat": 34.0337058,
+    "lon": -118.2292076,
+    "osm_id": 6478721824,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "ediBOL",
+    "category": "restaurant",
+    "lat": 34.0447645,
+    "lon": -118.2325765,
+    "osm_id": 6478721827,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Eat Drink Americano",
+    "category": "restaurant",
+    "lat": 34.0461168,
+    "lon": -118.2342226,
+    "osm_id": 6478721828,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "INKO NITO - Downtown",
+    "category": "restaurant",
+    "lat": 34.0464102,
+    "lon": -118.2352472,
+    "osm_id": 6478721829,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Manuela",
+    "category": "restaurant",
+    "lat": 34.0463802,
+    "lon": -118.2351036,
+    "osm_id": 6478733115,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "BRERA Ristorante",
+    "category": "restaurant",
+    "lat": 34.0383024,
+    "lon": -118.234763,
+    "osm_id": 6478733116,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Poppy + Rose",
+    "category": "restaurant",
+    "lat": 34.0406406,
+    "lon": -118.2500462,
+    "osm_id": 6478808341,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Le Grand",
+    "category": "restaurant",
+    "lat": 34.0472147,
+    "lon": -118.2569556,
+    "osm_id": 6478808342,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Zinque",
+    "category": "restaurant",
+    "lat": 34.0415763,
+    "lon": -118.25702,
+    "osm_id": 6478808343,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "WP24 by Wolfgang Puck",
+    "category": "restaurant",
+    "lat": 34.0453945,
+    "lon": -118.2666759,
+    "osm_id": 6478808344,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tokyo Fried Chicken",
+    "category": "restaurant",
+    "lat": 34.0450878,
+    "lon": -118.2571353,
+    "osm_id": 6478808345,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Duello",
+    "category": "restaurant",
+    "lat": 34.0421552,
+    "lon": -118.2353397,
+    "osm_id": 6479011116,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tender Greens",
+    "category": "restaurant",
+    "lat": 34.0483437,
+    "lon": -118.254378,
+    "osm_id": 6479011117,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Manufactory",
+    "category": "restaurant",
+    "lat": 34.0347485,
+    "lon": -118.2398713,
+    "osm_id": 6479011118,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Broken Spanish",
+    "category": "restaurant",
+    "lat": 34.0433098,
+    "lon": -118.2635404,
+    "osm_id": 6479011119,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Water Grill",
+    "category": "restaurant",
+    "lat": 34.0491382,
+    "lon": -118.254632,
+    "osm_id": 6479011120,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Maru Coffee",
+    "category": "restaurant",
+    "lat": 34.0309499,
+    "lon": -118.2301459,
+    "osm_id": 6479109314,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Exchange",
+    "category": "restaurant",
+    "lat": 34.0449405,
+    "lon": -118.2567858,
+    "osm_id": 6479139840,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Orsa & Winston",
+    "category": "restaurant",
+    "lat": 34.0484337,
+    "lon": -118.2479229,
+    "osm_id": 6479139841,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Dune Downtown",
+    "category": "restaurant",
+    "lat": 34.0407572,
+    "lon": -118.2568198,
+    "osm_id": 6479139842,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Faith & Flower",
+    "category": "restaurant",
+    "lat": 34.046029,
+    "lon": -118.2615244,
+    "osm_id": 6479139843,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Dover Street Market",
+    "category": "retail",
+    "lat": 34.0376966,
+    "lon": -118.231418,
+    "osm_id": 6481230653,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The House of Machines",
+    "category": "restaurant",
+    "lat": 34.0344079,
+    "lon": -118.2313932,
+    "osm_id": 6481705988,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Spirit Guild",
+    "category": "restaurant",
+    "lat": 34.0388894,
+    "lon": -118.2325814,
+    "osm_id": 6481705989,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Blu Jam Cafe",
+    "category": "restaurant",
+    "lat": 34.0467022,
+    "lon": -118.2509988,
+    "osm_id": 6481705990,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Orochon Ramen",
+    "category": "restaurant",
+    "lat": 34.0498425,
+    "lon": -118.2423394,
+    "osm_id": 6481705991,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Marugame Monzo",
+    "category": "restaurant",
+    "lat": 34.0499386,
+    "lon": -118.240027,
+    "osm_id": 6481712720,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Guerrilla Tacos",
+    "category": "restaurant",
+    "lat": 34.0344189,
+    "lon": -118.2321198,
+    "osm_id": 6481712722,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tony's Saloon",
+    "category": "restaurant",
+    "lat": 34.0347168,
+    "lon": -118.2316584,
+    "osm_id": 6481712723,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "BROKEN MOUTH",
+    "category": "restaurant",
+    "lat": 34.0402306,
+    "lon": -118.2533181,
+    "osm_id": 6481712724,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Burrow",
+    "category": "restaurant",
+    "lat": 34.046902,
+    "lon": -118.2606777,
+    "osm_id": 6481719096,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Little Sister",
+    "category": "restaurant",
+    "lat": 34.0471231,
+    "lon": -118.256087,
+    "osm_id": 6481719097,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Prank",
+    "category": "restaurant",
+    "lat": 34.042022,
+    "lon": -118.2630157,
+    "osm_id": 6481748130,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Upstairs at Ace Hotel",
+    "category": "restaurant",
+    "lat": 34.0417905,
+    "lon": -118.2568638,
+    "osm_id": 6483334935,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Stocking Frame",
+    "category": "restaurant",
+    "lat": 34.0427729,
+    "lon": -118.2575988,
+    "osm_id": 6483335418,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Varnish",
+    "category": "restaurant",
+    "lat": 34.0446502,
+    "lon": -118.2493012,
+    "osm_id": 6483338198,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Le Petit Paris",
+    "category": "restaurant",
+    "lat": 34.04835,
+    "lon": -118.2485614,
+    "osm_id": 6483338537,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bunker Hill Bar and Grill",
+    "category": "restaurant",
+    "lat": 34.0508287,
+    "lon": -118.2538557,
+    "osm_id": 6483340746,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bar and Kitchen",
+    "category": "restaurant",
+    "lat": 34.0469713,
+    "lon": -118.2607735,
+    "osm_id": 6483341598,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bonaventure Brewing Company",
+    "category": "restaurant",
+    "lat": 34.0523949,
+    "lon": -118.2560953,
+    "osm_id": 6483344868,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Wolves",
+    "category": "restaurant",
+    "lat": 34.0469785,
+    "lon": -118.2502372,
+    "osm_id": 6483346476,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Philz Coffee",
+    "category": "restaurant",
+    "lat": 34.0465349,
+    "lon": -118.259349,
+    "osm_id": 6486074594,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Groundwork Coffee Co.",
+    "category": "restaurant",
+    "lat": 34.045157,
+    "lon": -118.2354615,
+    "osm_id": 6486092055,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Il Caffe",
+    "category": "restaurant",
+    "lat": 34.0425422,
+    "lon": -118.2561046,
+    "osm_id": 6486148023,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "COS",
+    "category": "retail",
+    "lat": 34.0442778,
+    "lon": -118.2552169,
+    "osm_id": 6486172727,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Gentle Monster",
+    "category": "retail",
+    "lat": 34.0433777,
+    "lon": -118.2548629,
+    "osm_id": 6486177531,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jordan Flagship Store",
+    "category": "retail",
+    "lat": 34.0461402,
+    "lon": -118.252296,
+    "osm_id": 6486190597,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mikkeller Room",
+    "category": "restaurant",
+    "lat": 34.0420434,
+    "lon": -118.2595011,
+    "osm_id": 6486195541,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Modern Times Dankness Dojo",
+    "category": "restaurant",
+    "lat": 34.0443038,
+    "lon": -118.2574116,
+    "osm_id": 6486195542,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Las Perlas",
+    "category": "restaurant",
+    "lat": 34.045055,
+    "lon": -118.2494079,
+    "osm_id": 6486195543,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "sixth+mill pizzeria and bar",
+    "category": "restaurant",
+    "lat": 34.0383228,
+    "lon": -118.2348247,
+    "osm_id": 6488887069,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sushi Gen",
+    "category": "restaurant",
+    "lat": 34.0467296,
+    "lon": -118.2387113,
+    "osm_id": 6488887072,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Prime Pizza",
+    "category": "restaurant",
+    "lat": 34.0481744,
+    "lon": -118.2394855,
+    "osm_id": 6488900646,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Little Bear",
+    "category": "restaurant",
+    "lat": 34.0359445,
+    "lon": -118.2327755,
+    "osm_id": 6488926472,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "RVCC Intersect",
+    "category": "restaurant",
+    "lat": 34.0294466,
+    "lon": -118.2296346,
+    "osm_id": 6535431785,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Church & State",
+    "category": "restaurant",
+    "lat": 34.03557,
+    "lon": -118.2327238,
+    "osm_id": 6548318066,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Yangban Society",
+    "category": "restaurant",
+    "lat": 34.0339918,
+    "lon": -118.2297975,
+    "osm_id": 6548318067,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bird's Nest Cafe - Adams Normandie",
+    "category": "restaurant",
+    "lat": 34.0343189,
+    "lon": -118.2917871,
+    "osm_id": 6549779198,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Wax Paper",
+    "category": "restaurant",
+    "lat": 34.0613193,
+    "lon": -118.2385512,
+    "osm_id": 6550176985,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Takami Sushi & Robata",
+    "category": "restaurant",
+    "lat": 34.0497826,
+    "lon": -118.2582443,
+    "osm_id": 6622905760,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tacos Ariza",
+    "category": "restaurant",
+    "lat": 34.0774979,
+    "lon": -118.2581951,
+    "osm_id": 6635930985,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "85\u00b0C Bakery Cafe",
+    "category": "restaurant",
+    "lat": 34.0486429,
+    "lon": -118.2573477,
+    "osm_id": 6641685492,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tsubaki",
+    "category": "restaurant",
+    "lat": 34.0728588,
+    "lon": -118.2515641,
+    "osm_id": 6724026985,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ramen KenJo",
+    "category": "restaurant",
+    "lat": 34.0249645,
+    "lon": -118.285207,
+    "osm_id": 6813379473,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Homeboy Diner",
+    "category": "restaurant",
+    "lat": 34.0536737,
+    "lon": -118.2430291,
+    "osm_id": 6818222557,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Majordomo",
+    "category": "restaurant",
+    "lat": 34.0690965,
+    "lon": -118.2261527,
+    "osm_id": 6835891609,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "First Draft Taproom & Kitchen",
+    "category": "restaurant",
+    "lat": 34.0384342,
+    "lon": -118.2629339,
+    "osm_id": 6835921894,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sweet illusion",
+    "category": "retail",
+    "lat": 34.0337521,
+    "lon": -118.2536718,
+    "osm_id": 6925536344,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jostar",
+    "category": "retail",
+    "lat": 34.0335344,
+    "lon": -118.2536735,
+    "osm_id": 6925536345,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pampanga Grille",
+    "category": "restaurant",
+    "lat": 34.0695035,
+    "lon": -118.2920447,
+    "osm_id": 7021856688,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Joey",
+    "category": "restaurant",
+    "lat": 34.0480189,
+    "lon": -118.258097,
+    "osm_id": 7100678585,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Shabuya",
+    "category": "restaurant",
+    "lat": 34.0513293,
+    "lon": -118.2782147,
+    "osm_id": 7108100485,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Best Girl Coffee Counter",
+    "category": "restaurant",
+    "lat": 34.0418588,
+    "lon": -118.2567916,
+    "osm_id": 7152018920,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cafe Dulce Dos",
+    "category": "restaurant",
+    "lat": 34.0336253,
+    "lon": -118.2413866,
+    "osm_id": 7155103307,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cafe Integral at Freehand Los Angeles",
+    "category": "restaurant",
+    "lat": 34.0449153,
+    "lon": -118.2567395,
+    "osm_id": 7157081209,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Henry's Market",
+    "category": "retail",
+    "lat": 34.033103,
+    "lon": -118.2760786,
+    "osm_id": 7158037351,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ross",
+    "category": "retail",
+    "lat": 34.0477478,
+    "lon": -118.2818861,
+    "osm_id": 7159837784,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cognoscenti Coffee",
+    "category": "restaurant",
+    "lat": 34.0439579,
+    "lon": -118.257763,
+    "osm_id": 7164563034,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Market Place Deli & Restaurant",
+    "category": "restaurant",
+    "lat": 34.0303934,
+    "lon": -118.2365254,
+    "osm_id": 7166913066,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "endorffeine",
+    "category": "restaurant",
+    "lat": 34.0614368,
+    "lon": -118.2398058,
+    "osm_id": 7176076986,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kien Giang Bakery",
+    "category": "restaurant",
+    "lat": 34.0797652,
+    "lon": -118.2559137,
+    "osm_id": 7221024858,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Beacon",
+    "category": "restaurant",
+    "lat": 34.0733502,
+    "lon": -118.2600261,
+    "osm_id": 7221284836,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Valerie",
+    "category": "restaurant",
+    "lat": 34.0833526,
+    "lon": -118.254599,
+    "osm_id": 7221284837,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Nice Coffee",
+    "category": "restaurant",
+    "lat": 34.0509035,
+    "lon": -118.2572389,
+    "osm_id": 7324498233,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Localita",
+    "category": "restaurant",
+    "lat": 34.0417934,
+    "lon": -118.2527779,
+    "osm_id": 7387609587,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "(abeautifullife) Jamaican",
+    "category": "restaurant",
+    "lat": 34.0511869,
+    "lon": -118.2458271,
+    "osm_id": 7387684586,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Amar Desh Indian Restaurant",
+    "category": "restaurant",
+    "lat": 34.0526666,
+    "lon": -118.283822,
+    "osm_id": 7387720285,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "9th St Ramen",
+    "category": "restaurant",
+    "lat": 34.0417901,
+    "lon": -118.2555221,
+    "osm_id": 7387731786,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Amante Pizza & Pasta",
+    "category": "restaurant",
+    "lat": 34.0411369,
+    "lon": -118.2542747,
+    "osm_id": 7387761285,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Asian Box",
+    "category": "restaurant",
+    "lat": 34.0527005,
+    "lon": -118.2573722,
+    "osm_id": 7387788186,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bao Hiroo",
+    "category": "restaurant",
+    "lat": 34.0472847,
+    "lon": -118.2349684,
+    "osm_id": 7390337588,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bar Avalon",
+    "category": "restaurant",
+    "lat": 34.0772862,
+    "lon": -118.2642374,
+    "osm_id": 7391447886,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Backyard Bowls",
+    "category": "restaurant",
+    "lat": 34.0462665,
+    "lon": -118.2596525,
+    "osm_id": 7391513785,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bacari W Adam?",
+    "category": "restaurant",
+    "lat": 34.0345173,
+    "lon": -118.2835708,
+    "osm_id": 7396326285,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Berlin Currywurst",
+    "category": "restaurant",
+    "lat": 34.0506291,
+    "lon": -118.248647,
+    "osm_id": 7396358385,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Burro's Breakfast Burritos",
+    "category": "restaurant",
+    "lat": 34.0661278,
+    "lon": -118.2122293,
+    "osm_id": 7396381786,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Big Mama's & Papa's Pizzeria",
+    "category": "restaurant",
+    "lat": 34.0490007,
+    "lon": -118.2587026,
+    "osm_id": 7416400385,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Amazebowls",
+    "category": "restaurant",
+    "lat": 34.0312356,
+    "lon": -118.239432,
+    "osm_id": 7431645085,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "BurgerMan",
+    "category": "restaurant",
+    "lat": 34.0561717,
+    "lon": -118.2765723,
+    "osm_id": 7431727185,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Glowing Plant-Based Eatery",
+    "category": "restaurant",
+    "lat": 34.0812465,
+    "lon": -118.2547783,
+    "osm_id": 7435728085,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cena Vegan",
+    "category": "restaurant",
+    "lat": 34.0790522,
+    "lon": -118.2187017,
+    "osm_id": 7439705085,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cosa Buona",
+    "category": "restaurant",
+    "lat": 34.0772851,
+    "lon": -118.2638692,
+    "osm_id": 7439788686,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Doubting Thomas",
+    "category": "restaurant",
+    "lat": 34.0716751,
+    "lon": -118.2738345,
+    "osm_id": 7472265589,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "DTLA Ramen",
+    "category": "restaurant",
+    "lat": 34.0410683,
+    "lon": -118.2570396,
+    "osm_id": 7472265590,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Caserio",
+    "category": "restaurant",
+    "lat": 34.0777459,
+    "lon": -118.2805799,
+    "osm_id": 7501945485,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Funculo",
+    "category": "restaurant",
+    "lat": 34.0437958,
+    "lon": -118.2526952,
+    "osm_id": 7578844385,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Flore Vegan",
+    "category": "restaurant",
+    "lat": 34.0838235,
+    "lon": -118.2738761,
+    "osm_id": 7578949585,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ganchic",
+    "category": "restaurant",
+    "lat": 34.0357057,
+    "lon": -118.2300473,
+    "osm_id": 7590517385,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Go Get Em Tiger",
+    "category": "restaurant",
+    "lat": 34.0352627,
+    "lon": -118.2405598,
+    "osm_id": 7590517486,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Gra",
+    "category": "restaurant",
+    "lat": 34.0666467,
+    "lon": -118.2608432,
+    "osm_id": 7590567985,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hachioji Ramen",
+    "category": "restaurant",
+    "lat": 34.050315,
+    "lon": -118.240551,
+    "osm_id": 7590847486,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hatch Yakitori",
+    "category": "restaurant",
+    "lat": 34.047853,
+    "lon": -118.2585664,
+    "osm_id": 7590847487,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Harbor House",
+    "category": "restaurant",
+    "lat": 34.0508459,
+    "lon": -118.2608279,
+    "osm_id": 7590867586,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hill Street Bar & Restaurant",
+    "category": "restaurant",
+    "lat": 34.0528987,
+    "lon": -118.2477085,
+    "osm_id": 7594225385,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Uniqlo",
+    "category": "retail",
+    "lat": 34.0484286,
+    "lon": -118.258778,
+    "osm_id": 8143024205,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Otomisan Japanese Restaurant",
+    "category": "restaurant",
+    "lat": 34.0429279,
+    "lon": -118.2083585,
+    "osm_id": 8243829334,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Songbird Cafe",
+    "category": "restaurant",
+    "lat": 34.0640472,
+    "lon": -118.236514,
+    "osm_id": 8290553643,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Today Starts Here",
+    "category": "restaurant",
+    "lat": 34.0651927,
+    "lon": -118.23817,
+    "osm_id": 8290553682,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "\u00c2u L\u1ea1c",
+    "category": "restaurant",
+    "lat": 34.0563941,
+    "lon": -118.2508486,
+    "osm_id": 8300188902,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Patina",
+    "category": "restaurant",
+    "lat": 34.0552821,
+    "lon": -118.2494095,
+    "osm_id": 8300188903,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Upstage Burger",
+    "category": "restaurant",
+    "lat": 34.0562405,
+    "lon": -118.2487297,
+    "osm_id": 8300188904,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kendall's Brasserie",
+    "category": "restaurant",
+    "lat": 34.0566016,
+    "lon": -118.2484009,
+    "osm_id": 8300188905,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Grand Caf\u00e9",
+    "category": "restaurant",
+    "lat": 34.052845,
+    "lon": -118.2504979,
+    "osm_id": 8300188908,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Noe Restaurant & Bar",
+    "category": "restaurant",
+    "lat": 34.0526316,
+    "lon": -118.2505757,
+    "osm_id": 8300188909,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Noe",
+    "category": "restaurant",
+    "lat": 34.0522503,
+    "lon": -118.2507429,
+    "osm_id": 8300188910,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Planet",
+    "category": "restaurant",
+    "lat": 34.0585859,
+    "lon": -118.2619099,
+    "osm_id": 8300188911,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Los Amigos Taqueria y",
+    "category": "restaurant",
+    "lat": 34.0589871,
+    "lon": -118.2629024,
+    "osm_id": 8300188912,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Primo Taco Truck",
+    "category": "restaurant",
+    "lat": 34.0591586,
+    "lon": -118.2641071,
+    "osm_id": 8300188913,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Gus's Drive-In",
+    "category": "restaurant",
+    "lat": 34.0608131,
+    "lon": -118.2672829,
+    "osm_id": 8300188914,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Perfect Donuts",
+    "category": "restaurant",
+    "lat": 34.0621169,
+    "lon": -118.271176,
+    "osm_id": 8300188915,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "T.G. Express",
+    "category": "restaurant",
+    "lat": 34.0629327,
+    "lon": -118.2720292,
+    "osm_id": 8300188916,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Burrito Panzon",
+    "category": "restaurant",
+    "lat": 34.0666014,
+    "lon": -118.2709292,
+    "osm_id": 8300219117,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "RTR Express",
+    "category": "restaurant",
+    "lat": 34.0668606,
+    "lon": -118.271244,
+    "osm_id": 8300219118,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "HiFi Kitchen",
+    "category": "restaurant",
+    "lat": 34.0644976,
+    "lon": -118.264989,
+    "osm_id": 8300219119,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pupuseria Menchita",
+    "category": "restaurant",
+    "lat": 34.0633745,
+    "lon": -118.2634234,
+    "osm_id": 8300219120,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tribal Cafe",
+    "category": "restaurant",
+    "lat": 34.0686452,
+    "lon": -118.2626357,
+    "osm_id": 8326602556,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "All Day Baby",
+    "category": "restaurant",
+    "lat": 34.0854395,
+    "lon": -118.275122,
+    "osm_id": 8350469680,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Walt Disney Concert Hall Caf\u00e9",
+    "category": "restaurant",
+    "lat": 34.0551009,
+    "lon": -118.2495757,
+    "osm_id": 8377164009,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rodeo Mexican Grill",
+    "category": "restaurant",
+    "lat": 34.0501688,
+    "lon": -118.275959,
+    "osm_id": 8379187042,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "LA Prime",
+    "category": "restaurant",
+    "lat": 34.0524418,
+    "lon": -118.2557921,
+    "osm_id": 8385994260,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lakeview Bistro",
+    "category": "restaurant",
+    "lat": 34.0526196,
+    "lon": -118.2556901,
+    "osm_id": 8385994262,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "CafeNOW",
+    "category": "restaurant",
+    "lat": 34.0526974,
+    "lon": -118.2556204,
+    "osm_id": 8385994263,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Smeraldi\u2019s Restaurant",
+    "category": "restaurant",
+    "lat": 34.0495508,
+    "lon": -118.25402,
+    "osm_id": 8386037682,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Burlington",
+    "category": "retail",
+    "lat": 34.0455384,
+    "lon": -118.253562,
+    "osm_id": 8395378218,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Dunkin'",
+    "category": "restaurant",
+    "lat": 34.0451824,
+    "lon": -118.256645,
+    "osm_id": 8406620933,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Redwood Bar and Grill",
+    "category": "restaurant",
+    "lat": 34.0527161,
+    "lon": -118.2473947,
+    "osm_id": 8409191470,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Victoria's Secret",
+    "category": "retail",
+    "lat": 34.0486843,
+    "lon": -118.2610434,
+    "osm_id": 8416566140,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Zara",
+    "category": "retail",
+    "lat": 34.0487308,
+    "lon": -118.2611292,
+    "osm_id": 8416566141,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Nordstrom Rack",
+    "category": "retail",
+    "lat": 34.0492903,
+    "lon": -118.2611949,
+    "osm_id": 8416566142,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Be U - Vietnamese Street Food & Comfort Food",
+    "category": "restaurant",
+    "lat": 34.0810407,
+    "lon": -118.2845694,
+    "osm_id": 8450357905,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Noypiz Bar and Grill",
+    "category": "restaurant",
+    "lat": 34.0451765,
+    "lon": -118.2382959,
+    "osm_id": 8461651377,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Smile Hot Dog",
+    "category": "restaurant",
+    "lat": 34.0454477,
+    "lon": -118.2385869,
+    "osm_id": 8461651382,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Uji Time",
+    "category": "restaurant",
+    "lat": 34.0453878,
+    "lon": -118.2386171,
+    "osm_id": 8461651383,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Utsuwa No Yakata",
+    "category": "restaurant",
+    "lat": 34.045333,
+    "lon": -118.2386525,
+    "osm_id": 8461651384,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pho Shop",
+    "category": "restaurant",
+    "lat": 34.0452195,
+    "lon": -118.2386974,
+    "osm_id": 8461651385,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Manna Korean BBQ",
+    "category": "restaurant",
+    "lat": 34.045569,
+    "lon": -118.2386644,
+    "osm_id": 8461651400,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sushi Go 55",
+    "category": "restaurant",
+    "lat": 34.0454703,
+    "lon": -118.23838,
+    "osm_id": 8461651401,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Izakaya Bizan",
+    "category": "restaurant",
+    "lat": 34.0451792,
+    "lon": -118.2383376,
+    "osm_id": 8461651402,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hana lchimonme",
+    "category": "restaurant",
+    "lat": 34.0455095,
+    "lon": -118.2387041,
+    "osm_id": 8461651403,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tsurumaru Udon",
+    "category": "restaurant",
+    "lat": 34.0454268,
+    "lon": -118.2387513,
+    "osm_id": 8461651404,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Oh My Poki",
+    "category": "restaurant",
+    "lat": 34.0453634,
+    "lon": -118.2386338,
+    "osm_id": 8461651405,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Men Oh Tokushima Ramen",
+    "category": "restaurant",
+    "lat": 34.0469532,
+    "lon": -118.2384923,
+    "osm_id": 8473986185,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "DISTRICT",
+    "category": "restaurant",
+    "lat": 34.0480243,
+    "lon": -118.258395,
+    "osm_id": 8576947968,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lobby Cafe",
+    "category": "restaurant",
+    "lat": 34.0526945,
+    "lon": -118.2518844,
+    "osm_id": 8656138883,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "For Five Coffee Roasters Coffee",
+    "category": "restaurant",
+    "lat": 34.052904,
+    "lon": -118.2516821,
+    "osm_id": 8656138884,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Spitz - Little Tokyo",
+    "category": "restaurant",
+    "lat": 34.0482637,
+    "lon": -118.23987,
+    "osm_id": 8790995017,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Chinchikurin",
+    "category": "restaurant",
+    "lat": 34.0494005,
+    "lon": -118.239789,
+    "osm_id": 8793277417,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "G&B",
+    "category": "restaurant",
+    "lat": 34.0510733,
+    "lon": -118.249439,
+    "osm_id": 8971277110,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sarita's Pupuseria",
+    "category": "restaurant",
+    "lat": 34.0508855,
+    "lon": -118.2488566,
+    "osm_id": 8971277113,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bento Ya",
+    "category": "restaurant",
+    "lat": 34.0509311,
+    "lon": -118.249042,
+    "osm_id": 8971277114,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Donut Friend",
+    "category": "restaurant",
+    "lat": 34.0471655,
+    "lon": -118.2517764,
+    "osm_id": 8971277115,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Wingstop",
+    "category": "restaurant",
+    "lat": 34.0846343,
+    "lon": -118.2221642,
+    "osm_id": 8984061085,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Panda Express",
+    "category": "restaurant",
+    "lat": 34.0845693,
+    "lon": -118.2220923,
+    "osm_id": 8984061086,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Yum Yum Donuts",
+    "category": "restaurant",
+    "lat": 34.0844726,
+    "lon": -118.2219961,
+    "osm_id": 8984061087,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Acuarela Coffee",
+    "category": "restaurant",
+    "lat": 34.0637928,
+    "lon": -118.2454563,
+    "osm_id": 9196384717,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Won Kok Restaurant",
+    "category": "restaurant",
+    "lat": 34.0618561,
+    "lon": -118.2375994,
+    "osm_id": 9278016317,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cognoscenti Coffee Roastery",
+    "category": "restaurant",
+    "lat": 34.035382,
+    "lon": -118.2533567,
+    "osm_id": 9307516740,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "City Tacos",
+    "category": "restaurant",
+    "lat": 34.024144,
+    "lon": -118.28453,
+    "osm_id": 9591449455,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lululemon",
+    "category": "retail",
+    "lat": 34.024349,
+    "lon": -118.2844736,
+    "osm_id": 9591449456,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Chinese Street Food",
+    "category": "restaurant",
+    "lat": 34.0244847,
+    "lon": -118.2840326,
+    "osm_id": 9591449458,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "B&H Foods",
+    "category": "grocery",
+    "lat": 34.0362138,
+    "lon": -118.2340058,
+    "osm_id": 9642423588,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "My Thai Kitchen",
+    "category": "restaurant",
+    "lat": 34.0637063,
+    "lon": -118.2956727,
+    "osm_id": 9655499017,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Proper Pizza and Pasta",
+    "category": "restaurant",
+    "lat": 34.0515322,
+    "lon": -118.280406,
+    "osm_id": 9695809007,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Verado Bakery",
+    "category": "restaurant",
+    "lat": 34.05162,
+    "lon": -118.2804208,
+    "osm_id": 9695809008,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Boba Time",
+    "category": "restaurant",
+    "lat": 34.0517467,
+    "lon": -118.2803537,
+    "osm_id": 9695809010,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pearl River Deli",
+    "category": "restaurant",
+    "lat": 34.0651697,
+    "lon": -118.2380815,
+    "osm_id": 9740535754,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "San Salvador Restaurant",
+    "category": "restaurant",
+    "lat": 34.0404956,
+    "lon": -118.2913988,
+    "osm_id": 9829535925,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Park's BBQ",
+    "category": "restaurant",
+    "lat": 34.0540016,
+    "lon": -118.2920408,
+    "osm_id": 9854569195,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Quarter Sheets Pizza",
+    "category": "restaurant",
+    "lat": 34.0757964,
+    "lon": -118.254298,
+    "osm_id": 9862848303,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Angelino",
+    "category": "retail",
+    "lat": 34.0367051,
+    "lon": -118.257394,
+    "osm_id": 9873815780,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "L & E Oyster Bar",
+    "category": "restaurant",
+    "lat": 34.0889784,
+    "lon": -118.2689571,
+    "osm_id": 9874353376,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pine and Crane DTLA",
+    "category": "restaurant",
+    "lat": 34.0408575,
+    "lon": -118.262356,
+    "osm_id": 9877073527,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "For the Win",
+    "category": "restaurant",
+    "lat": 34.050844,
+    "lon": -118.2489922,
+    "osm_id": 9886542562,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Matte Black Coffee",
+    "category": "restaurant",
+    "lat": 34.0408301,
+    "lon": -118.2579167,
+    "osm_id": 9891237617,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "South Park Pharmacy",
+    "category": "pharmacy",
+    "lat": 34.0401618,
+    "lon": -118.2630301,
+    "osm_id": 9913046870,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cow Cafe",
+    "category": "restaurant",
+    "lat": 34.0386555,
+    "lon": -118.2642164,
+    "osm_id": 9913073794,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jo\u2019s Liquor",
+    "category": "retail",
+    "lat": 34.0389274,
+    "lon": -118.2641149,
+    "osm_id": 9913073797,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "California Kabob Kitchen",
+    "category": "restaurant",
+    "lat": 34.0398718,
+    "lon": -118.2591416,
+    "osm_id": 9913256543,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pedraza's Embroidery",
+    "category": "retail",
+    "lat": 34.0392694,
+    "lon": -118.2647444,
+    "osm_id": 9913667920,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ondal seafood",
+    "category": "restaurant",
+    "lat": 34.0575822,
+    "lon": -118.2967645,
+    "osm_id": 9968835271,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Marugame Udon",
+    "category": "restaurant",
+    "lat": 34.0481064,
+    "lon": -118.2586955,
+    "osm_id": 10035520932,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jollibee",
+    "category": "restaurant",
+    "lat": 34.0486163,
+    "lon": -118.2583263,
+    "osm_id": 10035520934,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Amor Lingerie",
+    "category": "retail",
+    "lat": 34.01697,
+    "lon": -118.2195,
+    "osm_id": 10077555392,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Monty's Good Burger",
+    "category": "restaurant",
+    "lat": 34.0763871,
+    "lon": -118.2560285,
+    "osm_id": 10131265134,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kura Sushi",
+    "category": "restaurant",
+    "lat": 34.0488196,
+    "lon": -118.2407221,
+    "osm_id": 10138374553,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Gong Cha",
+    "category": "restaurant",
+    "lat": 34.0487839,
+    "lon": -118.2412123,
+    "osm_id": 10138374555,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Azay",
+    "category": "restaurant",
+    "lat": 34.0508292,
+    "lon": -118.241799,
+    "osm_id": 10138374557,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Midori Matcha",
+    "category": "restaurant",
+    "lat": 34.0499604,
+    "lon": -118.2420781,
+    "osm_id": 10138374560,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Roll Spot",
+    "category": "restaurant",
+    "lat": 34.0501358,
+    "lon": -118.2417866,
+    "osm_id": 10138374561,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bak's Kitchen",
+    "category": "restaurant",
+    "lat": 34.0562126,
+    "lon": -118.250683,
+    "osm_id": 10263039620,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Oomasa",
+    "category": "restaurant",
+    "lat": 34.0492162,
+    "lon": -118.2395757,
+    "osm_id": 10301708310,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Vitacane",
+    "category": "restaurant",
+    "lat": 34.049193,
+    "lon": -118.2398842,
+    "osm_id": 10301708312,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Japangeles",
+    "category": "retail",
+    "lat": 34.0488533,
+    "lon": -118.2406523,
+    "osm_id": 10301708314,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tiger Sugar",
+    "category": "restaurant",
+    "lat": 34.048696,
+    "lon": -118.2405569,
+    "osm_id": 10301708319,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "TOT Little Tokyo",
+    "category": "restaurant",
+    "lat": 34.0486357,
+    "lon": -118.2404549,
+    "osm_id": 10301708320,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Millet Crepe",
+    "category": "restaurant",
+    "lat": 34.0485012,
+    "lon": -118.2411167,
+    "osm_id": 10301708321,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kouraku",
+    "category": "restaurant",
+    "lat": 34.0489323,
+    "lon": -118.2413956,
+    "osm_id": 10301708322,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Korea BBQ House",
+    "category": "restaurant",
+    "lat": 34.0498548,
+    "lon": -118.2422676,
+    "osm_id": 10301708323,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rice and Nori",
+    "category": "restaurant",
+    "lat": 34.0501135,
+    "lon": -118.2424091,
+    "osm_id": 10301708324,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kushi Shabu",
+    "category": "restaurant",
+    "lat": 34.0501376,
+    "lon": -118.2424653,
+    "osm_id": 10301708325,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mastro's",
+    "category": "restaurant",
+    "lat": 34.0415175,
+    "lon": -118.2668949,
+    "osm_id": 10660516075,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "WaBa Grill",
+    "category": "restaurant",
+    "lat": 34.0735383,
+    "lon": -118.2093928,
+    "osm_id": 10666809839,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rockbird",
+    "category": "restaurant",
+    "lat": 34.0778289,
+    "lon": -118.265557,
+    "osm_id": 10689723505,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Amboy Quality Meats & Delicious Burgers",
+    "category": "restaurant",
+    "lat": 34.0613619,
+    "lon": -118.2397103,
+    "osm_id": 10689844407,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Daybird",
+    "category": "restaurant",
+    "lat": 34.0759683,
+    "lon": -118.2865933,
+    "osm_id": 10690338505,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Inka Wasi",
+    "category": "restaurant",
+    "lat": 34.0476027,
+    "lon": -118.2568067,
+    "osm_id": 10744639063,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Zankou Chicken",
+    "category": "restaurant",
+    "lat": 34.0477039,
+    "lon": -118.2569414,
+    "osm_id": 10744639064,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "HH Brazilian Steakhouse",
+    "category": "restaurant",
+    "lat": 34.0468311,
+    "lon": -118.2562024,
+    "osm_id": 10744639067,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Gyu-Kaku",
+    "category": "restaurant",
+    "lat": 34.0467727,
+    "lon": -118.2561016,
+    "osm_id": 10744639068,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "It's Boba Time",
+    "category": "restaurant",
+    "lat": 34.046639,
+    "lon": -118.2558738,
+    "osm_id": 10744639069,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pizza Italia",
+    "category": "restaurant",
+    "lat": 34.0456057,
+    "lon": -118.2537266,
+    "osm_id": 10744639070,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Corleone Pizza",
+    "category": "restaurant",
+    "lat": 34.0453547,
+    "lon": -118.253902,
+    "osm_id": 10744639071,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Saint Vincent Deli",
+    "category": "restaurant",
+    "lat": 34.0460044,
+    "lon": -118.2536434,
+    "osm_id": 10744639072,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mikaza",
+    "category": "restaurant",
+    "lat": 34.0470984,
+    "lon": -118.2513852,
+    "osm_id": 10744639073,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Debbie's Bridal",
+    "category": "retail",
+    "lat": 34.0474494,
+    "lon": -118.2515211,
+    "osm_id": 10744639076,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "NYC Caribbean",
+    "category": "restaurant",
+    "lat": 34.0481518,
+    "lon": -118.2510657,
+    "osm_id": 10744639077,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mrs. Fish",
+    "category": "restaurant",
+    "lat": 34.048898,
+    "lon": -118.2514631,
+    "osm_id": 10744639078,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Temaki Society",
+    "category": "restaurant",
+    "lat": 34.0499003,
+    "lon": -118.2492427,
+    "osm_id": 10744639084,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ana Maria",
+    "category": "restaurant",
+    "lat": 34.0508983,
+    "lon": -118.2490732,
+    "osm_id": 10746685272,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "China Cafe",
+    "category": "restaurant",
+    "lat": 34.0509769,
+    "lon": -118.2492351,
+    "osm_id": 10746685278,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Donut Man",
+    "category": "restaurant",
+    "lat": 34.0505078,
+    "lon": -118.2487314,
+    "osm_id": 10746685280,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jose Chiquito",
+    "category": "restaurant",
+    "lat": 34.0507307,
+    "lon": -118.2490418,
+    "osm_id": 10746685286,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Juice",
+    "category": "restaurant",
+    "lat": 34.0507419,
+    "lon": -118.2485181,
+    "osm_id": 10746685287,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Knead and Co.",
+    "category": "restaurant",
+    "lat": 34.0506077,
+    "lon": -118.2488856,
+    "osm_id": 10746685288,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "La Tostaderia",
+    "category": "restaurant",
+    "lat": 34.0509239,
+    "lon": -118.2489574,
+    "osm_id": 10746685291,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lucky Bird",
+    "category": "restaurant",
+    "lat": 34.0508437,
+    "lon": -118.2486845,
+    "osm_id": 10746685292,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Moon Rabbit",
+    "category": "restaurant",
+    "lat": 34.0506873,
+    "lon": -118.2488454,
+    "osm_id": 10746685293,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Olio Wood Fired Pizzeria",
+    "category": "restaurant",
+    "lat": 34.0507456,
+    "lon": -118.2489414,
+    "osm_id": 10746685294,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Oyster Gourmet",
+    "category": "restaurant",
+    "lat": 34.0511528,
+    "lon": -118.2493033,
+    "osm_id": 10746685295,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "PBJ LA",
+    "category": "restaurant",
+    "lat": 34.0509298,
+    "lon": -118.2491279,
+    "osm_id": 10746685296,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ramen Hood",
+    "category": "restaurant",
+    "lat": 34.0506392,
+    "lon": -118.2486923,
+    "osm_id": 10746685297,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sari Sari Store",
+    "category": "restaurant",
+    "lat": 34.0510797,
+    "lon": -118.2491771,
+    "osm_id": 10746685298,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Shiku",
+    "category": "restaurant",
+    "lat": 34.050815,
+    "lon": -118.2487381,
+    "osm_id": 10746685299,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tacos Tumbras a Tomas",
+    "category": "restaurant",
+    "lat": 34.0507956,
+    "lon": -118.2491592,
+    "osm_id": 10746685300,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Villa Moreliana",
+    "category": "restaurant",
+    "lat": 34.0505944,
+    "lon": -118.2486215,
+    "osm_id": 10746685303,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Wexler's Deli",
+    "category": "restaurant",
+    "lat": 34.0508528,
+    "lon": -118.248884,
+    "osm_id": 10746685304,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Authentica Comida Mexicana",
+    "category": "restaurant",
+    "lat": 34.0467256,
+    "lon": -118.2471943,
+    "osm_id": 10778796405,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Triple Beam Pizza",
+    "category": "restaurant",
+    "lat": 34.0777418,
+    "lon": -118.2600195,
+    "osm_id": 10812631007,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Echo Park Pharmacy",
+    "category": "pharmacy",
+    "lat": 34.0770201,
+    "lon": -118.258372,
+    "osm_id": 10812734607,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Botanica Restaurant & Market",
+    "category": "restaurant",
+    "lat": 34.088493,
+    "lon": -118.2689001,
+    "osm_id": 10815160612,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Nuevo Mirador",
+    "category": "restaurant",
+    "lat": 34.0473648,
+    "lon": -118.2974839,
+    "osm_id": 10884613697,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Intercrew",
+    "category": "restaurant",
+    "lat": 34.0615787,
+    "lon": -118.2952519,
+    "osm_id": 10933394775,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Juicy J's",
+    "category": "restaurant",
+    "lat": 34.0637167,
+    "lon": -118.2961105,
+    "osm_id": 10933394782,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Katsu Sando",
+    "category": "restaurant",
+    "lat": 34.061352,
+    "lon": -118.2386535,
+    "osm_id": 10981950698,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sunright Tea Studio",
+    "category": "restaurant",
+    "lat": 34.0482168,
+    "lon": -118.2390638,
+    "osm_id": 10982033311,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Izakaya Go",
+    "category": "restaurant",
+    "lat": 34.0481232,
+    "lon": -118.239074,
+    "osm_id": 10982033312,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Dave's Hot Chicken",
+    "category": "restaurant",
+    "lat": 34.0482726,
+    "lon": -118.239469,
+    "osm_id": 10982033313,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "bb.q Chicken",
+    "category": "restaurant",
+    "lat": 34.0471962,
+    "lon": -118.2387894,
+    "osm_id": 10982033323,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Truly LA",
+    "category": "restaurant",
+    "lat": 34.0460752,
+    "lon": -118.2373316,
+    "osm_id": 10982033324,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kreation",
+    "category": "restaurant",
+    "lat": 34.0454466,
+    "lon": -118.2358831,
+    "osm_id": 10982033331,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tenno",
+    "category": "restaurant",
+    "lat": 34.0475005,
+    "lon": -118.2396067,
+    "osm_id": 10982033336,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Two Hands",
+    "category": "restaurant",
+    "lat": 34.0488494,
+    "lon": -118.2399895,
+    "osm_id": 10982033350,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sushi Gala",
+    "category": "restaurant",
+    "lat": 34.0492647,
+    "lon": -118.2398069,
+    "osm_id": 10982033351,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Katsuya",
+    "category": "restaurant",
+    "lat": 34.0445602,
+    "lon": -118.2656783,
+    "osm_id": 11077192272,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sol Agave",
+    "category": "restaurant",
+    "lat": 34.0450386,
+    "lon": -118.2652342,
+    "osm_id": 11077192273,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Fleming's",
+    "category": "restaurant",
+    "lat": 34.0448429,
+    "lon": -118.2644994,
+    "osm_id": 11077192274,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Fixins Soul Kitchen",
+    "category": "restaurant",
+    "lat": 34.0445452,
+    "lon": -118.264774,
+    "osm_id": 11077192275,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Savoca",
+    "category": "restaurant",
+    "lat": 34.0449238,
+    "lon": -118.2668223,
+    "osm_id": 11077192277,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sakana Sushi",
+    "category": "restaurant",
+    "lat": 34.0438029,
+    "lon": -118.2579147,
+    "osm_id": 11094262505,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mary's Tacos",
+    "category": "restaurant",
+    "lat": 34.0324733,
+    "lon": -118.2914312,
+    "osm_id": 11145355232,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ministry of Coffee",
+    "category": "restaurant",
+    "lat": 34.0250188,
+    "lon": -118.2830811,
+    "osm_id": 11145355236,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Boil Daddy",
+    "category": "restaurant",
+    "lat": 34.0248779,
+    "lon": -118.2505708,
+    "osm_id": 11238025228,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Boxx Coffee Roasters Co.",
+    "category": "restaurant",
+    "lat": 34.0459091,
+    "lon": -118.2340186,
+    "osm_id": 11240456403,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Golden Tree",
+    "category": "restaurant",
+    "lat": 34.0596777,
+    "lon": -118.2395075,
+    "osm_id": 11250159048,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mr. Churro",
+    "category": "restaurant",
+    "lat": 34.0574659,
+    "lon": -118.2374765,
+    "osm_id": 11280556671,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bohemian House of Espresso & Chai",
+    "category": "restaurant",
+    "lat": 34.0459023,
+    "lon": -118.2506863,
+    "osm_id": 11296258669,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pizzeria Bianca",
+    "category": "restaurant",
+    "lat": 34.034425,
+    "lon": -118.241554,
+    "osm_id": 11345448419,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rappahannock Oyster Bar",
+    "category": "restaurant",
+    "lat": 34.0346223,
+    "lon": -118.2414231,
+    "osm_id": 11345448420,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hob Nob",
+    "category": "retail",
+    "lat": 34.0488895,
+    "lon": -118.2406207,
+    "osm_id": 11374459026,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mitsury Sushi & Grill",
+    "category": "restaurant",
+    "lat": 34.0500231,
+    "lon": -118.2406525,
+    "osm_id": 11374569652,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rocket",
+    "category": "retail",
+    "lat": 34.0756236,
+    "lon": -118.2537827,
+    "osm_id": 11378679110,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Angelino's Bakery And Deli",
+    "category": "restaurant",
+    "lat": 34.075804,
+    "lon": -118.2558977,
+    "osm_id": 11378679114,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Stereoscope Coffee",
+    "category": "restaurant",
+    "lat": 34.0760177,
+    "lon": -118.255218,
+    "osm_id": 11378679117,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Gyoza Bar",
+    "category": "restaurant",
+    "lat": 34.0760407,
+    "lon": -118.2552991,
+    "osm_id": 11378679118,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Woodcat",
+    "category": "restaurant",
+    "lat": 34.0761391,
+    "lon": -118.2563405,
+    "osm_id": 11378679119,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hey Hey",
+    "category": "restaurant",
+    "lat": 34.0766541,
+    "lon": -118.2566791,
+    "osm_id": 11378679121,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sunday's Best Vintage",
+    "category": "retail",
+    "lat": 34.076712,
+    "lon": -118.2568135,
+    "osm_id": 11378679122,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jersey Mike's Subs",
+    "category": "restaurant",
+    "lat": 34.0777128,
+    "lon": -118.2570038,
+    "osm_id": 11378679125,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Stories Cafe",
+    "category": "restaurant",
+    "lat": 34.0772456,
+    "lon": -118.2591582,
+    "osm_id": 11378679126,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "A's American Vintage",
+    "category": "retail",
+    "lat": 34.0774792,
+    "lon": -118.2586266,
+    "osm_id": 11378679130,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Big Bud Press",
+    "category": "retail",
+    "lat": 34.0780615,
+    "lon": -118.2599241,
+    "osm_id": 11378679132,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "April 90 Something",
+    "category": "restaurant",
+    "lat": 34.0809892,
+    "lon": -118.2703429,
+    "osm_id": 11390840167,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pijja Palace",
+    "category": "restaurant",
+    "lat": 34.081065,
+    "lon": -118.2704108,
+    "osm_id": 11390840168,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ceci's",
+    "category": "restaurant",
+    "lat": 34.0820734,
+    "lon": -118.2718297,
+    "osm_id": 11391069569,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "De Buena Planta",
+    "category": "restaurant",
+    "lat": 34.0821073,
+    "lon": -118.2718781,
+    "osm_id": 11391069570,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Same Same Thai",
+    "category": "restaurant",
+    "lat": 34.0826048,
+    "lon": -118.2722354,
+    "osm_id": 11391069572,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Spoon and Pork",
+    "category": "restaurant",
+    "lat": 34.0852775,
+    "lon": -118.2745642,
+    "osm_id": 11391069581,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Playita Mariscos",
+    "category": "restaurant",
+    "lat": 34.0855072,
+    "lon": -118.2745906,
+    "osm_id": 11391069582,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Dayglow",
+    "category": "restaurant",
+    "lat": 34.0855597,
+    "lon": -118.2751157,
+    "osm_id": 11391069586,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kato",
+    "category": "restaurant",
+    "lat": 34.0340707,
+    "lon": -118.2411057,
+    "osm_id": 11399375173,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hayato",
+    "category": "restaurant",
+    "lat": 34.0337682,
+    "lon": -118.2419242,
+    "osm_id": 11399386640,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Velo Coffee",
+    "category": "restaurant",
+    "lat": 34.0490289,
+    "lon": -118.2609676,
+    "osm_id": 11445409169,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Al & Bea's Mexican Food",
+    "category": "restaurant",
+    "lat": 34.0452032,
+    "lon": -118.2140549,
+    "osm_id": 11513370396,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Shekarchi Bar & Grill",
+    "category": "restaurant",
+    "lat": 34.0431123,
+    "lon": -118.258568,
+    "osm_id": 11526149269,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Art Room",
+    "category": "restaurant",
+    "lat": 34.0433663,
+    "lon": -118.2583375,
+    "osm_id": 11526639569,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "About Tims",
+    "category": "restaurant",
+    "lat": 34.0622224,
+    "lon": -118.2939969,
+    "osm_id": 11560851269,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tamon Restaurant",
+    "category": "restaurant",
+    "lat": 34.0495702,
+    "lon": -118.2400964,
+    "osm_id": 11608349169,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "East Garden Restaurant",
+    "category": "restaurant",
+    "lat": 34.0617279,
+    "lon": -118.2397071,
+    "osm_id": 11664018946,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cabra",
+    "category": "restaurant",
+    "lat": 34.0396123,
+    "lon": -118.258729,
+    "osm_id": 11666044076,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Moonlark's Dinette",
+    "category": "restaurant",
+    "lat": 34.0397395,
+    "lon": -118.2586194,
+    "osm_id": 11666044077,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cara Cara",
+    "category": "restaurant",
+    "lat": 34.0394341,
+    "lon": -118.2589138,
+    "osm_id": 11666044079,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Caldo Verde",
+    "category": "restaurant",
+    "lat": 34.0393306,
+    "lon": -118.2587447,
+    "osm_id": 11666044080,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lucky's Coffee Roasters",
+    "category": "restaurant",
+    "lat": 34.0530555,
+    "lon": -118.2515485,
+    "osm_id": 11673912819,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lemonade",
+    "category": "restaurant",
+    "lat": 34.0533408,
+    "lon": -118.2505429,
+    "osm_id": 11673912822,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kombu Sushi",
+    "category": "restaurant",
+    "lat": 34.0446794,
+    "lon": -118.2324831,
+    "osm_id": 11685729150,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Porky's Carnitas",
+    "category": "restaurant",
+    "lat": 34.0175295,
+    "lon": -118.2198479,
+    "osm_id": 11699034987,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Master Burger",
+    "category": "restaurant",
+    "lat": 34.0408696,
+    "lon": -118.2577436,
+    "osm_id": 11717321208,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mobil Mart",
+    "category": "retail",
+    "lat": 34.020265,
+    "lon": -118.238996,
+    "osm_id": 11719173012,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Don Lino's",
+    "category": "restaurant",
+    "lat": 34.0693607,
+    "lon": -118.2924681,
+    "osm_id": 11768603523,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Biriyani Kabob House",
+    "category": "restaurant",
+    "lat": 34.0692197,
+    "lon": -118.2923773,
+    "osm_id": 11768603524,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rikas",
+    "category": "restaurant",
+    "lat": 34.0693212,
+    "lon": -118.2931559,
+    "osm_id": 11773268804,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Emanuel",
+    "category": "restaurant",
+    "lat": 34.069312,
+    "lon": -118.293313,
+    "osm_id": 11773268805,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Fratelli's",
+    "category": "restaurant",
+    "lat": 34.0692535,
+    "lon": -118.2934075,
+    "osm_id": 11773268806,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "LA Grocery",
+    "category": "retail",
+    "lat": 34.068927,
+    "lon": -118.2920844,
+    "osm_id": 11789393829,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ricas Crepas",
+    "category": "restaurant",
+    "lat": 34.0689149,
+    "lon": -118.2918774,
+    "osm_id": 11795085558,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Baja California Tacos",
+    "category": "restaurant",
+    "lat": 34.0696713,
+    "lon": -118.2921002,
+    "osm_id": 11795085561,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Stark's Hot Chicken",
+    "category": "restaurant",
+    "lat": 34.0703036,
+    "lon": -118.2921378,
+    "osm_id": 11795085564,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bagnet Tea House",
+    "category": "restaurant",
+    "lat": 34.070775,
+    "lon": -118.291285,
+    "osm_id": 11795133870,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Manila Sunset",
+    "category": "restaurant",
+    "lat": 34.070712,
+    "lon": -118.2912708,
+    "osm_id": 11795133871,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Seafood City",
+    "category": "grocery",
+    "lat": 34.0718223,
+    "lon": -118.2912293,
+    "osm_id": 11795133878,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Popeyes",
+    "category": "restaurant",
+    "lat": 34.0567575,
+    "lon": -118.2081446,
+    "osm_id": 11823849629,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Olympic Donuts",
+    "category": "restaurant",
+    "lat": 34.0410352,
+    "lon": -118.2117573,
+    "osm_id": 11826914079,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Northgate Market",
+    "category": "grocery",
+    "lat": 34.040179,
+    "lon": -118.2129453,
+    "osm_id": 11826914081,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sam's",
+    "category": "restaurant",
+    "lat": 34.0351984,
+    "lon": -118.215361,
+    "osm_id": 11826914087,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jim's Burgers",
+    "category": "restaurant",
+    "lat": 34.0339105,
+    "lon": -118.2161825,
+    "osm_id": 11826914110,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Winchell's Donut House",
+    "category": "restaurant",
+    "lat": 34.0278176,
+    "lon": -118.2196921,
+    "osm_id": 11826914115,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Wabash Market",
+    "category": "retail",
+    "lat": 34.0497644,
+    "lon": -118.1966651,
+    "osm_id": 11843080109,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "George's",
+    "category": "restaurant",
+    "lat": 34.0472265,
+    "lon": -118.2083649,
+    "osm_id": 11846290491,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sakura Market",
+    "category": "retail",
+    "lat": 34.0450933,
+    "lon": -118.2042652,
+    "osm_id": 11848628108,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Las Flautas",
+    "category": "restaurant",
+    "lat": 34.0450951,
+    "lon": -118.2035451,
+    "osm_id": 11848628110,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El 7 Mares",
+    "category": "restaurant",
+    "lat": 34.0447002,
+    "lon": -118.2026106,
+    "osm_id": 11848628111,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Don Chuy",
+    "category": "restaurant",
+    "lat": 34.0407203,
+    "lon": -118.1937205,
+    "osm_id": 11848628116,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Birrieria Nochistlan Zac",
+    "category": "restaurant",
+    "lat": 34.0353074,
+    "lon": -118.2002288,
+    "osm_id": 11849195232,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "ampm",
+    "category": "retail",
+    "lat": 34.0279535,
+    "lon": -118.2004824,
+    "osm_id": 11868178678,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Vallarta",
+    "category": "grocery",
+    "lat": 34.0277426,
+    "lon": -118.2001058,
+    "osm_id": 11868178680,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "SC Fuel",
+    "category": "gas",
+    "lat": 34.0250166,
+    "lon": -118.220737,
+    "osm_id": 11870758259,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Taqueria La Estrella",
+    "category": "restaurant",
+    "lat": 34.0264307,
+    "lon": -118.2016561,
+    "osm_id": 11873331430,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Carnitas Michoacan",
+    "category": "restaurant",
+    "lat": 34.0723752,
+    "lon": -118.2212508,
+    "osm_id": 11874870503,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kimbap Paradise",
+    "category": "restaurant",
+    "lat": 34.0672322,
+    "lon": -118.2921433,
+    "osm_id": 11929713169,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Fathers Office",
+    "category": "restaurant",
+    "lat": 34.0473406,
+    "lon": -118.2349926,
+    "osm_id": 11938302855,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "De La Nonna",
+    "category": "restaurant",
+    "lat": 34.0450481,
+    "lon": -118.237588,
+    "osm_id": 11957198669,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Crystal Market",
+    "category": "retail",
+    "lat": 34.0651082,
+    "lon": -118.2599864,
+    "osm_id": 11970770970,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Los Burritos Home Made Mexican Food",
+    "category": "restaurant",
+    "lat": 34.0771145,
+    "lon": -118.256982,
+    "osm_id": 11970793863,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lonely Oyster",
+    "category": "restaurant",
+    "lat": 34.0773658,
+    "lon": -118.2567686,
+    "osm_id": 11970834253,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Echo Food Mart",
+    "category": "retail",
+    "lat": 34.0869103,
+    "lon": -118.2505562,
+    "osm_id": 11970878693,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "LG Market",
+    "category": "retail",
+    "lat": 34.0846771,
+    "lon": -118.2538502,
+    "osm_id": 11970887723,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "G\u00e9nesis Restaurante & Pupuseria",
+    "category": "restaurant",
+    "lat": 34.0925252,
+    "lon": -118.2245237,
+    "osm_id": 11970932852,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lupita's Market",
+    "category": "grocery",
+    "lat": 34.0917839,
+    "lon": -118.223926,
+    "osm_id": 11970966633,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Church's Chicken",
+    "category": "restaurant",
+    "lat": 34.0183592,
+    "lon": -118.2546855,
+    "osm_id": 11980210127,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jimmy John's",
+    "category": "restaurant",
+    "lat": 34.052851,
+    "lon": -118.2571655,
+    "osm_id": 11980210132,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Burger King",
+    "category": "restaurant",
+    "lat": 34.05677,
+    "lon": -118.26815,
+    "osm_id": 11980210135,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jamba",
+    "category": "restaurant",
+    "lat": 34.0262175,
+    "lon": -118.2779886,
+    "osm_id": 11980210148,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Virtu Coffee",
+    "category": "restaurant",
+    "lat": 34.0411302,
+    "lon": -118.2656142,
+    "osm_id": 11998031662,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Champion Donuts",
+    "category": "restaurant",
+    "lat": 34.0739544,
+    "lon": -118.2074257,
+    "osm_id": 12040195050,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Big Saver Foods",
+    "category": "grocery",
+    "lat": 34.0735418,
+    "lon": -118.2101316,
+    "osm_id": 12040322898,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Five Star Chinese Food",
+    "category": "restaurant",
+    "lat": 34.0735062,
+    "lon": -118.2140049,
+    "osm_id": 12040322901,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Little Rodeo Mexican Restaurant",
+    "category": "restaurant",
+    "lat": 34.0736216,
+    "lon": -118.2037246,
+    "osm_id": 12040636225,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Go! Pocha",
+    "category": "restaurant",
+    "lat": 34.0670618,
+    "lon": -118.2921231,
+    "osm_id": 12044908869,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pho N Mor",
+    "category": "restaurant",
+    "lat": 34.0233065,
+    "lon": -118.2793319,
+    "osm_id": 12044923769,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Blaze Pizza",
+    "category": "restaurant",
+    "lat": 34.0231762,
+    "lon": -118.2794345,
+    "osm_id": 12044930669,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Village Mart & Deli",
+    "category": "restaurant",
+    "lat": 34.0693118,
+    "lon": -118.1947956,
+    "osm_id": 12050234137,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Gateway Circle Pharmacy",
+    "category": "pharmacy",
+    "lat": 34.0739833,
+    "lon": -118.2080047,
+    "osm_id": 12054086021,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Roberto's Family Restaurant",
+    "category": "restaurant",
+    "lat": 34.0733907,
+    "lon": -118.2085619,
+    "osm_id": 12056162403,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Huarachito",
+    "category": "restaurant",
+    "lat": 34.0735777,
+    "lon": -118.20988,
+    "osm_id": 12056162405,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Maracas Cafe & Catering",
+    "category": "restaurant",
+    "lat": 34.0735931,
+    "lon": -118.2063416,
+    "osm_id": 12056162408,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kailey's Restaurant Salvadorean & Mexican Food",
+    "category": "restaurant",
+    "lat": 34.0736873,
+    "lon": -118.2024146,
+    "osm_id": 12056162409,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Viva Tacos La Estrella",
+    "category": "restaurant",
+    "lat": 34.0691106,
+    "lon": -118.2005181,
+    "osm_id": 12057647472,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Superior Grocers",
+    "category": "grocery",
+    "lat": 34.0226595,
+    "lon": -118.2516039,
+    "osm_id": 12060151665,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Olive Branch Pharmacy",
+    "category": "pharmacy",
+    "lat": 34.022631,
+    "lon": -118.2520148,
+    "osm_id": 12060164188,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Don Jose's Department Store",
+    "category": "retail",
+    "lat": 34.0738202,
+    "lon": -118.2133294,
+    "osm_id": 12070809481,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Otis Plus Size Fashion",
+    "category": "retail",
+    "lat": 34.0735017,
+    "lon": -118.2138485,
+    "osm_id": 12072646931,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "BASE",
+    "category": "restaurant",
+    "lat": 34.0445463,
+    "lon": -118.2542302,
+    "osm_id": 12138587633,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "kod\u014d",
+    "category": "restaurant",
+    "lat": 34.0341396,
+    "lon": -118.2298011,
+    "osm_id": 12162497216,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Brooklyn Ave Pizza Co",
+    "category": "restaurant",
+    "lat": 34.0449357,
+    "lon": -118.2038749,
+    "osm_id": 12206065729,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pioneer Chicken",
+    "category": "restaurant",
+    "lat": 34.0341075,
+    "lon": -118.2156133,
+    "osm_id": 12207977994,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Santa Cecilia Restaurant",
+    "category": "restaurant",
+    "lat": 34.0475778,
+    "lon": -118.2193982,
+    "osm_id": 12207977996,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "X'tiosu Kitchen",
+    "category": "restaurant",
+    "lat": 34.0504715,
+    "lon": -118.1983369,
+    "osm_id": 12208024601,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rosemary Grill",
+    "category": "restaurant",
+    "lat": 34.0466731,
+    "lon": -118.2559292,
+    "osm_id": 12209806201,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "El Camacho",
+    "category": "restaurant",
+    "lat": 34.0473711,
+    "lon": -118.2975293,
+    "osm_id": 12253937579,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Patxi's Pizza",
+    "category": "restaurant",
+    "lat": 34.0664481,
+    "lon": -118.2056603,
+    "osm_id": 12296081043,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Highland Tamalezzz",
+    "category": "restaurant",
+    "lat": 34.0738766,
+    "lon": -118.2092069,
+    "osm_id": 12300477932,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Oakobing",
+    "category": "restaurant",
+    "lat": 34.063425,
+    "lon": -118.2945007,
+    "osm_id": 12372861463,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Dan Sung Sa",
+    "category": "restaurant",
+    "lat": 34.0637415,
+    "lon": -118.2945581,
+    "osm_id": 12377108999,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Seongbukdong",
+    "category": "restaurant",
+    "lat": 34.0640009,
+    "lon": -118.294378,
+    "osm_id": 12377109000,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bruxie",
+    "category": "restaurant",
+    "lat": 34.0251295,
+    "lon": -118.2844233,
+    "osm_id": 12566854399,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cali Chilli Kitchen and Bar",
+    "category": "restaurant",
+    "lat": 34.0499876,
+    "lon": -118.2433624,
+    "osm_id": 12579526601,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "7 Eleven",
+    "category": "retail",
+    "lat": 34.0499457,
+    "lon": -118.2430901,
+    "osm_id": 12579526701,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Open Market",
+    "category": "restaurant",
+    "lat": 34.0623599,
+    "lon": -118.2959308,
+    "osm_id": 12583177456,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Levant",
+    "category": "restaurant",
+    "lat": 34.0770516,
+    "lon": -118.264285,
+    "osm_id": 12596695609,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Habit Burger Grill (Habit Burger Grill)",
+    "category": "restaurant",
+    "lat": 34.0772087,
+    "lon": -118.2646059,
+    "osm_id": 12596695610,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Luxe de Ville",
+    "category": "retail",
+    "lat": 34.0775955,
+    "lon": -118.2651595,
+    "osm_id": 12597001502,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bo Daddy's BBQ",
+    "category": "restaurant",
+    "lat": 34.0357259,
+    "lon": -118.2639654,
+    "osm_id": 12644032700,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Trattoria 25",
+    "category": "restaurant",
+    "lat": 34.0144419,
+    "lon": -118.2305681,
+    "osm_id": 12652186603,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "ABC Chinese Fast Food",
+    "category": "restaurant",
+    "lat": 34.0439209,
+    "lon": -118.2516366,
+    "osm_id": 12661223130,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Braazo Pizza",
+    "category": "restaurant",
+    "lat": 34.0439418,
+    "lon": -118.2516641,
+    "osm_id": 12661223131,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Alibrijes Mexican Grill",
+    "category": "restaurant",
+    "lat": 34.0439756,
+    "lon": -118.2517092,
+    "osm_id": 12661223132,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hao Sweet",
+    "category": "restaurant",
+    "lat": 34.0448293,
+    "lon": -118.2525028,
+    "osm_id": 12661223133,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Flamebachi",
+    "category": "restaurant",
+    "lat": 34.045103,
+    "lon": -118.2529194,
+    "osm_id": 12661223136,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Canyon Coffee",
+    "category": "restaurant",
+    "lat": 34.0813774,
+    "lon": -118.2547445,
+    "osm_id": 12695459909,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Combo A",
+    "category": "restaurant",
+    "lat": 34.078109,
+    "lon": -118.2569413,
+    "osm_id": 12696842935,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Northern Cafe",
+    "category": "restaurant",
+    "lat": 34.0255518,
+    "lon": -118.2774423,
+    "osm_id": 12701493994,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ono Hawaiian BBQ",
+    "category": "restaurant",
+    "lat": 34.0245627,
+    "lon": -118.2780289,
+    "osm_id": 12701493995,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sputnuts Donuts",
+    "category": "restaurant",
+    "lat": 34.0251904,
+    "lon": -118.2787352,
+    "osm_id": 12701493996,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pot of Cha",
+    "category": "restaurant",
+    "lat": 34.0249597,
+    "lon": -118.2786703,
+    "osm_id": 12701493998,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lollicup Extra",
+    "category": "restaurant",
+    "lat": 34.0249414,
+    "lon": -118.2786208,
+    "osm_id": 12701493999,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Viztango Cafe",
+    "category": "restaurant",
+    "lat": 34.0249205,
+    "lon": -118.2785873,
+    "osm_id": 12701494000,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Momota Ramen House",
+    "category": "restaurant",
+    "lat": 34.0249013,
+    "lon": -118.2785329,
+    "osm_id": 12701587901,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Happy Taco",
+    "category": "restaurant",
+    "lat": 34.0470209,
+    "lon": -118.2844188,
+    "osm_id": 12882803451,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "ABC Seafood",
+    "category": "restaurant",
+    "lat": 34.060171,
+    "lon": -118.2384058,
+    "osm_id": 12912909729,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Shang Lee Poultry",
+    "category": "grocery",
+    "lat": 34.0602278,
+    "lon": -118.2378802,
+    "osm_id": 12912909730,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "My Dung Sandwich",
+    "category": "restaurant",
+    "lat": 34.0601799,
+    "lon": -118.239147,
+    "osm_id": 12912953587,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Minon Cake",
+    "category": "restaurant",
+    "lat": 34.0601352,
+    "lon": -118.2390494,
+    "osm_id": 12912964605,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mama Lu's Dumpling House",
+    "category": "restaurant",
+    "lat": 34.0599654,
+    "lon": -118.2377254,
+    "osm_id": 12912965405,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Nam-Hoa Fish Market Inc",
+    "category": "grocery",
+    "lat": 34.0604219,
+    "lon": -118.2386029,
+    "osm_id": 12912966513,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Phoenix Inn Chinese Cuisine",
+    "category": "restaurant",
+    "lat": 34.060284,
+    "lon": -118.23872,
+    "osm_id": 12912970423,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bubble U",
+    "category": "restaurant",
+    "lat": 34.0635857,
+    "lon": -118.2378844,
+    "osm_id": 12912995786,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Saigon Deli",
+    "category": "restaurant",
+    "lat": 34.0632088,
+    "lon": -118.2376832,
+    "osm_id": 12913007784,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "1802 Roasters",
+    "category": "restaurant",
+    "lat": 34.0952978,
+    "lon": -118.2283263,
+    "osm_id": 12915569501,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "It's Thai Casual Dining",
+    "category": "restaurant",
+    "lat": 34.052325,
+    "lon": -118.2629377,
+    "osm_id": 12945539901,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Il Bambino",
+    "category": "restaurant",
+    "lat": 34.0264453,
+    "lon": -118.2431973,
+    "osm_id": 12945860101,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Onescape Coffee",
+    "category": "restaurant",
+    "lat": 34.0669551,
+    "lon": -118.2921223,
+    "osm_id": 12981827301,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Habit Burger & Grill",
+    "category": "restaurant",
+    "lat": 34.0451074,
+    "lon": -118.2600256,
+    "osm_id": 12997954701,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mexicali Taco",
+    "category": "restaurant",
+    "lat": 34.0635451,
+    "lon": -118.2455896,
+    "osm_id": 13003848482,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rice",
+    "category": "restaurant",
+    "lat": 34.0451246,
+    "lon": -118.2385844,
+    "osm_id": 13075012828,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "sandcouch cafe",
+    "category": "restaurant",
+    "lat": 34.0473244,
+    "lon": -118.2563716,
+    "osm_id": 13115718808,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cicada Restaurant and Lounge",
+    "category": "restaurant",
+    "lat": 34.047728,
+    "lon": -118.254757,
+    "osm_id": 13115718810,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "JINYA Ramen Bar",
+    "category": "restaurant",
+    "lat": 34.0487026,
+    "lon": -118.2574223,
+    "osm_id": 13115718822,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Softies Burger",
+    "category": "restaurant",
+    "lat": 34.0247339,
+    "lon": -118.2846912,
+    "osm_id": 13119537086,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Chow Mein Guy - Food Truck",
+    "category": "restaurant",
+    "lat": 34.0258477,
+    "lon": -118.2841148,
+    "osm_id": 13119537088,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tasty Wok Express - Food Truck",
+    "category": "restaurant",
+    "lat": 34.0259415,
+    "lon": -118.2841148,
+    "osm_id": 13119537089,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sunset Hot Chicken - Food Truck",
+    "category": "restaurant",
+    "lat": 34.0263425,
+    "lon": -118.2841074,
+    "osm_id": 13119537090,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "el 7 mares",
+    "category": "restaurant",
+    "lat": 34.0449023,
+    "lon": -118.203149,
+    "osm_id": 13131835806,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "HYPLAND",
+    "category": "retail",
+    "lat": 34.0490393,
+    "lon": -118.241588,
+    "osm_id": 13260764522,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Vees Cafe",
+    "category": "restaurant",
+    "lat": 34.0561652,
+    "lon": -118.2540773,
+    "osm_id": 13319482442,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Thank You Coffee",
+    "category": "restaurant",
+    "lat": 34.0652426,
+    "lon": -118.2381461,
+    "osm_id": 13343061779,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Quickly",
+    "category": "restaurant",
+    "lat": 34.0617762,
+    "lon": -118.2396059,
+    "osm_id": 13348597438,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Suehiro Mini",
+    "category": "restaurant",
+    "lat": 34.059741,
+    "lon": -118.2390807,
+    "osm_id": 13351410662,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Lien Hoa Chinese Deli & Seafood Market",
+    "category": "restaurant",
+    "lat": 34.0608955,
+    "lon": -118.2394749,
+    "osm_id": 13351495158,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Qin West Noodle",
+    "category": "restaurant",
+    "lat": 34.061302,
+    "lon": -118.2393653,
+    "osm_id": 13352114365,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hop Li Seafood Restaurant",
+    "category": "restaurant",
+    "lat": 34.062933,
+    "lon": -118.2405729,
+    "osm_id": 13352114366,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tian's Dim Sum & Fast Food",
+    "category": "restaurant",
+    "lat": 34.063074,
+    "lon": -118.2396318,
+    "osm_id": 13352203298,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jade Wok",
+    "category": "restaurant",
+    "lat": 34.0653381,
+    "lon": -118.240655,
+    "osm_id": 13352203299,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Ten Ren's Tea Time",
+    "category": "restaurant",
+    "lat": 34.0616103,
+    "lon": -118.2398871,
+    "osm_id": 13352203300,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mayflower Seafood Restaurant",
+    "category": "restaurant",
+    "lat": 34.0595576,
+    "lon": -118.2381935,
+    "osm_id": 13352229147,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Zen Mei Bistro",
+    "category": "restaurant",
+    "lat": 34.06322,
+    "lon": -118.2405914,
+    "osm_id": 13353854288,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Placita Cafe",
+    "category": "restaurant",
+    "lat": 34.0586374,
+    "lon": -118.23776,
+    "osm_id": 13353854289,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pho Saigon Republic",
+    "category": "restaurant",
+    "lat": 34.0623723,
+    "lon": -118.2364801,
+    "osm_id": 13353854290,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Yummie Sandwich & Food To Go",
+    "category": "restaurant",
+    "lat": 34.0631215,
+    "lon": -118.2375613,
+    "osm_id": 13353854291,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rollup Teriyaki",
+    "category": "restaurant",
+    "lat": 34.0574337,
+    "lon": -118.2089809,
+    "osm_id": 13376383652,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mi Caf\u00e9",
+    "category": "restaurant",
+    "lat": 34.052876,
+    "lon": -118.2946031,
+    "osm_id": 13392081002,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Alchemist Coffee Project",
+    "category": "restaurant",
+    "lat": 34.0602117,
+    "lon": -118.2913488,
+    "osm_id": 13395910006,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tensho",
+    "category": "restaurant",
+    "lat": 34.0468116,
+    "lon": -118.2387739,
+    "osm_id": 13398836947,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pasta e Pasta by Allegro",
+    "category": "restaurant",
+    "lat": 34.046606,
+    "lon": -118.2384231,
+    "osm_id": 13399309612,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Aloha Cafe",
+    "category": "restaurant",
+    "lat": 34.0469429,
+    "lon": -118.2389581,
+    "osm_id": 13399413806,
+    "osm_type": "node",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bob's Market",
+    "category": "grocery",
+    "lat": 34.0675302,
+    "lon": -118.2520877,
+    "osm_id": 60587986,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Zinc Market & Cafe",
+    "category": "restaurant",
+    "lat": 34.0394189,
+    "lon": -118.2325132,
+    "osm_id": 130798112,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Vons",
+    "category": "grocery",
+    "lat": 34.0795215,
+    "lon": -118.2613045,
+    "osm_id": 132505878,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Detroit Vesey's",
+    "category": "restaurant",
+    "lat": 34.0342891,
+    "lon": -118.2313837,
+    "osm_id": 203053784,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Farmer Boys",
+    "category": "restaurant",
+    "lat": 34.0320711,
+    "lon": -118.2383514,
+    "osm_id": 206910003,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bike Shed Moto Co.",
+    "category": "restaurant",
+    "lat": 34.0356365,
+    "lon": -118.2355587,
+    "osm_id": 206922632,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Guisado's",
+    "category": "restaurant",
+    "lat": 34.048129,
+    "lon": -118.2114892,
+    "osm_id": 220598721,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bunker Hill Market & Deli",
+    "category": "retail",
+    "lat": 34.0560052,
+    "lon": -118.2518505,
+    "osm_id": 319175177,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Bahia Ensenada",
+    "category": "restaurant",
+    "lat": 34.0457727,
+    "lon": -118.2048832,
+    "osm_id": 346440024,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hannam Chain Supermarket",
+    "category": "grocery",
+    "lat": 34.0519461,
+    "lon": -118.2930932,
+    "osm_id": 376143667,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Spotlight Caf\u00e9",
+    "category": "restaurant",
+    "lat": 34.0577135,
+    "lon": -118.2482898,
+    "osm_id": 385477875,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Natural Selection",
+    "category": "restaurant",
+    "lat": 34.0441904,
+    "lon": -118.2508386,
+    "osm_id": 407821094,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cafecito Org\u00e1nico",
+    "category": "restaurant",
+    "lat": 34.0804289,
+    "lon": -118.2842753,
+    "osm_id": 420114002,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "\u0995\u09b8\u09cd\u09a4\u09c1\u09b0\u09c0 - Kasturi",
+    "category": "restaurant",
+    "lat": 34.0688446,
+    "lon": -118.2939967,
+    "osm_id": 420672425,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Taco Bell",
+    "category": "restaurant",
+    "lat": 34.069459,
+    "lon": -118.2772386,
+    "osm_id": 426230722,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Leela Thai",
+    "category": "restaurant",
+    "lat": 34.0902537,
+    "lon": -118.2678213,
+    "osm_id": 426256295,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Mariscos 4 Vientos",
+    "category": "restaurant",
+    "lat": 34.0215062,
+    "lon": -118.2140057,
+    "osm_id": 426544168,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Imperial Mini Market",
+    "category": "grocery",
+    "lat": 34.0267265,
+    "lon": -118.2544657,
+    "osm_id": 426619688,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Joe K's",
+    "category": "restaurant",
+    "lat": 34.0142209,
+    "lon": -118.2202019,
+    "osm_id": 426813701,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Soowon Galbi",
+    "category": "restaurant",
+    "lat": 34.0564161,
+    "lon": -118.2913365,
+    "osm_id": 427290092,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Puertos Del Pacifico",
+    "category": "restaurant",
+    "lat": 34.0267728,
+    "lon": -118.2193386,
+    "osm_id": 427495388,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "12345 Clothing",
+    "category": "retail",
+    "lat": 34.0451643,
+    "lon": -118.2353425,
+    "osm_id": 427628771,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Apolis: Common Gallery",
+    "category": "retail",
+    "lat": 34.0455552,
+    "lon": -118.2358862,
+    "osm_id": 427628773,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Urth Cafe",
+    "category": "restaurant",
+    "lat": 34.0419824,
+    "lon": -118.235451,
+    "osm_id": 427628815,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Novel Cafe",
+    "category": "restaurant",
+    "lat": 34.045294,
+    "lon": -118.2353817,
+    "osm_id": 427628871,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pie Hole",
+    "category": "restaurant",
+    "lat": 34.0453073,
+    "lon": -118.2364372,
+    "osm_id": 427628873,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tacos el Hermanos",
+    "category": "restaurant",
+    "lat": 34.0475195,
+    "lon": -118.226929,
+    "osm_id": 427752988,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Catch 21 Seafood",
+    "category": "restaurant",
+    "lat": 34.0423754,
+    "lon": -118.240073,
+    "osm_id": 427817491,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sonagi Korean BBQ",
+    "category": "restaurant",
+    "lat": 34.0526304,
+    "lon": -118.2874768,
+    "osm_id": 427818104,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Yengmani",
+    "category": "restaurant",
+    "lat": 34.0526193,
+    "lon": -118.2867475,
+    "osm_id": 427818105,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "TGI Korean BBQ",
+    "category": "restaurant",
+    "lat": 34.0526398,
+    "lon": -118.2862188,
+    "osm_id": 427818212,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "The Dragon Restaurant",
+    "category": "restaurant",
+    "lat": 34.0534859,
+    "lon": -118.2913602,
+    "osm_id": 427819783,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Rain",
+    "category": "restaurant",
+    "lat": 34.0604088,
+    "lon": -118.2845635,
+    "osm_id": 427824130,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Fisherman's Outlet",
+    "category": "restaurant",
+    "lat": 34.0408929,
+    "lon": -118.2402086,
+    "osm_id": 427938789,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Maccheroni Republic",
+    "category": "restaurant",
+    "lat": 34.0500349,
+    "lon": -118.2485499,
+    "osm_id": 427942822,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pastaficio",
+    "category": "restaurant",
+    "lat": 34.0497903,
+    "lon": -118.2483712,
+    "osm_id": 427942925,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Chaya",
+    "category": "restaurant",
+    "lat": 34.0512327,
+    "lon": -118.2575585,
+    "osm_id": 428021751,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Kiku Teriyaki",
+    "category": "restaurant",
+    "lat": 34.0453499,
+    "lon": -118.2552967,
+    "osm_id": 428021841,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Q",
+    "category": "restaurant",
+    "lat": 34.0471856,
+    "lon": -118.2559264,
+    "osm_id": 428021875,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hill Grill",
+    "category": "restaurant",
+    "lat": 34.0403734,
+    "lon": -118.2599279,
+    "osm_id": 428128131,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "DAMA",
+    "category": "restaurant",
+    "lat": 34.0352726,
+    "lon": -118.2530659,
+    "osm_id": 428153124,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Taco House 3",
+    "category": "restaurant",
+    "lat": 34.0408704,
+    "lon": -118.2524931,
+    "osm_id": 428153147,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Paul's Kitchen",
+    "category": "restaurant",
+    "lat": 34.0353742,
+    "lon": -118.2515684,
+    "osm_id": 428153270,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Fosters Freeze",
+    "category": "restaurant",
+    "lat": 34.0325089,
+    "lon": -118.2119862,
+    "osm_id": 428852591,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cypress Best Burgers",
+    "category": "restaurant",
+    "lat": 34.086135,
+    "lon": -118.2190609,
+    "osm_id": 428857437,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Edmondson Faculty Center",
+    "category": "restaurant",
+    "lat": 34.0608373,
+    "lon": -118.2058096,
+    "osm_id": 428955221,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "King Taco (addition)",
+    "category": "restaurant",
+    "lat": 34.09399,
+    "lon": -118.2264299,
+    "osm_id": 429113078,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tacos Chapalita",
+    "category": "restaurant",
+    "lat": 34.0738903,
+    "lon": -118.2106574,
+    "osm_id": 429152747,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pomona Market",
+    "category": "retail",
+    "lat": 34.0785437,
+    "lon": -118.2031491,
+    "osm_id": 429158394,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Dino's Burgers",
+    "category": "restaurant",
+    "lat": 34.0661828,
+    "lon": -118.212277,
+    "osm_id": 429159227,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "La Fortuna Market",
+    "category": "retail",
+    "lat": 34.0851237,
+    "lon": -118.2113945,
+    "osm_id": 429169823,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Maya's Restaurant",
+    "category": "restaurant",
+    "lat": 34.0719221,
+    "lon": -118.2209292,
+    "osm_id": 429187472,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Golden Dragon Restaurant",
+    "category": "restaurant",
+    "lat": 34.0655138,
+    "lon": -118.2362864,
+    "osm_id": 429196363,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "King Cole Pizza",
+    "category": "restaurant",
+    "lat": 34.0305518,
+    "lon": -118.1988516,
+    "osm_id": 429319977,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Cemitas Poblanas Juquilita",
+    "category": "restaurant",
+    "lat": 34.0314426,
+    "lon": -118.1984413,
+    "osm_id": 429323379,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Traxx",
+    "category": "restaurant",
+    "lat": 34.0561849,
+    "lon": -118.2363232,
+    "osm_id": 443287617,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Wetzel's Pretzels",
+    "category": "restaurant",
+    "lat": 34.0559892,
+    "lon": -118.2355056,
+    "osm_id": 443287637,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Drago",
+    "category": "restaurant",
+    "lat": 34.0513811,
+    "lon": -118.2574168,
+    "osm_id": 565201938,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Shreebs",
+    "category": "restaurant",
+    "lat": 34.0873094,
+    "lon": -118.2600326,
+    "osm_id": 736314539,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Taix",
+    "category": "restaurant",
+    "lat": 34.0782952,
+    "lon": -118.2615428,
+    "osm_id": 886564589,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Jemps Burgers",
+    "category": "restaurant",
+    "lat": 34.0438366,
+    "lon": -118.2566526,
+    "osm_id": 905234091,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Chicas Tacos",
+    "category": "restaurant",
+    "lat": 34.0457785,
+    "lon": -118.2560594,
+    "osm_id": 905239708,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Andy's Gas Station",
+    "category": "gas",
+    "lat": 34.0838414,
+    "lon": -118.2219262,
+    "osm_id": 970715255,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Coffee M.CO",
+    "category": "restaurant",
+    "lat": 34.0521529,
+    "lon": -118.2873422,
+    "osm_id": 1063988423,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Abernethy's",
+    "category": "restaurant",
+    "lat": 34.0575504,
+    "lon": -118.2483455,
+    "osm_id": 1074067461,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Dino's Famous Chicken",
+    "category": "restaurant",
+    "lat": 34.0474551,
+    "lon": -118.293939,
+    "osm_id": 1171354540,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tacos Gavilan",
+    "category": "restaurant",
+    "lat": 34.024095,
+    "lon": -118.250522,
+    "osm_id": 1215703602,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Conny Fashion",
+    "category": "retail",
+    "lat": 34.0470585,
+    "lon": -118.2912251,
+    "osm_id": 1247120974,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pulgarcito Market",
+    "category": "retail",
+    "lat": 34.0470582,
+    "lon": -118.2912896,
+    "osm_id": 1247120975,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Pulgarcito",
+    "category": "restaurant",
+    "lat": 34.0470742,
+    "lon": -118.291852,
+    "osm_id": 1247120984,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Tortiller\u00eda Acapulco",
+    "category": "retail",
+    "lat": 34.0468655,
+    "lon": -118.2918502,
+    "osm_id": 1247120987,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "\ucc9c\ud558\ub9cc\ub450 Dumpling House",
+    "category": "restaurant",
+    "lat": 34.0693751,
+    "lon": -118.2926198,
+    "osm_id": 1267068014,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "California Donuts",
+    "category": "restaurant",
+    "lat": 34.0687623,
+    "lon": -118.2931521,
+    "osm_id": 1267068023,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "La Morenita Oaxaque\u00f1a",
+    "category": "restaurant",
+    "lat": 34.0688393,
+    "lon": -118.2934902,
+    "osm_id": 1267068027,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Hawaiian B.B.Q. House",
+    "category": "restaurant",
+    "lat": 34.0689065,
+    "lon": -118.2934907,
+    "osm_id": 1267068028,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Teresita's",
+    "category": "restaurant",
+    "lat": 34.0724727,
+    "lon": -118.2922372,
+    "osm_id": 1269266109,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "ALA Fashion",
+    "category": "retail",
+    "lat": 34.0725262,
+    "lon": -118.2922195,
+    "osm_id": 1269266110,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Sea Dragon",
+    "category": "restaurant",
+    "lat": 34.0725885,
+    "lon": -118.2922199,
+    "osm_id": 1269266111,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "K'aslam Apparel",
+    "category": "retail",
+    "lat": 34.0469687,
+    "lon": -118.2856361,
+    "osm_id": 1389975931,
+    "osm_type": "way",
+    "city": "los_angeles"
+  },
+  {
+    "name": "Colbrun Caf\u00e9",
+    "category": "restaurant",
+    "lat": 34.0536951,
+    "lon": -118.2496459,
+    "osm_id": 1435789965,
+    "osm_type": "way",
+    "city": "los_angeles"
+  }
+]

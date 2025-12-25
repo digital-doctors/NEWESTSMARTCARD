@@ -1,0 +1,6338 @@
+[
+  {
+    "name": "Starbucks",
+    "category": "restaurant",
+    "lat": 30.2682668,
+    "lon": -97.7429695,
+    "osm_id": 338450997,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Chevron",
+    "category": "gas",
+    "lat": 30.2782984,
+    "lon": -97.7724289,
+    "osm_id": 436633130,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Thundercloud Subs",
+    "category": "restaurant",
+    "lat": 30.2781347,
+    "lon": -97.7720326,
+    "osm_id": 436634195,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Galaxy Cafe",
+    "category": "restaurant",
+    "lat": 30.2794133,
+    "lon": -97.7600581,
+    "osm_id": 457485574,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Phoenicia Bakery & Deli",
+    "category": "restaurant",
+    "lat": 30.24346,
+    "lon": -97.7831233,
+    "osm_id": 472241364,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Giovanni Pizza Stand",
+    "category": "restaurant",
+    "lat": 30.2437468,
+    "lon": -97.7828277,
+    "osm_id": 472241665,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Oakmont Food Company",
+    "category": "restaurant",
+    "lat": 30.3059582,
+    "lon": -97.7442691,
+    "osm_id": 530928514,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Teo's Gelato and Espresso",
+    "category": "restaurant",
+    "lat": 30.3065679,
+    "lon": -97.7451642,
+    "osm_id": 530929398,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Kerbey Lane Cafe",
+    "category": "restaurant",
+    "lat": 30.3080182,
+    "lon": -97.7504833,
+    "osm_id": 530930090,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Taco Shack",
+    "category": "restaurant",
+    "lat": 30.2951342,
+    "lon": -97.7425085,
+    "osm_id": 534447738,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Sip Pho",
+    "category": "restaurant",
+    "lat": 30.2954158,
+    "lon": -97.7423368,
+    "osm_id": 534447805,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Counter Cafe",
+    "category": "restaurant",
+    "lat": 30.2953679,
+    "lon": -97.7432778,
+    "osm_id": 534447807,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Cabo Bob's",
+    "category": "restaurant",
+    "lat": 30.2957196,
+    "lon": -97.7441221,
+    "osm_id": 534447979,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Ken's Donuts",
+    "category": "restaurant",
+    "lat": 30.2948674,
+    "lon": -97.742826,
+    "osm_id": 534448267,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Torchy's Tacos",
+    "category": "restaurant",
+    "lat": 30.2937038,
+    "lon": -97.7417617,
+    "osm_id": 534448268,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "P. Terry's",
+    "category": "restaurant",
+    "lat": 30.3018243,
+    "lon": -97.7449855,
+    "osm_id": 534450402,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Shell",
+    "category": "gas",
+    "lat": 30.3015074,
+    "lon": -97.7452894,
+    "osm_id": 534450403,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Trudy's Texas Star",
+    "category": "restaurant",
+    "lat": 30.2958121,
+    "lon": -97.7409556,
+    "osm_id": 534454449,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Boomerang's",
+    "category": "restaurant",
+    "lat": 30.2985232,
+    "lon": -97.7411997,
+    "osm_id": 534455637,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "La Tazza Fresca",
+    "category": "restaurant",
+    "lat": 30.3016888,
+    "lon": -97.7386124,
+    "osm_id": 534455646,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Fiesta Market",
+    "category": "grocery",
+    "lat": 30.2959244,
+    "lon": -97.7175123,
+    "osm_id": 566160305,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Jack in the Box",
+    "category": "restaurant",
+    "lat": 30.2739039,
+    "lon": -97.6976331,
+    "osm_id": 822469597,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Golden Chick",
+    "category": "restaurant",
+    "lat": 30.2727642,
+    "lon": -97.6981266,
+    "osm_id": 822469603,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Taco Bell",
+    "category": "restaurant",
+    "lat": 30.2832777,
+    "lon": -97.7039145,
+    "osm_id": 822471262,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Popeyes",
+    "category": "restaurant",
+    "lat": 30.2821242,
+    "lon": -97.7031114,
+    "osm_id": 822471263,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Pollo Rico",
+    "category": "restaurant",
+    "lat": 30.2817814,
+    "lon": -97.7029666,
+    "osm_id": 822471264,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Mi Madre's",
+    "category": "restaurant",
+    "lat": 30.2841763,
+    "lon": -97.7189427,
+    "osm_id": 860407795,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "WhipIn",
+    "category": "restaurant",
+    "lat": 30.2381148,
+    "lon": -97.7394025,
+    "osm_id": 882493049,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Taco Deli",
+    "category": "restaurant",
+    "lat": 30.2496256,
+    "lon": -97.7663914,
+    "osm_id": 919327830,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Sazon",
+    "category": "restaurant",
+    "lat": 30.2499685,
+    "lon": -97.7670565,
+    "osm_id": 919327832,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "CVS Pharmacy",
+    "category": "pharmacy",
+    "lat": 30.2475017,
+    "lon": -97.7700166,
+    "osm_id": 919327834,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Picnik",
+    "category": "restaurant",
+    "lat": 30.2512104,
+    "lon": -97.7657583,
+    "osm_id": 919327835,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Chinatown",
+    "category": "restaurant",
+    "lat": 30.2415436,
+    "lon": -97.7833214,
+    "osm_id": 919327995,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Texaco",
+    "category": "gas",
+    "lat": 30.2418674,
+    "lon": -97.7594581,
+    "osm_id": 919330532,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Curra's Grill",
+    "category": "restaurant",
+    "lat": 30.237152,
+    "lon": -97.7494097,
+    "osm_id": 919331370,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Greek Bar",
+    "category": "restaurant",
+    "lat": 30.2371474,
+    "lon": -97.7496672,
+    "osm_id": 919331375,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "888 Pan Asian Restaurant",
+    "category": "restaurant",
+    "lat": 30.2297317,
+    "lon": -97.7299369,
+    "osm_id": 919331536,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "David's Food",
+    "category": "retail",
+    "lat": 30.2484184,
+    "lon": -97.7617375,
+    "osm_id": 919333660,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Thai Fresh",
+    "category": "restaurant",
+    "lat": 30.2479434,
+    "lon": -97.7617143,
+    "osm_id": 919333661,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Soup Peddler",
+    "category": "restaurant",
+    "lat": 30.2461944,
+    "lon": -97.7560714,
+    "osm_id": 919334013,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Polvo's",
+    "category": "restaurant",
+    "lat": 30.245295,
+    "lon": -97.7574567,
+    "osm_id": 919334014,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bennu Coffee Shop",
+    "category": "restaurant",
+    "lat": 30.2561056,
+    "lon": -97.7462026,
+    "osm_id": 919335942,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Perla's",
+    "category": "restaurant",
+    "lat": 30.2499704,
+    "lon": -97.7500381,
+    "osm_id": 919336156,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Fair Bean Coffee",
+    "category": "restaurant",
+    "lat": 30.2439425,
+    "lon": -97.7583643,
+    "osm_id": 919339993,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Lenoir",
+    "category": "restaurant",
+    "lat": 30.246897,
+    "lon": -97.7558981,
+    "osm_id": 919339994,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "June's All Day",
+    "category": "restaurant",
+    "lat": 30.2463145,
+    "lon": -97.7511347,
+    "osm_id": 919340307,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Woodland",
+    "category": "restaurant",
+    "lat": 30.2464589,
+    "lon": -97.7510901,
+    "osm_id": 919340311,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Vespaio",
+    "category": "restaurant",
+    "lat": 30.2479272,
+    "lon": -97.7506887,
+    "osm_id": 919340319,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bouldin Creek Cafe",
+    "category": "restaurant",
+    "lat": 30.246512,
+    "lon": -97.7566288,
+    "osm_id": 919341613,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "First Food Mart",
+    "category": "grocery",
+    "lat": 30.2504524,
+    "lon": -97.7551176,
+    "osm_id": 919341614,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Mercado",
+    "category": "restaurant",
+    "lat": 30.2513434,
+    "lon": -97.7545812,
+    "osm_id": 919341626,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Hu La Hu Market 2",
+    "category": "retail",
+    "lat": 30.2446379,
+    "lon": -97.7572419,
+    "osm_id": 919342408,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Once Over Coffee Bar",
+    "category": "restaurant",
+    "lat": 30.2448093,
+    "lon": -97.7569898,
+    "osm_id": 919343141,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Little Mexico",
+    "category": "restaurant",
+    "lat": 30.2430066,
+    "lon": -97.758921,
+    "osm_id": 919345191,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Taqueria Arandas",
+    "category": "restaurant",
+    "lat": 30.2406153,
+    "lon": -97.7609112,
+    "osm_id": 919345199,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Summermoon Coffee Bar",
+    "category": "restaurant",
+    "lat": 30.2332092,
+    "lon": -97.7648433,
+    "osm_id": 919346675,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Smart Stop",
+    "category": "retail",
+    "lat": 30.235453,
+    "lon": -97.7568058,
+    "osm_id": 919361277,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "24 Diner",
+    "category": "restaurant",
+    "lat": 30.2720726,
+    "lon": -97.7541298,
+    "osm_id": 919419079,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Jeffrey's",
+    "category": "restaurant",
+    "lat": 30.2804408,
+    "lon": -97.7591677,
+    "osm_id": 919419993,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Fresh Plus",
+    "category": "grocery",
+    "lat": 30.2806562,
+    "lon": -97.7584194,
+    "osm_id": 919420016,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Texaco FoodMart",
+    "category": "retail",
+    "lat": 30.2416355,
+    "lon": -97.7595328,
+    "osm_id": 1037771638,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Asti",
+    "category": "restaurant",
+    "lat": 30.3048563,
+    "lon": -97.7262204,
+    "osm_id": 1236792977,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "JuiceLand",
+    "category": "restaurant",
+    "lat": 30.3071695,
+    "lon": -97.7248904,
+    "osm_id": 1431503598,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Hornitos",
+    "category": "restaurant",
+    "lat": 30.294193,
+    "lon": -97.7205415,
+    "osm_id": 1477428986,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Tandoori Bistro",
+    "category": "restaurant",
+    "lat": 30.2325951,
+    "lon": -97.7406066,
+    "osm_id": 1481347059,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Java Noodles",
+    "category": "restaurant",
+    "lat": 30.2294109,
+    "lon": -97.7293306,
+    "osm_id": 1481349979,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "III Forks",
+    "category": "restaurant",
+    "lat": 30.264198,
+    "lon": -97.746747,
+    "osm_id": 1481364381,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Gallo Mexican Restaurant",
+    "category": "restaurant",
+    "lat": 30.2331421,
+    "lon": -97.7586735,
+    "osm_id": 1481388984,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Jaimes Spanish Village",
+    "category": "restaurant",
+    "lat": 30.2687136,
+    "lon": -97.7365652,
+    "osm_id": 1481420725,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Hoek's Pizza",
+    "category": "restaurant",
+    "lat": 30.2665547,
+    "lon": -97.7378522,
+    "osm_id": 1481633301,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Roppolo's Pizza",
+    "category": "restaurant",
+    "lat": 30.2670389,
+    "lon": -97.7386841,
+    "osm_id": 1481633310,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Iron Cactus",
+    "category": "restaurant",
+    "lat": 30.2672622,
+    "lon": -97.7394843,
+    "osm_id": 1481633321,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Old Pecan Street Cafe",
+    "category": "restaurant",
+    "lat": 30.2673807,
+    "lon": -97.7399087,
+    "osm_id": 1481633336,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bikinis Sports Bar & Grill",
+    "category": "restaurant",
+    "lat": 30.2675896,
+    "lon": -97.7406574,
+    "osm_id": 1481633344,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Happy Chicks",
+    "category": "restaurant",
+    "lat": 30.2676222,
+    "lon": -97.7407745,
+    "osm_id": 1481633361,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Marisco Grill",
+    "category": "restaurant",
+    "lat": 30.2673138,
+    "lon": -97.7409874,
+    "osm_id": 1481633362,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Eureka",
+    "category": "restaurant",
+    "lat": 30.267757,
+    "lon": -97.741256,
+    "osm_id": 1481633376,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Littlefield Market",
+    "category": "retail",
+    "lat": 30.267606,
+    "lon": -97.7417531,
+    "osm_id": 1481633380,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Belmont",
+    "category": "restaurant",
+    "lat": 30.2686611,
+    "lon": -97.7454947,
+    "osm_id": 1481633389,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Juanita's Tacos",
+    "category": "restaurant",
+    "lat": 30.2717214,
+    "lon": -97.7577953,
+    "osm_id": 1481721310,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Corazon",
+    "category": "restaurant",
+    "lat": 30.2708184,
+    "lon": -97.7563315,
+    "osm_id": 1481721311,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Eddie V's",
+    "category": "restaurant",
+    "lat": 30.2662223,
+    "lon": -97.7405459,
+    "osm_id": 1481721332,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Thom's Market",
+    "category": "retail",
+    "lat": 30.2556863,
+    "lon": -97.744898,
+    "osm_id": 1481848494,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Mobil",
+    "category": "gas",
+    "lat": 30.2269758,
+    "lon": -97.7619801,
+    "osm_id": 1481848680,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Flaco Cafe",
+    "category": "restaurant",
+    "lat": 30.2266199,
+    "lon": -97.7622847,
+    "osm_id": 1481848682,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Revoluci\u00f3n Coffee + Juice",
+    "category": "restaurant",
+    "lat": 30.2643747,
+    "lon": -97.7413623,
+    "osm_id": 1483653748,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Maiko Sushi",
+    "category": "restaurant",
+    "lat": 30.2641473,
+    "lon": -97.7414463,
+    "osm_id": 1483653753,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Gus' Fried Chicken",
+    "category": "restaurant",
+    "lat": 30.26347,
+    "lon": -97.741701,
+    "osm_id": 1483653929,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Le Caf\u00e9 Cr\u00eape",
+    "category": "restaurant",
+    "lat": 30.2638474,
+    "lon": -97.7418971,
+    "osm_id": 1483653960,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "2nd St Market",
+    "category": "retail",
+    "lat": 30.2639562,
+    "lon": -97.74232,
+    "osm_id": 1483653972,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "7-Eleven",
+    "category": "gas",
+    "lat": 30.2747296,
+    "lon": -97.7522018,
+    "osm_id": 1483930984,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Fete Accompli",
+    "category": "restaurant",
+    "lat": 30.2765454,
+    "lon": -97.7507791,
+    "osm_id": 1483931043,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "House Park Bar-B-Que",
+    "category": "restaurant",
+    "lat": 30.2767346,
+    "lon": -97.750411,
+    "osm_id": 1483931045,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Perry's Steakhouse",
+    "category": "restaurant",
+    "lat": 30.2694661,
+    "lon": -97.7435164,
+    "osm_id": 1483931073,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Subway",
+    "category": "restaurant",
+    "lat": 30.2703022,
+    "lon": -97.7417493,
+    "osm_id": 1483931095,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Quattro Gatti Ristorante",
+    "category": "restaurant",
+    "lat": 30.271294,
+    "lon": -97.7418546,
+    "osm_id": 1483931096,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Roaring Fork",
+    "category": "restaurant",
+    "lat": 30.2690633,
+    "lon": -97.7421993,
+    "osm_id": 1483931115,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Congress Avenue Grocery",
+    "category": "restaurant",
+    "lat": 30.2650401,
+    "lon": -97.7437082,
+    "osm_id": 1483931163,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Peoples Pharmacy",
+    "category": "pharmacy",
+    "lat": 30.3089652,
+    "lon": -97.741148,
+    "osm_id": 1484100635,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Valero",
+    "category": "gas",
+    "lat": 30.3041548,
+    "lon": -97.7435652,
+    "osm_id": 1484100636,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "La Madeleine",
+    "category": "restaurant",
+    "lat": 30.3033701,
+    "lon": -97.7446209,
+    "osm_id": 1484100637,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "34th St Cafe",
+    "category": "restaurant",
+    "lat": 30.302703,
+    "lon": -97.7452903,
+    "osm_id": 1484100638,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Conscious Cravings",
+    "category": "restaurant",
+    "lat": 30.2829388,
+    "lon": -97.7449006,
+    "osm_id": 1488693500,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Hai Ky",
+    "category": "restaurant",
+    "lat": 30.2307085,
+    "lon": -97.7348261,
+    "osm_id": 1488724649,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Varsity Pizza",
+    "category": "restaurant",
+    "lat": 30.2874594,
+    "lon": -97.7369076,
+    "osm_id": 1489676669,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Nasha",
+    "category": "restaurant",
+    "lat": 30.2637439,
+    "lon": -97.7248744,
+    "osm_id": 1489676675,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Zunzal",
+    "category": "restaurant",
+    "lat": 30.2600696,
+    "lon": -97.7121017,
+    "osm_id": 1489676681,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Halcyon",
+    "category": "restaurant",
+    "lat": 30.266973,
+    "lon": -97.7456939,
+    "osm_id": 1489699385,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Lucy's Fried Chicken",
+    "category": "restaurant",
+    "lat": 30.240435,
+    "lon": -97.7532506,
+    "osm_id": 1521721801,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Foxtrot",
+    "category": "retail",
+    "lat": 30.2648968,
+    "lon": -97.7469115,
+    "osm_id": 1539153968,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Lick Honest Ice Creams",
+    "category": "restaurant",
+    "lat": 30.2555387,
+    "lon": -97.7625208,
+    "osm_id": 1667401528,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Mezze Cafe",
+    "category": "restaurant",
+    "lat": 30.2416821,
+    "lon": -97.7581999,
+    "osm_id": 1667409614,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "RBM Food Mart",
+    "category": "retail",
+    "lat": 30.2845993,
+    "lon": -97.7151648,
+    "osm_id": 1709362111,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Chilito Cafe y Cantina",
+    "category": "restaurant",
+    "lat": 30.2841449,
+    "lon": -97.7183747,
+    "osm_id": 1937536449,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Santa Rita",
+    "category": "restaurant",
+    "lat": 30.306775,
+    "lon": -97.74429,
+    "osm_id": 2099133041,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Hyde Park Bar and Grill",
+    "category": "restaurant",
+    "lat": 30.304197,
+    "lon": -97.726689,
+    "osm_id": 2110873907,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "parkside",
+    "category": "restaurant",
+    "lat": 30.267202,
+    "lon": -97.740299,
+    "osm_id": 2332626583,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Champions",
+    "category": "restaurant",
+    "lat": 30.265402,
+    "lon": -97.740157,
+    "osm_id": 2333118811,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Mai Thai",
+    "category": "restaurant",
+    "lat": 30.264266,
+    "lon": -97.741411,
+    "osm_id": 2334038870,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Chipotle",
+    "category": "restaurant",
+    "lat": 30.2700107,
+    "lon": -97.7418634,
+    "osm_id": 2447742850,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "H-E-B",
+    "category": "grocery",
+    "lat": 30.3005067,
+    "lon": -97.7196451,
+    "osm_id": 2491857230,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Monarch Food Mart",
+    "category": "retail",
+    "lat": 30.2932777,
+    "lon": -97.716018,
+    "osm_id": 2507491257,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Cherrywood Coffee House",
+    "category": "restaurant",
+    "lat": 30.2935486,
+    "lon": -97.7160528,
+    "osm_id": 2507491258,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "H-E-B Pharmacy",
+    "category": "pharmacy",
+    "lat": 30.2594408,
+    "lon": -97.7118318,
+    "osm_id": 2637711684,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Tarrytown Pharmacy",
+    "category": "retail",
+    "lat": 30.3036219,
+    "lon": -97.7639591,
+    "osm_id": 2667699740,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Walgreens",
+    "category": "pharmacy",
+    "lat": 30.2426252,
+    "lon": -97.7280805,
+    "osm_id": 2673754493,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Slake Cafe",
+    "category": "restaurant",
+    "lat": 30.268835,
+    "lon": -97.741283,
+    "osm_id": 2675179188,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Home Slice Pizza",
+    "category": "restaurant",
+    "lat": 30.2492274,
+    "lon": -97.7495768,
+    "osm_id": 2676032286,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "More Home Slice Pizza",
+    "category": "restaurant",
+    "lat": 30.2489829,
+    "lon": -97.7496114,
+    "osm_id": 2676032290,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Signature Gas",
+    "category": "gas",
+    "lat": 30.2591718,
+    "lon": -97.7591983,
+    "osm_id": 2723999250,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Southside Flying Pizza",
+    "category": "restaurant",
+    "lat": 30.25409,
+    "lon": -97.7631309,
+    "osm_id": 2724014428,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Clay Pit",
+    "category": "restaurant",
+    "lat": 30.2790333,
+    "lon": -97.7423871,
+    "osm_id": 2727205684,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Arturo's",
+    "category": "restaurant",
+    "lat": 30.2797199,
+    "lon": -97.7419273,
+    "osm_id": 2727206432,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Caribbean Food Trailer",
+    "category": "restaurant",
+    "lat": 30.2771154,
+    "lon": -97.7130932,
+    "osm_id": 2741074800,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Stubb's",
+    "category": "restaurant",
+    "lat": 30.2733072,
+    "lon": -97.7593133,
+    "osm_id": 2743506685,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Quarters Market",
+    "category": "retail",
+    "lat": 30.2869407,
+    "lon": -97.7449912,
+    "osm_id": 2784717147,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Raku Sushi & Asian Bistro",
+    "category": "restaurant",
+    "lat": 30.2866355,
+    "lon": -97.7449482,
+    "osm_id": 2785168695,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "YaYa Cafe",
+    "category": "restaurant",
+    "lat": 30.3026246,
+    "lon": -97.7385591,
+    "osm_id": 2785219877,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Church's Chicken",
+    "category": "restaurant",
+    "lat": 30.242855,
+    "lon": -97.7296,
+    "osm_id": 2808857301,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Pizza Press",
+    "category": "restaurant",
+    "lat": 30.2906805,
+    "lon": -97.742035,
+    "osm_id": 2811210486,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Freebirds",
+    "category": "restaurant",
+    "lat": 30.2995914,
+    "lon": -97.7213352,
+    "osm_id": 2920762432,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Jason's Deli",
+    "category": "restaurant",
+    "lat": 30.3010767,
+    "lon": -97.7213595,
+    "osm_id": 2920762434,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Chile Caf\u00e9 y Cantina",
+    "category": "restaurant",
+    "lat": 30.2840559,
+    "lon": -97.721778,
+    "osm_id": 3146029207,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Taco Mex",
+    "category": "restaurant",
+    "lat": 30.2847133,
+    "lon": -97.7149412,
+    "osm_id": 3146057574,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Hopdoddy Burger Bar",
+    "category": "restaurant",
+    "lat": 30.2496642,
+    "lon": -97.7499575,
+    "osm_id": 3181780233,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Salty Sow",
+    "category": "restaurant",
+    "lat": 30.2837405,
+    "lon": -97.7212605,
+    "osm_id": 3181780240,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Tacodeli",
+    "category": "restaurant",
+    "lat": 30.3104716,
+    "lon": -97.7401083,
+    "osm_id": 3181780245,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Houndstooth",
+    "category": "restaurant",
+    "lat": 30.3106073,
+    "lon": -97.7400068,
+    "osm_id": 3181780246,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Uchiko",
+    "category": "restaurant",
+    "lat": 30.3107699,
+    "lon": -97.7398856,
+    "osm_id": 3181780247,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Lucky Robot",
+    "category": "restaurant",
+    "lat": 30.2508288,
+    "lon": -97.7489794,
+    "osm_id": 3181872963,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Botticelli's",
+    "category": "restaurant",
+    "lat": 30.2503043,
+    "lon": -97.7491227,
+    "osm_id": 3181872974,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bennu Coffee",
+    "category": "restaurant",
+    "lat": 30.2797982,
+    "lon": -97.7196272,
+    "osm_id": 3181892455,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Koko's Beer Hall",
+    "category": "restaurant",
+    "lat": 30.2425053,
+    "lon": -97.783148,
+    "osm_id": 3190702922,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Magnolia Cafe",
+    "category": "restaurant",
+    "lat": 30.2444789,
+    "lon": -97.7519802,
+    "osm_id": 3190821383,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Roselle Pizzeria",
+    "category": "restaurant",
+    "lat": 30.2475144,
+    "lon": -97.7747477,
+    "osm_id": 3190845084,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "East Side King",
+    "category": "restaurant",
+    "lat": 30.262939,
+    "lon": -97.7250128,
+    "osm_id": 3190845085,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Chi'Lantro",
+    "category": "restaurant",
+    "lat": 30.2705292,
+    "lon": -97.7414985,
+    "osm_id": 3190873008,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Este",
+    "category": "restaurant",
+    "lat": 30.2839954,
+    "lon": -97.7195394,
+    "osm_id": 3190873010,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Jo's Coffee",
+    "category": "restaurant",
+    "lat": 30.2650419,
+    "lon": -97.7460802,
+    "osm_id": 3190877885,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Revival Coffee",
+    "category": "restaurant",
+    "lat": 30.2642837,
+    "lon": -97.7277618,
+    "osm_id": 3197335001,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Vince Young Steakhouse",
+    "category": "restaurant",
+    "lat": 30.2648186,
+    "lon": -97.7411682,
+    "osm_id": 3197335004,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Pearl Dive Oyster Bar",
+    "category": "restaurant",
+    "lat": 30.2744898,
+    "lon": -97.7646296,
+    "osm_id": 3240494278,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Chilito",
+    "category": "restaurant",
+    "lat": 30.2630554,
+    "lon": -97.7244128,
+    "osm_id": 3241997526,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Julio's Cafe",
+    "category": "restaurant",
+    "lat": 30.3045094,
+    "lon": -97.7264373,
+    "osm_id": 3242030466,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Vino Vino",
+    "category": "restaurant",
+    "lat": 30.3069687,
+    "lon": -97.7353169,
+    "osm_id": 3242874462,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Teddies For Bettys",
+    "category": "retail",
+    "lat": 30.2646782,
+    "lon": -97.7460563,
+    "osm_id": 3245051645,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bar Chi Sushi",
+    "category": "restaurant",
+    "lat": 30.265297,
+    "lon": -97.74553,
+    "osm_id": 3245051647,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Luxe Apothetique",
+    "category": "retail",
+    "lat": 30.2646368,
+    "lon": -97.7458184,
+    "osm_id": 3245051648,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Hemline",
+    "category": "retail",
+    "lat": 30.2647398,
+    "lon": -97.7462694,
+    "osm_id": 3245051649,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Which Wich?",
+    "category": "restaurant",
+    "lat": 30.2657187,
+    "lon": -97.7460186,
+    "osm_id": 3245051653,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Langford Market",
+    "category": "retail",
+    "lat": 30.2647907,
+    "lon": -97.7464805,
+    "osm_id": 3245051654,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Royal Blue Grocery",
+    "category": "retail",
+    "lat": 30.2656885,
+    "lon": -97.7458792,
+    "osm_id": 3245054362,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Taverna",
+    "category": "restaurant",
+    "lat": 30.2651262,
+    "lon": -97.7463264,
+    "osm_id": 3245054363,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Francesca's",
+    "category": "retail",
+    "lat": 30.2647741,
+    "lon": -97.7464146,
+    "osm_id": 3245054370,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bill's Oyster",
+    "category": "restaurant",
+    "lat": 30.2656186,
+    "lon": -97.7456335,
+    "osm_id": 3245054371,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "League of Rebels",
+    "category": "retail",
+    "lat": 30.2652984,
+    "lon": -97.7483057,
+    "osm_id": 3248316798,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Lamberts",
+    "category": "restaurant",
+    "lat": 30.26518,
+    "lon": -97.747927,
+    "osm_id": 3248316800,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bonobos",
+    "category": "retail",
+    "lat": 30.2656622,
+    "lon": -97.7481675,
+    "osm_id": 3248316803,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "La Condesa",
+    "category": "restaurant",
+    "lat": 30.265572,
+    "lon": -97.7477644,
+    "osm_id": 3248316807,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Loft",
+    "category": "retail",
+    "lat": 30.2656365,
+    "lon": -97.7480052,
+    "osm_id": 3248316808,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Gameday Cloth",
+    "category": "retail",
+    "lat": 30.2653884,
+    "lon": -97.7485957,
+    "osm_id": 3248316813,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Restaurant Fran\u00e7ois",
+    "category": "restaurant",
+    "lat": 30.2661363,
+    "lon": -97.7476193,
+    "osm_id": 3248363281,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Meson",
+    "category": "restaurant",
+    "lat": 30.2489743,
+    "lon": -97.7689416,
+    "osm_id": 3281003849,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "It's Italian Cucina",
+    "category": "restaurant",
+    "lat": 30.2525756,
+    "lon": -97.7642578,
+    "osm_id": 3281003852,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Raval",
+    "category": "restaurant",
+    "lat": 30.2522862,
+    "lon": -97.764434,
+    "osm_id": 3281003853,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Hoiden",
+    "category": "retail",
+    "lat": 30.248218,
+    "lon": -97.7695733,
+    "osm_id": 3327898693,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Chupacabra Cantina",
+    "category": "restaurant",
+    "lat": 30.2671673,
+    "lon": -97.7391442,
+    "osm_id": 3353621862,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Rio Grande Mexican",
+    "category": "restaurant",
+    "lat": 30.2647151,
+    "lon": -97.7410729,
+    "osm_id": 3354471239,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Geisha Sushi & Grill",
+    "category": "restaurant",
+    "lat": 30.266411,
+    "lon": -97.7364345,
+    "osm_id": 3355462799,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Los Comales Restaurant",
+    "category": "restaurant",
+    "lat": 30.2618724,
+    "lon": -97.7182535,
+    "osm_id": 3422283410,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Chi'Lantro BBQ",
+    "category": "restaurant",
+    "lat": 30.2520019,
+    "lon": -97.7638478,
+    "osm_id": 3430535183,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "ABGB",
+    "category": "restaurant",
+    "lat": 30.2451066,
+    "lon": -97.7688916,
+    "osm_id": 3506565393,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Wright Bros. Brew & Brew",
+    "category": "restaurant",
+    "lat": 30.2644493,
+    "lon": -97.7330414,
+    "osm_id": 3533712652,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Cenote",
+    "category": "restaurant",
+    "lat": 30.260505,
+    "lon": -97.733706,
+    "osm_id": 3646391293,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Grove",
+    "category": "restaurant",
+    "lat": 30.270593,
+    "lon": -97.7509613,
+    "osm_id": 3670757852,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Hoover's Cooking",
+    "category": "restaurant",
+    "lat": 30.2843995,
+    "lon": -97.7203077,
+    "osm_id": 3676836258,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Howdy Donut",
+    "category": "restaurant",
+    "lat": 30.257233,
+    "lon": -97.746429,
+    "osm_id": 3763984360,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Caff\u00e9 Medici",
+    "category": "restaurant",
+    "lat": 30.264819,
+    "lon": -97.7442485,
+    "osm_id": 3763984362,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Fogo de Ch\u00e3o",
+    "category": "restaurant",
+    "lat": 30.2645145,
+    "lon": -97.7443724,
+    "osm_id": 3764035157,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Arandinas Mexican Restaurant",
+    "category": "restaurant",
+    "lat": 30.240538,
+    "lon": -97.726533,
+    "osm_id": 3764472558,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Trader Joe's",
+    "category": "grocery",
+    "lat": 30.2676959,
+    "lon": -97.7526645,
+    "osm_id": 3810482243,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Saigon On 7th",
+    "category": "restaurant",
+    "lat": 30.2605397,
+    "lon": -97.7128707,
+    "osm_id": 3825322728,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Gyu-Kaku",
+    "category": "restaurant",
+    "lat": 30.2633101,
+    "lon": -97.7308402,
+    "osm_id": 3825322832,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Brooklyn Dumpling Shop",
+    "category": "restaurant",
+    "lat": 30.2634537,
+    "lon": -97.7280332,
+    "osm_id": 3825322898,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Ma'CoCo",
+    "category": "restaurant",
+    "lat": 30.2622663,
+    "lon": -97.7267125,
+    "osm_id": 3825323468,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Pluckers Wing Bar",
+    "category": "restaurant",
+    "lat": 30.2863059,
+    "lon": -97.7450193,
+    "osm_id": 3842113617,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Dollar Slice Club",
+    "category": "restaurant",
+    "lat": 30.2866,
+    "lon": -97.741932,
+    "osm_id": 3842174530,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Miss Behavin",
+    "category": "retail",
+    "lat": 30.2869359,
+    "lon": -97.7418213,
+    "osm_id": 3842174540,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "C. Jane",
+    "category": "retail",
+    "lat": 30.2873346,
+    "lon": -97.7418401,
+    "osm_id": 3842174547,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Jimmy John's",
+    "category": "restaurant",
+    "lat": 30.2910839,
+    "lon": -97.7266935,
+    "osm_id": 3849747594,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Corinne",
+    "category": "restaurant",
+    "lat": 30.2625953,
+    "lon": -97.7411854,
+    "osm_id": 3849775790,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Mason's Famous Lobster Rolls",
+    "category": "restaurant",
+    "lat": 30.2646193,
+    "lon": -97.7447359,
+    "osm_id": 3849775798,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Red Farm",
+    "category": "restaurant",
+    "lat": 30.265537,
+    "lon": -97.745401,
+    "osm_id": 3849776337,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Proper Sandos",
+    "category": "restaurant",
+    "lat": 30.2660738,
+    "lon": -97.7499082,
+    "osm_id": 3849776342,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "TraphouseATX",
+    "category": "restaurant",
+    "lat": 30.266118,
+    "lon": -97.745165,
+    "osm_id": 3849777216,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Urban Outfitters",
+    "category": "retail",
+    "lat": 30.2653965,
+    "lon": -97.7474851,
+    "osm_id": 3849777659,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Local Foods",
+    "category": "restaurant",
+    "lat": 30.265697,
+    "lon": -97.748514,
+    "osm_id": 3849778276,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Wu Chow",
+    "category": "restaurant",
+    "lat": 30.2686128,
+    "lon": -97.7478966,
+    "osm_id": 3849778288,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Capital One Caf\u00e9",
+    "category": "restaurant",
+    "lat": 30.2681344,
+    "lon": -97.7425331,
+    "osm_id": 3849778796,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Vaquero Taquero",
+    "category": "restaurant",
+    "lat": 30.2664657,
+    "lon": -97.7358582,
+    "osm_id": 3849778812,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Fleet Coffee",
+    "category": "restaurant",
+    "lat": 30.270247,
+    "lon": -97.742287,
+    "osm_id": 3849779903,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Picket Fences",
+    "category": "retail",
+    "lat": 30.302593,
+    "lon": -97.745094,
+    "osm_id": 3849929919,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Taco Joint",
+    "category": "restaurant",
+    "lat": 30.291558,
+    "lon": -97.734917,
+    "osm_id": 3852666892,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "RS Food Mart",
+    "category": "retail",
+    "lat": 30.268452,
+    "lon": -97.725791,
+    "osm_id": 3855741546,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Mour Cafe",
+    "category": "restaurant",
+    "lat": 30.2437089,
+    "lon": -97.7283854,
+    "osm_id": 3856445928,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "1618 Asian Fusion",
+    "category": "restaurant",
+    "lat": 30.245235,
+    "lon": -97.730369,
+    "osm_id": 3856445943,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Papalote Taco House",
+    "category": "restaurant",
+    "lat": 30.243509,
+    "lon": -97.781888,
+    "osm_id": 3871894955,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Conscious cravings",
+    "category": "restaurant",
+    "lat": 30.251086,
+    "lon": -97.7541516,
+    "osm_id": 3909530102,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Holy cacao",
+    "category": "restaurant",
+    "lat": 30.251009,
+    "lon": -97.7541798,
+    "osm_id": 3909530103,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Phil's Icehouse",
+    "category": "restaurant",
+    "lat": 30.2430176,
+    "lon": -97.7823649,
+    "osm_id": 3910097099,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Red River Cafe",
+    "category": "restaurant",
+    "lat": 30.2896999,
+    "lon": -97.7284176,
+    "osm_id": 3952991242,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Nau's Enfield Drug",
+    "category": "restaurant",
+    "lat": 30.2799999,
+    "lon": -97.759089,
+    "osm_id": 3956853929,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "100 Pizzitas",
+    "category": "restaurant",
+    "lat": 30.266509,
+    "lon": -97.7330453,
+    "osm_id": 3969612554,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "CoStar",
+    "category": "retail",
+    "lat": 30.2467772,
+    "lon": -97.7509614,
+    "osm_id": 4093997758,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Jersey Mike's Subs",
+    "category": "restaurant",
+    "lat": 30.2414217,
+    "lon": -97.7839374,
+    "osm_id": 4162256398,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Burger Bar",
+    "category": "restaurant",
+    "lat": 30.2646732,
+    "lon": -97.7437945,
+    "osm_id": 4304618025,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Corner Restaurant",
+    "category": "restaurant",
+    "lat": 30.2644196,
+    "lon": -97.7438985,
+    "osm_id": 4304618029,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "CITGO Brew",
+    "category": "retail",
+    "lat": 30.2889261,
+    "lon": -97.7077235,
+    "osm_id": 4357973502,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Wholly Cow Burger and Zen Market",
+    "category": "restaurant",
+    "lat": 30.2429035,
+    "lon": -97.7839568,
+    "osm_id": 4388735721,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Michi Ramen",
+    "category": "restaurant",
+    "lat": 30.241537,
+    "lon": -97.7841603,
+    "osm_id": 4388747248,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "True Food Kitchen",
+    "category": "restaurant",
+    "lat": 30.2669927,
+    "lon": -97.7523453,
+    "osm_id": 4389511242,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Domino's",
+    "category": "restaurant",
+    "lat": 30.2306382,
+    "lon": -97.7345708,
+    "osm_id": 4575870661,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Fresas",
+    "category": "restaurant",
+    "lat": 30.2477844,
+    "lon": -97.7551015,
+    "osm_id": 4595511224,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Sam's BBQ",
+    "category": "restaurant",
+    "lat": 30.2740504,
+    "lon": -97.7187975,
+    "osm_id": 4629753602,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Vic & Al's",
+    "category": "restaurant",
+    "lat": 30.2849284,
+    "lon": -97.7170005,
+    "osm_id": 4629753607,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Dai Due",
+    "category": "restaurant",
+    "lat": 30.2848698,
+    "lon": -97.7167839,
+    "osm_id": 4629753608,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Galloway's Sandwich Shop",
+    "category": "restaurant",
+    "lat": 30.2739607,
+    "lon": -97.7193957,
+    "osm_id": 4629976373,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Original New Orleans Po-Boy and Gumbo Shop",
+    "category": "restaurant",
+    "lat": 30.2737783,
+    "lon": -97.72048,
+    "osm_id": 4629976381,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Geraldine's",
+    "category": "restaurant",
+    "lat": 30.2601776,
+    "lon": -97.7392719,
+    "osm_id": 4633609354,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Snooze",
+    "category": "restaurant",
+    "lat": 30.2508607,
+    "lon": -97.7659325,
+    "osm_id": 4639135648,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "ALC Steaks",
+    "category": "restaurant",
+    "lat": 30.2775925,
+    "lon": -97.750896,
+    "osm_id": 4639146975,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Kesos Taco House",
+    "category": "restaurant",
+    "lat": 30.2826432,
+    "lon": -97.7444056,
+    "osm_id": 4704290290,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Gap",
+    "category": "retail",
+    "lat": 30.3068247,
+    "lon": -97.7405894,
+    "osm_id": 4711707114,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Forthright",
+    "category": "restaurant",
+    "lat": 30.262245,
+    "lon": -97.743333,
+    "osm_id": 4852544021,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Rosie's Grocery",
+    "category": "retail",
+    "lat": 30.2585138,
+    "lon": -97.7874921,
+    "osm_id": 4866707669,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "My Name Is Joe Coffee",
+    "category": "restaurant",
+    "lat": 30.2674422,
+    "lon": -97.742689,
+    "osm_id": 4906380121,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Caf\u00e9 Cr\u00e8me",
+    "category": "restaurant",
+    "lat": 30.2318432,
+    "lon": -97.7356141,
+    "osm_id": 4906380122,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Ruth's Chris Steak House",
+    "category": "restaurant",
+    "lat": 30.2679982,
+    "lon": -97.7434085,
+    "osm_id": 4948072426,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Lonesome Dove Bistro",
+    "category": "restaurant",
+    "lat": 30.268268,
+    "lon": -97.744033,
+    "osm_id": 4948072436,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "S H Donuts",
+    "category": "restaurant",
+    "lat": 30.2334122,
+    "lon": -97.721216,
+    "osm_id": 4966513043,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Chez Nous",
+    "category": "restaurant",
+    "lat": 30.2664993,
+    "lon": -97.7385412,
+    "osm_id": 5287005521,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Terry Black's BBQ",
+    "category": "restaurant",
+    "lat": 30.2596649,
+    "lon": -97.7548076,
+    "osm_id": 5311539330,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Flower Child",
+    "category": "restaurant",
+    "lat": 30.2659764,
+    "lon": -97.7495445,
+    "osm_id": 5351338222,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "North Italia",
+    "category": "restaurant",
+    "lat": 30.2658145,
+    "lon": -97.7489908,
+    "osm_id": 5351366521,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Salvation Pizza",
+    "category": "restaurant",
+    "lat": 30.3008048,
+    "lon": -97.7405995,
+    "osm_id": 5396545721,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Las Trancas",
+    "category": "restaurant",
+    "lat": 30.2598607,
+    "lon": -97.7317826,
+    "osm_id": 5536760821,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Lucky Lab Coffee",
+    "category": "restaurant",
+    "lat": 30.2885673,
+    "lon": -97.7420585,
+    "osm_id": 5538321951,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Rabbit Food Grocery",
+    "category": "grocery",
+    "lat": 30.2975784,
+    "lon": -97.7673071,
+    "osm_id": 5562225344,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Vegan Nom",
+    "category": "restaurant",
+    "lat": 30.2551436,
+    "lon": -97.7183365,
+    "osm_id": 5562235710,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Arlo's",
+    "category": "restaurant",
+    "lat": 30.2694927,
+    "lon": -97.7362477,
+    "osm_id": 5562252104,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Medici Roasting",
+    "category": "restaurant",
+    "lat": 30.2854421,
+    "lon": -97.7420095,
+    "osm_id": 5571027695,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Einstein Bros. Bagels",
+    "category": "restaurant",
+    "lat": 30.2879609,
+    "lon": -97.7417216,
+    "osm_id": 5571859444,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Canje",
+    "category": "restaurant",
+    "lat": 30.2616262,
+    "lon": -97.721465,
+    "osm_id": 5615810116,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Cuv\u00e9e Coffee",
+    "category": "restaurant",
+    "lat": 30.2614363,
+    "lon": -97.7211444,
+    "osm_id": 5615816955,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Fukumoto",
+    "category": "restaurant",
+    "lat": 30.2646261,
+    "lon": -97.7317272,
+    "osm_id": 5695667169,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Figure 8 Coffee Purveyors",
+    "category": "restaurant",
+    "lat": 30.266883,
+    "lon": -97.719949,
+    "osm_id": 5771559041,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Pizzeria Grata",
+    "category": "restaurant",
+    "lat": 30.2453356,
+    "lon": -97.7804229,
+    "osm_id": 5771933656,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Loro",
+    "category": "restaurant",
+    "lat": 30.2478111,
+    "lon": -97.7712879,
+    "osm_id": 5771933660,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Combo Donuts",
+    "category": "restaurant",
+    "lat": 30.2522172,
+    "lon": -97.7636376,
+    "osm_id": 5771933661,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Central Standard",
+    "category": "restaurant",
+    "lat": 30.2475946,
+    "lon": -97.7502188,
+    "osm_id": 5886393284,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Rudy's Country Store and Bar-B-Q",
+    "category": "restaurant",
+    "lat": 30.3074215,
+    "lon": -97.742008,
+    "osm_id": 5961537972,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Anthropologie",
+    "category": "retail",
+    "lat": 30.2718676,
+    "lon": -97.753551,
+    "osm_id": 6038246678,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Lululemon",
+    "category": "retail",
+    "lat": 30.2719579,
+    "lon": -97.7546132,
+    "osm_id": 6038246679,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Free People",
+    "category": "retail",
+    "lat": 30.2711425,
+    "lon": -97.7544791,
+    "osm_id": 6038246680,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Clark's Oyster Bar",
+    "category": "restaurant",
+    "lat": 30.2729697,
+    "lon": -97.7571499,
+    "osm_id": 6038247087,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Cafe Josie",
+    "category": "restaurant",
+    "lat": 30.2731631,
+    "lon": -97.7572773,
+    "osm_id": 6038247088,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Lin Asian Bar + Dim Sum",
+    "category": "restaurant",
+    "lat": 30.2728289,
+    "lon": -97.7580008,
+    "osm_id": 6038247092,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Nightcap",
+    "category": "restaurant",
+    "lat": 30.2737578,
+    "lon": -97.7604684,
+    "osm_id": 6038247094,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Shake Shack",
+    "category": "restaurant",
+    "lat": 30.2560094,
+    "lon": -97.7617585,
+    "osm_id": 6039859211,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Guesthouse",
+    "category": "restaurant",
+    "lat": 30.2655237,
+    "lon": -97.7490365,
+    "osm_id": 6039859212,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Ember Kitchen",
+    "category": "restaurant",
+    "lat": 30.2668996,
+    "lon": -97.7528357,
+    "osm_id": 6039859213,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Better Half Coffee & Cocktails",
+    "category": "restaurant",
+    "lat": 30.2712775,
+    "lon": -97.7585251,
+    "osm_id": 6039911717,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Swift's Attic",
+    "category": "restaurant",
+    "lat": 30.2656592,
+    "lon": -97.7434871,
+    "osm_id": 6039911718,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Phoebe's Diner",
+    "category": "restaurant",
+    "lat": 30.2415272,
+    "lon": -97.759221,
+    "osm_id": 6039936037,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Crepe Crazy",
+    "category": "restaurant",
+    "lat": 30.241602,
+    "lon": -97.7846524,
+    "osm_id": 6072052063,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Turf N' Surf Po-Boy",
+    "category": "restaurant",
+    "lat": 30.2413854,
+    "lon": -97.7849729,
+    "osm_id": 6072052064,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Naranjo",
+    "category": "restaurant",
+    "lat": 30.2441834,
+    "lon": -97.7809402,
+    "osm_id": 6072052065,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Arlo Grey",
+    "category": "restaurant",
+    "lat": 30.262803,
+    "lon": -97.744034,
+    "osm_id": 6076756627,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Perch",
+    "category": "restaurant",
+    "lat": 30.260507,
+    "lon": -97.7416741,
+    "osm_id": 6088701317,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Old Rail Coffee Pub",
+    "category": "restaurant",
+    "lat": 30.2611369,
+    "lon": -97.6978391,
+    "osm_id": 6088759294,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Paperboy",
+    "category": "restaurant",
+    "lat": 30.2684502,
+    "lon": -97.7275658,
+    "osm_id": 6187462596,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Shawarma Point",
+    "category": "restaurant",
+    "lat": 30.2671738,
+    "lon": -97.7371985,
+    "osm_id": 6187462988,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Veracruz all natural",
+    "category": "restaurant",
+    "lat": 30.2580035,
+    "lon": -97.726027,
+    "osm_id": 6187550286,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Charm School Vintage",
+    "category": "retail",
+    "lat": 30.2688842,
+    "lon": -97.7289508,
+    "osm_id": 6200121386,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "feathers boutique",
+    "category": "retail",
+    "lat": 30.2470172,
+    "lon": -97.7509642,
+    "osm_id": 6200138485,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Littlefield Patio Cafe",
+    "category": "restaurant",
+    "lat": 30.2892778,
+    "lon": -97.7393939,
+    "osm_id": 6264985893,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Circle K",
+    "category": "gas",
+    "lat": 30.3047495,
+    "lon": -97.736525,
+    "osm_id": 6419820777,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Black's BBQ",
+    "category": "restaurant",
+    "lat": 30.2985031,
+    "lon": -97.7413239,
+    "osm_id": 6423747085,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "category": "retail",
+    "lat": 30.2660885,
+    "lon": -97.74376,
+    "osm_id": 6489478298,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Target",
+    "category": "retail",
+    "lat": 30.2835691,
+    "lon": -97.741555,
+    "osm_id": 6797145992,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Gong Cha",
+    "category": "restaurant",
+    "lat": 30.2834028,
+    "lon": -97.7413494,
+    "osm_id": 6797146023,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Intelligentsia",
+    "category": "restaurant",
+    "lat": 30.2668307,
+    "lon": -97.7498946,
+    "osm_id": 7024063231,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Little House",
+    "category": "restaurant",
+    "lat": 30.3111425,
+    "lon": -97.7427252,
+    "osm_id": 7093936046,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Discada",
+    "category": "restaurant",
+    "lat": 30.2687467,
+    "lon": -97.7245889,
+    "osm_id": 7093984326,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Asador",
+    "category": "restaurant",
+    "lat": 30.2675797,
+    "lon": -97.7387281,
+    "osm_id": 7094576519,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Domo Alley-Gato",
+    "category": "restaurant",
+    "lat": 30.2631468,
+    "lon": -97.7262769,
+    "osm_id": 7094576520,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Licha's Cantina",
+    "category": "restaurant",
+    "lat": 30.264007,
+    "lon": -97.7288395,
+    "osm_id": 7094673139,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Cisco's Restaurant Bakery & Bar",
+    "category": "restaurant",
+    "lat": 30.2629914,
+    "lon": -97.7267285,
+    "osm_id": 7094687008,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Pool Burger",
+    "category": "restaurant",
+    "lat": 30.2776583,
+    "lon": -97.7727396,
+    "osm_id": 7111002769,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Sixth and Waller",
+    "category": "restaurant",
+    "lat": 30.2646369,
+    "lon": -97.7306495,
+    "osm_id": 7111022446,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Il Brutto",
+    "category": "restaurant",
+    "lat": 30.2628076,
+    "lon": -97.7263392,
+    "osm_id": 7111026623,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Anthem",
+    "category": "restaurant",
+    "lat": 30.2604985,
+    "lon": -97.7379039,
+    "osm_id": 7111035687,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Taqueria Kim Karina",
+    "category": "restaurant",
+    "lat": 30.2631568,
+    "lon": -97.7266668,
+    "osm_id": 7111041848,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Spartan Pizza",
+    "category": "restaurant",
+    "lat": 30.2648584,
+    "lon": -97.7322105,
+    "osm_id": 7111057943,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Uroko",
+    "category": "restaurant",
+    "lat": 30.2675565,
+    "lon": -97.6940148,
+    "osm_id": 7112908725,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "RPM Counter",
+    "category": "restaurant",
+    "lat": 30.2674245,
+    "lon": -97.6941288,
+    "osm_id": 7112908726,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Zhi Tea",
+    "category": "restaurant",
+    "lat": 30.2673527,
+    "lon": -97.6931123,
+    "osm_id": 7112908728,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Group Therapy",
+    "category": "restaurant",
+    "lat": 30.2673146,
+    "lon": -97.746419,
+    "osm_id": 7313191255,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Meat & Bread",
+    "category": "restaurant",
+    "lat": 30.2670978,
+    "lon": -97.7498129,
+    "osm_id": 7925574095,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "American Drifter",
+    "category": "retail",
+    "lat": 30.2460356,
+    "lon": -97.7569882,
+    "osm_id": 8007186413,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Dovetail Pizza and Bar",
+    "category": "restaurant",
+    "lat": 30.2467905,
+    "lon": -97.7563642,
+    "osm_id": 8010163559,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Yummi Joy",
+    "category": "restaurant",
+    "lat": 30.2652973,
+    "lon": -97.7482013,
+    "osm_id": 8090124769,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Rally House",
+    "category": "retail",
+    "lat": 30.2855296,
+    "lon": -97.7419985,
+    "osm_id": 8108601444,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Square Peg Coffee",
+    "category": "restaurant",
+    "lat": 30.2950159,
+    "lon": -97.7364325,
+    "osm_id": 8121330086,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "ATX Cocina",
+    "category": "restaurant",
+    "lat": 30.2649037,
+    "lon": -97.7492614,
+    "osm_id": 8178233810,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Hot L Coffee",
+    "category": "restaurant",
+    "lat": 30.2621453,
+    "lon": -97.7587291,
+    "osm_id": 8195412272,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Pok-e-Jo's Smokehouse",
+    "category": "restaurant",
+    "lat": 30.2984763,
+    "lon": -97.7188561,
+    "osm_id": 8361609737,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Wingzup",
+    "category": "restaurant",
+    "lat": 30.3000475,
+    "lon": -97.7213966,
+    "osm_id": 8362751949,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Kismet Cafe",
+    "category": "restaurant",
+    "lat": 30.2999354,
+    "lon": -97.7214724,
+    "osm_id": 8362751950,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Tso Chinese Delivery",
+    "category": "restaurant",
+    "lat": 30.2957282,
+    "lon": -97.7173028,
+    "osm_id": 8363087458,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Whole Foods Market",
+    "category": "grocery",
+    "lat": 30.2644126,
+    "lon": -97.7341442,
+    "osm_id": 8369055426,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Chinatown Westlake",
+    "category": "restaurant",
+    "lat": 30.2717638,
+    "lon": -97.7866543,
+    "osm_id": 8371487209,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "MOD Pizza",
+    "category": "restaurant",
+    "lat": 30.243325,
+    "lon": -97.7282732,
+    "osm_id": 8421640648,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Pho Please",
+    "category": "restaurant",
+    "lat": 30.243124,
+    "lon": -97.7281205,
+    "osm_id": 8421640649,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Pok\u00e9works",
+    "category": "restaurant",
+    "lat": 30.2423298,
+    "lon": -97.7274973,
+    "osm_id": 8421705336,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Food Spot",
+    "category": "retail",
+    "lat": 30.2392531,
+    "lon": -97.7197922,
+    "osm_id": 8433367801,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "dd's Discounts",
+    "category": "retail",
+    "lat": 30.2342789,
+    "lon": -97.7208179,
+    "osm_id": 8436308412,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Chick-fil-A",
+    "category": "restaurant",
+    "lat": 30.2851107,
+    "lon": -97.7360103,
+    "osm_id": 8489558781,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Civil Goat Coffee",
+    "category": "restaurant",
+    "lat": 30.3009981,
+    "lon": -97.7390514,
+    "osm_id": 8558279977,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Batch Craft Beer & Kolaches",
+    "category": "restaurant",
+    "lat": 30.2871856,
+    "lon": -97.7031142,
+    "osm_id": 8573193941,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Peacock",
+    "category": "restaurant",
+    "lat": 30.266151,
+    "lon": -97.750323,
+    "osm_id": 8581202370,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "L'Oca d'Oro",
+    "category": "restaurant",
+    "lat": 30.2972053,
+    "lon": -97.7046306,
+    "osm_id": 8837114234,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Tsuke Edomae",
+    "category": "restaurant",
+    "lat": 30.2984909,
+    "lon": -97.7074371,
+    "osm_id": 8842423075,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Mosaic Market",
+    "category": "grocery",
+    "lat": 30.2986844,
+    "lon": -97.7074662,
+    "osm_id": 8842423076,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Caf\u00e9 605",
+    "category": "restaurant",
+    "lat": 30.260105,
+    "lon": -97.7388864,
+    "osm_id": 8883842087,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Golden Tiger",
+    "category": "restaurant",
+    "lat": 30.2620798,
+    "lon": -97.7226262,
+    "osm_id": 8895816917,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bread Basket Food Store",
+    "category": "retail",
+    "lat": 30.2552024,
+    "lon": -97.7303954,
+    "osm_id": 8925029897,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Merit Coffee",
+    "category": "restaurant",
+    "lat": 30.2675657,
+    "lon": -97.7521411,
+    "osm_id": 8931050056,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Fixe Southern House",
+    "category": "restaurant",
+    "lat": 30.2687991,
+    "lon": -97.748568,
+    "osm_id": 8955666710,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Emmer & Rye",
+    "category": "restaurant",
+    "lat": 30.2574801,
+    "lon": -97.7391601,
+    "osm_id": 8991620975,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Hestia",
+    "category": "restaurant",
+    "lat": 30.2668723,
+    "lon": -97.7500637,
+    "osm_id": 8991731246,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Hunt Dining Hall",
+    "category": "restaurant",
+    "lat": 30.228039,
+    "lon": -97.7530845,
+    "osm_id": 9095873629,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Velvet Taco",
+    "category": "restaurant",
+    "lat": 30.267997,
+    "lon": -97.743129,
+    "osm_id": 9136489517,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Asahi Imports",
+    "category": "grocery",
+    "lat": 30.2415178,
+    "lon": -97.7833969,
+    "osm_id": 9178344408,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Spicy Boys",
+    "category": "restaurant",
+    "lat": 30.2584849,
+    "lon": -97.7386667,
+    "osm_id": 9294836463,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Brunch Bird",
+    "category": "restaurant",
+    "lat": 30.2647921,
+    "lon": -97.729491,
+    "osm_id": 9308734427,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Miranda Bennet Studio",
+    "category": "retail",
+    "lat": 30.2680608,
+    "lon": -97.7265435,
+    "osm_id": 9384814116,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Sammataro Pizza",
+    "category": "restaurant",
+    "lat": 30.2727299,
+    "lon": -97.7283136,
+    "osm_id": 9403202717,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "JewBoy Sliders",
+    "category": "restaurant",
+    "lat": 30.2551449,
+    "lon": -97.7618396,
+    "osm_id": 9447888016,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Sushi Junai Omakase",
+    "category": "restaurant",
+    "lat": 30.265641,
+    "lon": -97.743492,
+    "osm_id": 9517424344,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Kebab Shop",
+    "category": "restaurant",
+    "lat": 30.26385,
+    "lon": -97.7324048,
+    "osm_id": 9604372020,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Zanzibar",
+    "category": "restaurant",
+    "lat": 30.2629154,
+    "lon": -97.7418482,
+    "osm_id": 9631755875,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Uchib\u0101",
+    "category": "restaurant",
+    "lat": 30.2658323,
+    "lon": -97.7500534,
+    "osm_id": 9655018609,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Kerlaches",
+    "category": "restaurant",
+    "lat": 30.262934,
+    "lon": -97.7136925,
+    "osm_id": 9799864983,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Doughminican",
+    "category": "restaurant",
+    "lat": 30.2629922,
+    "lon": -97.7136509,
+    "osm_id": 9799864984,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Desnudo Coffee",
+    "category": "restaurant",
+    "lat": 30.2630655,
+    "lon": -97.7138253,
+    "osm_id": 9799864985,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Sweetgreen",
+    "category": "restaurant",
+    "lat": 30.2649271,
+    "lon": -97.7456432,
+    "osm_id": 10073245911,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Nourish",
+    "category": "restaurant",
+    "lat": 30.2774682,
+    "lon": -97.734812,
+    "osm_id": 10236686752,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Luminaire",
+    "category": "restaurant",
+    "lat": 30.2697418,
+    "lon": -97.7419028,
+    "osm_id": 10245293658,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Caroline",
+    "category": "restaurant",
+    "lat": 30.2687274,
+    "lon": -97.7423317,
+    "osm_id": 10281193544,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Coffehouse at Caroline",
+    "category": "restaurant",
+    "lat": 30.2687874,
+    "lon": -97.7421935,
+    "osm_id": 10281193549,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Blenders & Bowls",
+    "category": "restaurant",
+    "lat": 30.262478,
+    "lon": -97.725339,
+    "osm_id": 10295433253,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Mr Sandwich",
+    "category": "restaurant",
+    "lat": 30.258416,
+    "lon": -97.7387375,
+    "osm_id": 10300617011,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Organic Coffee",
+    "category": "restaurant",
+    "lat": 30.2957475,
+    "lon": -97.7421673,
+    "osm_id": 10538054909,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Ma\u00f1ana",
+    "category": "restaurant",
+    "lat": 30.2477249,
+    "lon": -97.7497778,
+    "osm_id": 10555261227,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bacalar",
+    "category": "restaurant",
+    "lat": 30.255648,
+    "lon": -97.7390426,
+    "osm_id": 10555435522,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Granny's Tacos",
+    "category": "restaurant",
+    "lat": 30.2641651,
+    "lon": -97.7280908,
+    "osm_id": 10562046329,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Soto",
+    "category": "restaurant",
+    "lat": 30.2556008,
+    "lon": -97.7620108,
+    "osm_id": 10563618402,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Mandala Kitchen & Bar",
+    "category": "restaurant",
+    "lat": 30.2553704,
+    "lon": -97.7621579,
+    "osm_id": 10563618407,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "TLC",
+    "category": "restaurant",
+    "lat": 30.2558239,
+    "lon": -97.7631014,
+    "osm_id": 10563618408,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "ATX Food Co",
+    "category": "restaurant",
+    "lat": 30.2599764,
+    "lon": -97.7583324,
+    "osm_id": 10574960241,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "South Flo Pizza",
+    "category": "restaurant",
+    "lat": 30.2831035,
+    "lon": -97.7763523,
+    "osm_id": 10580329450,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "True Texas BBQ",
+    "category": "restaurant",
+    "lat": 30.2829156,
+    "lon": -97.7761099,
+    "osm_id": 10580329451,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Lake Austin's Coffee Spot",
+    "category": "restaurant",
+    "lat": 30.282934,
+    "lon": -97.7761478,
+    "osm_id": 10665998559,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "La Colombe Coffee Roasters",
+    "category": "restaurant",
+    "lat": 30.27049,
+    "lon": -97.7532554,
+    "osm_id": 10706612991,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Wendy's",
+    "category": "restaurant",
+    "lat": 30.2829274,
+    "lon": -97.7371755,
+    "osm_id": 10754019802,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Snarf's Sandwiches",
+    "category": "restaurant",
+    "lat": 30.2883657,
+    "lon": -97.7286376,
+    "osm_id": 10830883132,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Purr-Fecto Cat Lounge",
+    "category": "restaurant",
+    "lat": 30.2478149,
+    "lon": -97.7746824,
+    "osm_id": 10865943772,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Burger Truck",
+    "category": "restaurant",
+    "lat": 30.2635184,
+    "lon": -97.7627967,
+    "osm_id": 10869755717,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Coat & Thai",
+    "category": "restaurant",
+    "lat": 30.2635944,
+    "lon": -97.7628549,
+    "osm_id": 10869755718,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Donkeys Grilled Burritos",
+    "category": "restaurant",
+    "lat": 30.2634721,
+    "lon": -97.7629649,
+    "osm_id": 10869755719,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Original New Orleans Po-boy And Gumbo Shop",
+    "category": "restaurant",
+    "lat": 30.2636031,
+    "lon": -97.7629169,
+    "osm_id": 10869755720,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Taqueria de Diez",
+    "category": "restaurant",
+    "lat": 30.2482393,
+    "lon": -97.7714173,
+    "osm_id": 10869755721,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Have A Taco",
+    "category": "restaurant",
+    "lat": 30.2634412,
+    "lon": -97.7629089,
+    "osm_id": 10869755722,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Cannone",
+    "category": "restaurant",
+    "lat": 30.2635263,
+    "lon": -97.762989,
+    "osm_id": 10869755723,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Habibi ATX",
+    "category": "restaurant",
+    "lat": 30.2634635,
+    "lon": -97.7628425,
+    "osm_id": 10869755725,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Veracruz Fonda and Bar",
+    "category": "restaurant",
+    "lat": 30.298098,
+    "lon": -97.7055225,
+    "osm_id": 10897753570,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Rockstar Bagels",
+    "category": "restaurant",
+    "lat": 30.2698997,
+    "lon": -97.7188564,
+    "osm_id": 10902080946,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Fabrik Austin",
+    "category": "restaurant",
+    "lat": 30.27929,
+    "lon": -97.7229995,
+    "osm_id": 10920316562,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "ZIKI",
+    "category": "restaurant",
+    "lat": 30.2655244,
+    "lon": -97.7442323,
+    "osm_id": 10969167396,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Taqueria 1836",
+    "category": "restaurant",
+    "lat": 30.2453306,
+    "lon": -97.7804614,
+    "osm_id": 11012760236,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Jet's Pizza",
+    "category": "restaurant",
+    "lat": 30.2423433,
+    "lon": -97.7833416,
+    "osm_id": 11012760238,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Aba",
+    "category": "restaurant",
+    "lat": 30.2530792,
+    "lon": -97.7478012,
+    "osm_id": 11012760239,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Mirandas Cafe",
+    "category": "restaurant",
+    "lat": 30.2653919,
+    "lon": -97.7428231,
+    "osm_id": 11071504905,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Truluck's",
+    "category": "restaurant",
+    "lat": 30.2658847,
+    "lon": -97.7453973,
+    "osm_id": 11071595410,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Tigre",
+    "category": "restaurant",
+    "lat": 30.27351,
+    "lon": -97.7223157,
+    "osm_id": 11196203589,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Verbena",
+    "category": "restaurant",
+    "lat": 30.2698939,
+    "lon": -97.7488753,
+    "osm_id": 11196672250,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Rio Mart",
+    "category": "retail",
+    "lat": 30.2841428,
+    "lon": -97.7449039,
+    "osm_id": 11212843992,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Zalat Pizza",
+    "category": "restaurant",
+    "lat": 30.2870884,
+    "lon": -97.7448994,
+    "osm_id": 11212844030,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "TSAOCAA",
+    "category": "restaurant",
+    "lat": 30.286841,
+    "lon": -97.7449201,
+    "osm_id": 11212844032,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "CAVA",
+    "category": "restaurant",
+    "lat": 30.267824,
+    "lon": -97.742615,
+    "osm_id": 11242814774,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Grab N Go",
+    "category": "retail",
+    "lat": 30.2655558,
+    "lon": -97.6958098,
+    "osm_id": 11243605618,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Via 313 Pizza",
+    "category": "restaurant",
+    "lat": 30.2607148,
+    "lon": -97.7381732,
+    "osm_id": 11390573667,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Ziki",
+    "category": "restaurant",
+    "lat": 30.2610131,
+    "lon": -97.7378915,
+    "osm_id": 11390659811,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bureau de Poste",
+    "category": "restaurant",
+    "lat": 30.306848,
+    "lon": -97.7300679,
+    "osm_id": 11453128341,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Ma\u0148ana",
+    "category": "restaurant",
+    "lat": 30.2672874,
+    "lon": -97.7545299,
+    "osm_id": 11492466913,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Tikka House Indian Eatery",
+    "category": "restaurant",
+    "lat": 30.2491556,
+    "lon": -97.768525,
+    "osm_id": 11492466914,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Super Thai Cuisine",
+    "category": "restaurant",
+    "lat": 30.2491788,
+    "lon": -97.7684445,
+    "osm_id": 11492466915,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Manny's",
+    "category": "restaurant",
+    "lat": 30.2677115,
+    "lon": -97.7457896,
+    "osm_id": 11679087442,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Mission Burger Co.",
+    "category": "restaurant",
+    "lat": 30.2408952,
+    "lon": -97.7522168,
+    "osm_id": 11794465657,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Heartland City Club",
+    "category": "restaurant",
+    "lat": 30.2755268,
+    "lon": -97.765193,
+    "osm_id": 11808981979,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Oma's Kitchen",
+    "category": "restaurant",
+    "lat": 30.2836879,
+    "lon": -97.7416398,
+    "osm_id": 11872745746,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Mary's Cafe",
+    "category": "restaurant",
+    "lat": 30.2912527,
+    "lon": -97.7266127,
+    "osm_id": 11872745747,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Wee's Cozy Kitchen",
+    "category": "restaurant",
+    "lat": 30.2683825,
+    "lon": -97.7423352,
+    "osm_id": 11872813199,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Next Level Burger",
+    "category": "restaurant",
+    "lat": 30.2707011,
+    "lon": -97.7534578,
+    "osm_id": 11873232769,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Beer Plant",
+    "category": "restaurant",
+    "lat": 30.296615,
+    "lon": -97.7677277,
+    "osm_id": 11873236169,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Well",
+    "category": "restaurant",
+    "lat": 30.2656257,
+    "lon": -97.7482929,
+    "osm_id": 11873243569,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Pizzeria Sportiva",
+    "category": "restaurant",
+    "lat": 30.2525199,
+    "lon": -97.7642917,
+    "osm_id": 11880459657,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Swim Club",
+    "category": "restaurant",
+    "lat": 30.2702041,
+    "lon": -97.7347217,
+    "osm_id": 12007523253,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Casa Colombia",
+    "category": "restaurant",
+    "lat": 30.2608046,
+    "lon": -97.7148283,
+    "osm_id": 12036736622,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Sunny's",
+    "category": "retail",
+    "lat": 30.2542138,
+    "lon": -97.7630361,
+    "osm_id": 12125422921,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Lamar Plaza Drug Store",
+    "category": "pharmacy",
+    "lat": 30.2520686,
+    "lon": -97.7637827,
+    "osm_id": 12125638534,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Primo",
+    "category": "restaurant",
+    "lat": 30.2448373,
+    "lon": -97.7573308,
+    "osm_id": 12128676282,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Jupiter Supper Club",
+    "category": "restaurant",
+    "lat": 30.2697532,
+    "lon": -97.7424206,
+    "osm_id": 12242488579,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Idlewild Coffee",
+    "category": "restaurant",
+    "lat": 30.2765365,
+    "lon": -97.7496715,
+    "osm_id": 12248654929,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Ch\u0113ba Hut Toasted Subs",
+    "category": "restaurant",
+    "lat": 30.2979433,
+    "lon": -97.7415758,
+    "osm_id": 12433956489,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Never Knew",
+    "category": "retail",
+    "lat": 30.2971756,
+    "lon": -97.7418423,
+    "osm_id": 12433956499,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Tenten",
+    "category": "restaurant",
+    "lat": 30.2692655,
+    "lon": -97.7475552,
+    "osm_id": 12513317002,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bull & Bowl",
+    "category": "restaurant",
+    "lat": 30.2693069,
+    "lon": -97.7476863,
+    "osm_id": 12513317003,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Perfect Strangers",
+    "category": "restaurant",
+    "lat": 30.267122,
+    "lon": -97.7463189,
+    "osm_id": 12516662246,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "The Star Cafe",
+    "category": "restaurant",
+    "lat": 30.2799893,
+    "lon": -97.7388481,
+    "osm_id": 12580193186,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Prima Dora",
+    "category": "retail",
+    "lat": 30.2447771,
+    "lon": -97.7518434,
+    "osm_id": 12591570404,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Black Sheep Coffee",
+    "category": "restaurant",
+    "lat": 30.2693448,
+    "lon": -97.7464777,
+    "osm_id": 12593350611,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "InsideOut by LC",
+    "category": "retail",
+    "lat": 30.2626215,
+    "lon": -97.7249644,
+    "osm_id": 12705529385,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Klerj\u0113 Coffee",
+    "category": "restaurant",
+    "lat": 30.2627736,
+    "lon": -97.7254221,
+    "osm_id": 12705567215,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "LOVE Bubble Tea",
+    "category": "restaurant",
+    "lat": 30.2628366,
+    "lon": -97.7256008,
+    "osm_id": 12705577230,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Love Lamp Matcha",
+    "category": "restaurant",
+    "lat": 30.2619801,
+    "lon": -97.761792,
+    "osm_id": 12708690933,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Thistle Cafe",
+    "category": "restaurant",
+    "lat": 30.2684394,
+    "lon": -97.7448291,
+    "osm_id": 12800944897,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Josephine House",
+    "category": "restaurant",
+    "lat": 30.2805739,
+    "lon": -97.7590331,
+    "osm_id": 12847602721,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Nomade",
+    "category": "restaurant",
+    "lat": 30.2497111,
+    "lon": -97.7552994,
+    "osm_id": 12848150205,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Terrazzo Tea",
+    "category": "restaurant",
+    "lat": 30.2619053,
+    "lon": -97.7209601,
+    "osm_id": 12863458629,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Casa de Luz East",
+    "category": "restaurant",
+    "lat": 30.2796688,
+    "lon": -97.7201984,
+    "osm_id": 13019437701,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Caf\u00e9 at the Loren",
+    "category": "restaurant",
+    "lat": 30.2642132,
+    "lon": -97.7569712,
+    "osm_id": 13253006055,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Nido",
+    "category": "restaurant",
+    "lat": 30.264188,
+    "lon": -97.7568807,
+    "osm_id": 13253006056,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "KG BBQ",
+    "category": "restaurant",
+    "lat": 30.2868181,
+    "lon": -97.7051802,
+    "osm_id": 13289319465,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "P6 \u2013 Rooftop Bar",
+    "category": "restaurant",
+    "lat": 30.2627052,
+    "lon": -97.7438717,
+    "osm_id": 13289348601,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Halal Bros",
+    "category": "restaurant",
+    "lat": 30.2924949,
+    "lon": -97.7415967,
+    "osm_id": 13298249811,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Stop N Tote",
+    "category": "retail",
+    "lat": 30.256545,
+    "lon": -97.7115887,
+    "osm_id": 13299816570,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bread Boat",
+    "category": "restaurant",
+    "lat": 30.2626088,
+    "lon": -97.7207919,
+    "osm_id": 13299887433,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "El Xolo Tacos",
+    "category": "restaurant",
+    "lat": 30.2795932,
+    "lon": -97.7208712,
+    "osm_id": 13309555872,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Postino Bryker Woods",
+    "category": "restaurant",
+    "lat": 30.3074114,
+    "lon": -97.7515162,
+    "osm_id": 13329361201,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Wonky Blends",
+    "category": "restaurant",
+    "lat": 30.2633017,
+    "lon": -97.7140328,
+    "osm_id": 13334961707,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Texas Law Guns, Injury & Accident Lawyers",
+    "category": "grocery",
+    "lat": 30.2347295,
+    "lon": -97.7395377,
+    "osm_id": 13354224672,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Uncle Nicky's Italian Specialties",
+    "category": "restaurant",
+    "lat": 30.2476543,
+    "lon": -97.7719211,
+    "osm_id": 13356336233,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Bird Bird Bisquit",
+    "category": "restaurant",
+    "lat": 30.2474561,
+    "lon": -97.7718377,
+    "osm_id": 13356336234,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "San Gin\u00e9s",
+    "category": "restaurant",
+    "lat": 30.2486236,
+    "lon": -97.7702447,
+    "osm_id": 13356336235,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Kiin Di",
+    "category": "restaurant",
+    "lat": 30.247159,
+    "lon": -97.7774714,
+    "osm_id": 13356336238,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Kitsu Nori",
+    "category": "restaurant",
+    "lat": 30.2475177,
+    "lon": -97.774885,
+    "osm_id": 13393936376,
+    "osm_type": "node",
+    "city": "austin"
+  },
+  {
+    "name": "Maudie's Tex Mex",
+    "category": "restaurant",
+    "lat": 30.2828364,
+    "lon": -97.7756014,
+    "osm_id": 37418353,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Wheatsville Food Co-op",
+    "category": "grocery",
+    "lat": 30.2976231,
+    "lon": -97.7410518,
+    "osm_id": 42572889,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Jo's Coffee Red River",
+    "category": "restaurant",
+    "lat": 30.2998339,
+    "lon": -97.7219121,
+    "osm_id": 42874326,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "P.F. Chang's",
+    "category": "restaurant",
+    "lat": 30.2637742,
+    "lon": -97.7413891,
+    "osm_id": 55932517,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Ranch 616",
+    "category": "restaurant",
+    "lat": 30.270375,
+    "lon": -97.7484962,
+    "osm_id": 99868611,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Walton's Fancy & Staple",
+    "category": "restaurant",
+    "lat": 30.2695437,
+    "lon": -97.7490258,
+    "osm_id": 99868618,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Parlor and Yard",
+    "category": "restaurant",
+    "lat": 30.2695137,
+    "lon": -97.7487335,
+    "osm_id": 99868668,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Hoffbrau Steaks",
+    "category": "restaurant",
+    "lat": 30.2696712,
+    "lon": -97.7491814,
+    "osm_id": 99868671,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Aussie's Grill and Beach Bar",
+    "category": "restaurant",
+    "lat": 30.2590844,
+    "lon": -97.7482983,
+    "osm_id": 104137269,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Curra's Hyde Park",
+    "category": "restaurant",
+    "lat": 30.304338,
+    "lon": -97.7260085,
+    "osm_id": 107644087,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Randalls 2471",
+    "category": "grocery",
+    "lat": 30.3041439,
+    "lon": -97.7641037,
+    "osm_id": 129731553,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Bob's Steak & Chop House",
+    "category": "restaurant",
+    "lat": 30.2660928,
+    "lon": -97.7459213,
+    "osm_id": 134807229,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Sammie's",
+    "category": "restaurant",
+    "lat": 30.270241,
+    "lon": -97.7511612,
+    "osm_id": 134821456,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Shoal Creek Saloon",
+    "category": "restaurant",
+    "lat": 30.2742709,
+    "lon": -97.7523117,
+    "osm_id": 135088165,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Fresa's",
+    "category": "restaurant",
+    "lat": 30.2744562,
+    "lon": -97.7522018,
+    "osm_id": 135088168,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Whataburger",
+    "category": "restaurant",
+    "lat": 30.258054,
+    "lon": -97.7506844,
+    "osm_id": 262312068,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Quickie Pickie",
+    "category": "restaurant",
+    "lat": 30.2687162,
+    "lon": -97.7272452,
+    "osm_id": 288593814,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Pizza Hut",
+    "category": "restaurant",
+    "lat": 30.2716762,
+    "lon": -97.6977898,
+    "osm_id": 289809401,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Nori",
+    "category": "restaurant",
+    "lat": 30.2999219,
+    "lon": -97.7402957,
+    "osm_id": 294775962,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "PD Thai",
+    "category": "restaurant",
+    "lat": 30.2998629,
+    "lon": -97.7403851,
+    "osm_id": 294775963,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Salsa Lim\u00f3n",
+    "category": "restaurant",
+    "lat": 30.29661,
+    "lon": -97.7416499,
+    "osm_id": 294775982,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Sandy's",
+    "category": "restaurant",
+    "lat": 30.2584098,
+    "lon": -97.751007,
+    "osm_id": 299395705,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Eberly",
+    "category": "restaurant",
+    "lat": 30.2585928,
+    "lon": -97.7587052,
+    "osm_id": 299395712,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Central Market - H-E-B",
+    "category": "grocery",
+    "lat": 30.3073249,
+    "lon": -97.7397426,
+    "osm_id": 303100348,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "East Side Pies",
+    "category": "restaurant",
+    "lat": 30.2687826,
+    "lon": -97.7240835,
+    "osm_id": 309268314,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Micklethwait Craft Meats",
+    "category": "restaurant",
+    "lat": 30.2683181,
+    "lon": -97.7252185,
+    "osm_id": 309272233,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "IHOP",
+    "category": "restaurant",
+    "lat": 30.2609503,
+    "lon": -97.7373817,
+    "osm_id": 312335034,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Guero's Taco Bar",
+    "category": "restaurant",
+    "lat": 30.2491529,
+    "lon": -97.7502861,
+    "osm_id": 312337842,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "El Arroyo",
+    "category": "restaurant",
+    "lat": 30.2749039,
+    "lon": -97.7644407,
+    "osm_id": 317748366,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "In-N-Out Burger",
+    "category": "restaurant",
+    "lat": 30.3043369,
+    "lon": -97.7156657,
+    "osm_id": 321753087,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Texas Chili Parlor",
+    "category": "restaurant",
+    "lat": 30.2769537,
+    "lon": -97.7419658,
+    "osm_id": 324138332,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Quiznos",
+    "category": "restaurant",
+    "lat": 30.2717385,
+    "lon": -97.7417904,
+    "osm_id": 328520428,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Collective Status",
+    "category": "retail",
+    "lat": 30.2667896,
+    "lon": -97.7375712,
+    "osm_id": 328605848,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Koriente Restaurant",
+    "category": "restaurant",
+    "lat": 30.267011,
+    "lon": -97.7359945,
+    "osm_id": 328605865,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "P\u00e9ch\u00e9",
+    "category": "restaurant",
+    "lat": 30.2669638,
+    "lon": -97.7451698,
+    "osm_id": 328631276,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Patagonia",
+    "category": "retail",
+    "lat": 30.2659951,
+    "lon": -97.7440438,
+    "osm_id": 328634447,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Stubb's BBQ",
+    "category": "restaurant",
+    "lat": 30.2684889,
+    "lon": -97.7362194,
+    "osm_id": 328649890,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Gulf",
+    "category": "gas",
+    "lat": 30.2666033,
+    "lon": -97.7351707,
+    "osm_id": 328715931,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Green Mesquite BBQ",
+    "category": "restaurant",
+    "lat": 30.2614829,
+    "lon": -97.7592077,
+    "osm_id": 333373558,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "The Diner at Victory Lap",
+    "category": "restaurant",
+    "lat": 30.2882109,
+    "lon": -97.742893,
+    "osm_id": 343262786,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "El Chile Cafe Y Cantina",
+    "category": "restaurant",
+    "lat": 30.2835404,
+    "lon": -97.7225682,
+    "osm_id": 358443644,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "McDonald's",
+    "category": "restaurant",
+    "lat": 30.2375286,
+    "lon": -97.7519909,
+    "osm_id": 364451024,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "El Tacorrido",
+    "category": "restaurant",
+    "lat": 30.2424727,
+    "lon": -97.7595827,
+    "osm_id": 364451349,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Roppolo's Pizzeria",
+    "category": "restaurant",
+    "lat": 30.2909992,
+    "lon": -97.7415476,
+    "osm_id": 366244290,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Potbelly",
+    "category": "restaurant",
+    "lat": 30.2868224,
+    "lon": -97.7419579,
+    "osm_id": 366244294,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Taquero Mucho",
+    "category": "restaurant",
+    "lat": 30.2700965,
+    "lon": -97.751134,
+    "osm_id": 379165916,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Iron Works Barbecue",
+    "category": "restaurant",
+    "lat": 30.2622474,
+    "lon": -97.7390015,
+    "osm_id": 379165920,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Stubs BBQ",
+    "category": "restaurant",
+    "lat": 30.268681,
+    "lon": -97.736194,
+    "osm_id": 379166013,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Favorite Pizza",
+    "category": "restaurant",
+    "lat": 30.2701545,
+    "lon": -97.750818,
+    "osm_id": 379166210,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Pelons Tex Mex",
+    "category": "restaurant",
+    "lat": 30.2687925,
+    "lon": -97.736558,
+    "osm_id": 379166316,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Launderette",
+    "category": "restaurant",
+    "lat": 30.2518775,
+    "lon": -97.7227495,
+    "osm_id": 379169304,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Mr. Natural",
+    "category": "restaurant",
+    "lat": 30.2568164,
+    "lon": -97.724542,
+    "osm_id": 379185473,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Bufalina",
+    "category": "restaurant",
+    "lat": 30.2551455,
+    "lon": -97.719669,
+    "osm_id": 379185862,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Juiceland",
+    "category": "restaurant",
+    "lat": 30.2536385,
+    "lon": -97.715385,
+    "osm_id": 379186011,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Jacoby's Restaurant & Mercantile",
+    "category": "restaurant",
+    "lat": 30.2515327,
+    "lon": -97.7073792,
+    "osm_id": 379186132,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Counter Culture",
+    "category": "restaurant",
+    "lat": 30.2545458,
+    "lon": -97.7179731,
+    "osm_id": 379186302,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Sweet Chive",
+    "category": "restaurant",
+    "lat": 30.2538189,
+    "lon": -97.7156625,
+    "osm_id": 379186767,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "East 1st Grocery",
+    "category": "retail",
+    "lat": 30.256972,
+    "lon": -97.724988,
+    "osm_id": 379189485,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "East 1st Grocery Gas Island",
+    "category": "gas",
+    "lat": 30.2570605,
+    "lon": -97.724859,
+    "osm_id": 379189682,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Citgo",
+    "category": "gas",
+    "lat": 30.257761,
+    "lon": -97.726948,
+    "osm_id": 379189691,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Buzz Mill",
+    "category": "restaurant",
+    "lat": 30.2648377,
+    "lon": -97.7294834,
+    "osm_id": 379193964,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Kebabalicious",
+    "category": "restaurant",
+    "lat": 30.2645105,
+    "lon": -97.7282675,
+    "osm_id": 379194169,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Takoba",
+    "category": "restaurant",
+    "lat": 30.2641027,
+    "lon": -97.7274071,
+    "osm_id": 379194254,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Bento Picnic",
+    "category": "restaurant",
+    "lat": 30.2540724,
+    "lon": -97.7151975,
+    "osm_id": 379194347,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Tamale House East",
+    "category": "restaurant",
+    "lat": 30.2615684,
+    "lon": -97.7243786,
+    "osm_id": 379194348,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Historic Scoot Inn",
+    "category": "restaurant",
+    "lat": 30.2621225,
+    "lon": -97.729391,
+    "osm_id": 379194425,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Intero",
+    "category": "restaurant",
+    "lat": 30.2538632,
+    "lon": -97.7144244,
+    "osm_id": 379194455,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Suerte",
+    "category": "restaurant",
+    "lat": 30.2622634,
+    "lon": -97.7232516,
+    "osm_id": 379194499,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Pitchfork Pretty",
+    "category": "restaurant",
+    "lat": 30.25344,
+    "lon": -97.713513,
+    "osm_id": 379194560,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Kemuri Tatsu-Ya",
+    "category": "restaurant",
+    "lat": 30.2538203,
+    "lon": -97.7129409,
+    "osm_id": 379194592,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Juan in a Million",
+    "category": "restaurant",
+    "lat": 30.2553365,
+    "lon": -97.7189555,
+    "osm_id": 379194809,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Scotty's BBQ",
+    "category": "restaurant",
+    "lat": 30.253245,
+    "lon": -97.7131471,
+    "osm_id": 379194826,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Buenos Aires Caf\u00e9",
+    "category": "restaurant",
+    "lat": 30.2642222,
+    "lon": -97.7304279,
+    "osm_id": 379195155,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Ramen Tatsu-Ya",
+    "category": "restaurant",
+    "lat": 30.2631521,
+    "lon": -97.7262906,
+    "osm_id": 379195349,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Grizzelda's",
+    "category": "restaurant",
+    "lat": 30.2521507,
+    "lon": -97.7082195,
+    "osm_id": 379199502,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Texas Coffee Traders Cafe",
+    "category": "restaurant",
+    "lat": 30.2577055,
+    "lon": -97.7048975,
+    "osm_id": 379199834,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Kinda Tropical",
+    "category": "restaurant",
+    "lat": 30.2565275,
+    "lon": -97.70304,
+    "osm_id": 379199981,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Fiasco BBQ",
+    "category": "restaurant",
+    "lat": 30.2569775,
+    "lon": -97.703939,
+    "osm_id": 379200496,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Try Hard Coffee Roastere",
+    "category": "restaurant",
+    "lat": 30.268805,
+    "lon": -97.7287505,
+    "osm_id": 379207931,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "The Bread Basket",
+    "category": "retail",
+    "lat": 30.2619157,
+    "lon": -97.717733,
+    "osm_id": 379211128,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Al\u2019s Food Mart",
+    "category": "retail",
+    "lat": 30.270307,
+    "lon": -97.7058175,
+    "osm_id": 379214570,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Marcelino's",
+    "category": "restaurant",
+    "lat": 30.2625575,
+    "lon": -97.703538,
+    "osm_id": 379214635,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Arab Cowboy",
+    "category": "restaurant",
+    "lat": 30.2879225,
+    "lon": -97.746982,
+    "osm_id": 380917034,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Tapioca House",
+    "category": "restaurant",
+    "lat": 30.2824243,
+    "lon": -97.7423572,
+    "osm_id": 380922395,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "1914 Noodles & More",
+    "category": "restaurant",
+    "lat": 30.2826311,
+    "lon": -97.7423347,
+    "osm_id": 380922399,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "M\u00f6ge Tee",
+    "category": "restaurant",
+    "lat": 30.2828167,
+    "lon": -97.7423433,
+    "osm_id": 380922467,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Pronto Food Mart",
+    "category": "retail",
+    "lat": 30.3047465,
+    "lon": -97.725792,
+    "osm_id": 381776979,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Hyde Park market, Deli & Organic Grocery",
+    "category": "retail",
+    "lat": 30.30663,
+    "lon": -97.724372,
+    "osm_id": 381777630,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Haymaker",
+    "category": "restaurant",
+    "lat": 30.2847854,
+    "lon": -97.7175912,
+    "osm_id": 381793000,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Civil Goat",
+    "category": "restaurant",
+    "lat": 30.285255,
+    "lon": -97.7146315,
+    "osm_id": 381793572,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Tiny Grocer",
+    "category": "retail",
+    "lat": 30.3069333,
+    "lon": -97.7300191,
+    "osm_id": 381803180,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Avenue B Grocery",
+    "category": "restaurant",
+    "lat": 30.3090355,
+    "lon": -97.7314305,
+    "osm_id": 381803265,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Natural Grocers",
+    "category": "grocery",
+    "lat": 30.3042825,
+    "lon": -97.73672,
+    "osm_id": 381805540,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Terrible Love",
+    "category": "restaurant",
+    "lat": 30.3045342,
+    "lon": -97.7357814,
+    "osm_id": 381805695,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "GoPuff Market",
+    "category": "retail",
+    "lat": 30.2888841,
+    "lon": -97.7292305,
+    "osm_id": 381808256,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Aster's Ethiopian Restaurant",
+    "category": "restaurant",
+    "lat": 30.2872652,
+    "lon": -97.725033,
+    "osm_id": 381808300,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Raising Cane's",
+    "category": "restaurant",
+    "lat": 30.281527,
+    "lon": -97.7424815,
+    "osm_id": 381834157,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Tumble22",
+    "category": "restaurant",
+    "lat": 30.2780992,
+    "lon": -97.7716875,
+    "osm_id": 381884017,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Olive & June",
+    "category": "restaurant",
+    "lat": 30.307181,
+    "lon": -97.7511155,
+    "osm_id": 382023489,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Bikkle",
+    "category": "restaurant",
+    "lat": 30.2970487,
+    "lon": -97.7414528,
+    "osm_id": 382033732,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Denny's",
+    "category": "restaurant",
+    "lat": 30.2766915,
+    "lon": -97.729611,
+    "osm_id": 382130535,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Dirty Martin's",
+    "category": "restaurant",
+    "lat": 30.2939978,
+    "lon": -97.7423517,
+    "osm_id": 382131874,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Salt Traders Coastal Cooking",
+    "category": "restaurant",
+    "lat": 30.2653235,
+    "lon": -97.7809875,
+    "osm_id": 382145478,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Sour Duck Market",
+    "category": "restaurant",
+    "lat": 30.2799448,
+    "lon": -97.7215817,
+    "osm_id": 382296728,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Austin Daily Press",
+    "category": "restaurant",
+    "lat": 30.2802308,
+    "lon": -97.7211572,
+    "osm_id": 382296869,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Elaine's Pork and Pie",
+    "category": "restaurant",
+    "lat": 30.2840118,
+    "lon": -97.7192734,
+    "osm_id": 382296874,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Roland's Soul Food",
+    "category": "restaurant",
+    "lat": 30.2762301,
+    "lon": -97.7161187,
+    "osm_id": 382299927,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "MLK Mart",
+    "category": "retail",
+    "lat": 30.2817435,
+    "lon": -97.707827,
+    "osm_id": 382301896,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Rosewood",
+    "category": "restaurant",
+    "lat": 30.2683475,
+    "lon": -97.726301,
+    "osm_id": 382368318,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Anything's Baked Potato",
+    "category": "restaurant",
+    "lat": 30.2690235,
+    "lon": -97.724655,
+    "osm_id": 382368332,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Major Brand Gas",
+    "category": "retail",
+    "lat": 30.2729225,
+    "lon": -97.724056,
+    "osm_id": 382368341,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Franklin Barbecue",
+    "category": "restaurant",
+    "lat": 30.2701634,
+    "lon": -97.7312704,
+    "osm_id": 382368408,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "DQ Grill & Chill",
+    "category": "restaurant",
+    "lat": 30.2418125,
+    "lon": -97.726774,
+    "osm_id": 382446227,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "The Buzz Mill",
+    "category": "restaurant",
+    "lat": 30.2416945,
+    "lon": -97.726879,
+    "osm_id": 382446228,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Proud Mary",
+    "category": "restaurant",
+    "lat": 30.2482775,
+    "lon": -97.769373,
+    "osm_id": 382450478,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "OPA! Greek Cafe",
+    "category": "restaurant",
+    "lat": 30.2489215,
+    "lon": -97.769506,
+    "osm_id": 382450481,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "1st Stop Food Store",
+    "category": "grocery",
+    "lat": 30.259976,
+    "lon": -97.75542,
+    "osm_id": 382454555,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "El Alma",
+    "category": "restaurant",
+    "lat": 30.2600185,
+    "lon": -97.7556455,
+    "osm_id": 382454561,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Bloomers and Frocks",
+    "category": "retail",
+    "lat": 30.248617,
+    "lon": -97.7557016,
+    "osm_id": 382454728,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "El Tacorrido: Authentic Mexican Taqueria",
+    "category": "restaurant",
+    "lat": 30.2444531,
+    "lon": -97.7306042,
+    "osm_id": 382461715,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Taco Cabana",
+    "category": "restaurant",
+    "lat": 30.2337407,
+    "lon": -97.724288,
+    "osm_id": 382489672,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Gully Cat Tattoo",
+    "category": "retail",
+    "lat": 30.2451865,
+    "lon": -97.7574955,
+    "osm_id": 382491337,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "G's Dynamite Deli",
+    "category": "restaurant",
+    "lat": 30.2426025,
+    "lon": -97.7592995,
+    "osm_id": 382491427,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Green Pastures",
+    "category": "restaurant",
+    "lat": 30.2449505,
+    "lon": -97.7622625,
+    "osm_id": 382491604,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Urban Market",
+    "category": "retail",
+    "lat": 30.273555,
+    "lon": -97.7193405,
+    "osm_id": 382498513,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "40 North",
+    "category": "restaurant",
+    "lat": 30.274996,
+    "lon": -97.751699,
+    "osm_id": 382559346,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Good Company",
+    "category": "retail",
+    "lat": 30.277046,
+    "lon": -97.7510243,
+    "osm_id": 382596513,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Elle's Austin",
+    "category": "retail",
+    "lat": 30.2730125,
+    "lon": -97.7567635,
+    "osm_id": 382597045,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "KICK PLEAT",
+    "category": "retail",
+    "lat": 30.2724195,
+    "lon": -97.7538075,
+    "osm_id": 382597110,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Garbo's",
+    "category": "restaurant",
+    "lat": 30.2725705,
+    "lon": -97.753698,
+    "osm_id": 382597324,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Taco Flats",
+    "category": "restaurant",
+    "lat": 30.2800725,
+    "lon": -97.7594895,
+    "osm_id": 382601914,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Pho Craft",
+    "category": "restaurant",
+    "lat": 30.2735072,
+    "lon": -97.6971068,
+    "osm_id": 382703182,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Terry\u2019s",
+    "category": "restaurant",
+    "lat": 30.281519,
+    "lon": -97.7028135,
+    "osm_id": 382713294,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Justine's",
+    "category": "restaurant",
+    "lat": 30.2532435,
+    "lon": -97.7005375,
+    "osm_id": 382723587,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "De Nada Cantina",
+    "category": "restaurant",
+    "lat": 30.2514535,
+    "lon": -97.7021705,
+    "osm_id": 382723593,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Sawyer & Co.",
+    "category": "restaurant",
+    "lat": 30.251412,
+    "lon": -97.7018025,
+    "osm_id": 382723613,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "68 Degrees Kitchen",
+    "category": "restaurant",
+    "lat": 30.277888,
+    "lon": -97.7729855,
+    "osm_id": 382785197,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Habana Restaurant and Bar",
+    "category": "restaurant",
+    "lat": 30.234944,
+    "lon": -97.7573295,
+    "osm_id": 382785490,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Show Me Pizza",
+    "category": "restaurant",
+    "lat": 30.2367642,
+    "lon": -97.7627805,
+    "osm_id": 382785501,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Exxon",
+    "category": "gas",
+    "lat": 30.2360605,
+    "lon": -97.7632135,
+    "osm_id": 382785522,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Barton Hills Market",
+    "category": "grocery",
+    "lat": 30.261922,
+    "lon": -97.7750235,
+    "osm_id": 382790176,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "1417 French Bistro",
+    "category": "restaurant",
+    "lat": 30.2500905,
+    "lon": -97.754558,
+    "osm_id": 383346571,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Lou's Barton Springs",
+    "category": "restaurant",
+    "lat": 30.2624115,
+    "lon": -97.7617235,
+    "osm_id": 383353226,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Baby Acapulco",
+    "category": "restaurant",
+    "lat": 30.263086,
+    "lon": -97.762352,
+    "osm_id": 383353244,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Casa de Luz",
+    "category": "restaurant",
+    "lat": 30.2644355,
+    "lon": -97.76165,
+    "osm_id": 383353253,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Chuy's",
+    "category": "restaurant",
+    "lat": 30.2638505,
+    "lon": -97.7632695,
+    "osm_id": 383353278,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Carpenters Hall",
+    "category": "restaurant",
+    "lat": 30.2622455,
+    "lon": -97.758805,
+    "osm_id": 383353421,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Juliet Italian Kitchen",
+    "category": "restaurant",
+    "lat": 30.2617205,
+    "lon": -97.760107,
+    "osm_id": 383353557,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Uchi",
+    "category": "restaurant",
+    "lat": 30.257513,
+    "lon": -97.75975,
+    "osm_id": 383355208,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Maudie's Tex-Mex",
+    "category": "restaurant",
+    "lat": 30.254737,
+    "lon": -97.762631,
+    "osm_id": 383355317,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Ramen Tatsu-ya",
+    "category": "restaurant",
+    "lat": 30.2539581,
+    "lon": -97.7632718,
+    "osm_id": 383355338,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Elizabeth Street Cafe",
+    "category": "restaurant",
+    "lat": 30.2497925,
+    "lon": -97.754661,
+    "osm_id": 383378648,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "The Salty",
+    "category": "restaurant",
+    "lat": 30.2441625,
+    "lon": -97.7521235,
+    "osm_id": 383378766,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Teal House",
+    "category": "restaurant",
+    "lat": 30.2399075,
+    "lon": -97.753159,
+    "osm_id": 383379028,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Freddo ATX",
+    "category": "restaurant",
+    "lat": 30.239211,
+    "lon": -97.753646,
+    "osm_id": 383379053,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "The Meteor Cafe",
+    "category": "restaurant",
+    "lat": 30.2427525,
+    "lon": -97.752547,
+    "osm_id": 383379312,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Habanero Mexican Cafe",
+    "category": "restaurant",
+    "lat": 30.2412125,
+    "lon": -97.758243,
+    "osm_id": 383379614,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "H-E-B Fuel",
+    "category": "gas",
+    "lat": 30.2345722,
+    "lon": -97.7229641,
+    "osm_id": 383814275,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "KFC",
+    "category": "restaurant",
+    "lat": 30.2384955,
+    "lon": -97.7253825,
+    "osm_id": 383814277,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Burger King",
+    "category": "restaurant",
+    "lat": 30.235382,
+    "lon": -97.7235956,
+    "osm_id": 383814291,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "H-E-B plus!",
+    "category": "grocery",
+    "lat": 30.2365718,
+    "lon": -97.7221392,
+    "osm_id": 383814294,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "H-E-B Express",
+    "category": "retail",
+    "lat": 30.2347213,
+    "lon": -97.7227353,
+    "osm_id": 383814312,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Vinaigrette",
+    "category": "restaurant",
+    "lat": 30.2412955,
+    "lon": -97.7520492,
+    "osm_id": 383814983,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "River City Market",
+    "category": "retail",
+    "lat": 30.2408759,
+    "lon": -97.7522738,
+    "osm_id": 383815129,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Stop & Save",
+    "category": "retail",
+    "lat": 30.235943,
+    "lon": -97.7290645,
+    "osm_id": 383833807,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Broken Spoke;The Broken Spoke",
+    "category": "restaurant",
+    "lat": 30.2408765,
+    "lon": -97.785209,
+    "osm_id": 383884597,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Matt's El Rancho",
+    "category": "restaurant",
+    "lat": 30.245144,
+    "lon": -97.779264,
+    "osm_id": 384019125,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Hattie B's",
+    "category": "restaurant",
+    "lat": 30.245768,
+    "lon": -97.7781815,
+    "osm_id": 384019307,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Signature Austin",
+    "category": "retail",
+    "lat": 30.2689975,
+    "lon": -97.7341784,
+    "osm_id": 392131335,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Panera Bread",
+    "category": "restaurant",
+    "lat": 30.2703784,
+    "lon": -97.7897615,
+    "osm_id": 456714676,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Abo Youssef Food Truck",
+    "category": "restaurant",
+    "lat": 30.2840732,
+    "lon": -97.7196992,
+    "osm_id": 468463416,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Sno.Co Flattop Shaved Ice",
+    "category": "restaurant",
+    "lat": 30.2844329,
+    "lon": -97.7174896,
+    "osm_id": 468463419,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Patrizi's",
+    "category": "restaurant",
+    "lat": 30.2838741,
+    "lon": -97.7172686,
+    "osm_id": 581316736,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Via313",
+    "category": "restaurant",
+    "lat": 30.2622325,
+    "lon": -97.7231482,
+    "osm_id": 587931496,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Kuali Tlakuali",
+    "category": "restaurant",
+    "lat": 30.2625243,
+    "lon": -97.7241403,
+    "osm_id": 587933318,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Halal Hub",
+    "category": "restaurant",
+    "lat": 30.2416009,
+    "lon": -97.7598232,
+    "osm_id": 617839880,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Rosen's Bagels",
+    "category": "restaurant",
+    "lat": 30.2681415,
+    "lon": -97.7475184,
+    "osm_id": 724582090,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Cedar Door",
+    "category": "restaurant",
+    "lat": 30.2640735,
+    "lon": -97.7425301,
+    "osm_id": 772280775,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Veracruz All Natural",
+    "category": "restaurant",
+    "lat": 30.2630626,
+    "lon": -97.7137458,
+    "osm_id": 802335915,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Apple Mart",
+    "category": "retail",
+    "lat": 30.2316588,
+    "lon": -97.7202549,
+    "osm_id": 912998498,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Tinnin Food Mart",
+    "category": "grocery",
+    "lat": 30.2413861,
+    "lon": -97.7269135,
+    "osm_id": 993485847,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Hoboken Pie",
+    "category": "restaurant",
+    "lat": 30.2682132,
+    "lon": -97.7367892,
+    "osm_id": 1002818356,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Simona's Coffee + Cocktails",
+    "category": "restaurant",
+    "lat": 30.2381638,
+    "lon": -97.7561058,
+    "osm_id": 1008686099,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "DeSano Pizzeria Napoletana",
+    "category": "restaurant",
+    "lat": 30.2662524,
+    "lon": -97.7458585,
+    "osm_id": 1020753276,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Red Ash",
+    "category": "restaurant",
+    "lat": 30.265686,
+    "lon": -97.7446787,
+    "osm_id": 1020753278,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Punch Bowl Social",
+    "category": "restaurant",
+    "lat": 30.2677731,
+    "lon": -97.743381,
+    "osm_id": 1020754976,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Cuatro Gato",
+    "category": "restaurant",
+    "lat": 30.266222,
+    "lon": -97.7451707,
+    "osm_id": 1020979630,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Wax Myrtle's Club & Pool",
+    "category": "restaurant",
+    "lat": 30.2667972,
+    "lon": -97.7411988,
+    "osm_id": 1021003040,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Gina's on Congress",
+    "category": "restaurant",
+    "lat": 30.265904,
+    "lon": -97.743947,
+    "osm_id": 1021167044,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "La Piscina Ceviches & Fajitas",
+    "category": "restaurant",
+    "lat": 30.2662912,
+    "lon": -97.7502694,
+    "osm_id": 1021571018,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Austin's Habibi",
+    "category": "restaurant",
+    "lat": 30.2694961,
+    "lon": -97.7529258,
+    "osm_id": 1024092005,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Super Burrito",
+    "category": "restaurant",
+    "lat": 30.2694978,
+    "lon": -97.7527061,
+    "osm_id": 1024092006,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Self Edge",
+    "category": "retail",
+    "lat": 30.2538079,
+    "lon": -97.763346,
+    "osm_id": 1024600248,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Odd Duck",
+    "category": "restaurant",
+    "lat": 30.2546623,
+    "lon": -97.7619902,
+    "osm_id": 1024600258,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Streamway Coffee",
+    "category": "restaurant",
+    "lat": 30.2964056,
+    "lon": -97.7077829,
+    "osm_id": 1026291785,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "The Stone House",
+    "category": "restaurant",
+    "lat": 30.2966671,
+    "lon": -97.7077172,
+    "osm_id": 1026291786,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Eggman",
+    "category": "restaurant",
+    "lat": 30.2966152,
+    "lon": -97.7076628,
+    "osm_id": 1026291787,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Burro Cheese Kitchen",
+    "category": "restaurant",
+    "lat": 30.2739252,
+    "lon": -97.7365783,
+    "osm_id": 1056138767,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "American June",
+    "category": "retail",
+    "lat": 30.2490151,
+    "lon": -97.75497,
+    "osm_id": 1061555337,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Jad Mediterranean Halal Grill",
+    "category": "restaurant",
+    "lat": 30.2629795,
+    "lon": -97.7259495,
+    "osm_id": 1077918078,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Madrasdhaba",
+    "category": "restaurant",
+    "lat": 30.2630759,
+    "lon": -97.726026,
+    "osm_id": 1077918080,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Hula Hut",
+    "category": "restaurant",
+    "lat": 30.2946881,
+    "lon": -97.7844296,
+    "osm_id": 1087579956,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Thai-Licious",
+    "category": "restaurant",
+    "lat": 30.2533743,
+    "lon": -97.7130834,
+    "osm_id": 1093675219,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Wanderlust",
+    "category": "restaurant",
+    "lat": 30.2534344,
+    "lon": -97.7130456,
+    "osm_id": 1093675220,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "R&B's Steak and Fries",
+    "category": "restaurant",
+    "lat": 30.2534066,
+    "lon": -97.7129783,
+    "osm_id": 1093675221,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Hippie PicNik",
+    "category": "restaurant",
+    "lat": 30.2534054,
+    "lon": -97.7129013,
+    "osm_id": 1093675222,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Eritrea-Ethiopia",
+    "category": "restaurant",
+    "lat": 30.253223,
+    "lon": -97.712996,
+    "osm_id": 1093675223,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Thai Thani",
+    "category": "restaurant",
+    "lat": 30.2838363,
+    "lon": -97.7196734,
+    "osm_id": 1174656545,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Irene's",
+    "category": "restaurant",
+    "lat": 30.2698156,
+    "lon": -97.7511628,
+    "osm_id": 1208359107,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Wingstop",
+    "category": "restaurant",
+    "lat": 30.2868922,
+    "lon": -97.741951,
+    "osm_id": 1208518207,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "1972 Pub",
+    "category": "restaurant",
+    "lat": 30.2899003,
+    "lon": -97.7416256,
+    "osm_id": 1208518211,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Ph\u1edf Th\u00e1is\u01a1n",
+    "category": "restaurant",
+    "lat": 30.2824972,
+    "lon": -97.7423513,
+    "osm_id": 1208522902,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "CoCo's Cafe",
+    "category": "restaurant",
+    "lat": 30.2825675,
+    "lon": -97.7423453,
+    "osm_id": 1208522903,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "1914 Poke Bowl",
+    "category": "restaurant",
+    "lat": 30.2826382,
+    "lon": -97.7424442,
+    "osm_id": 1208522904,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "China Family",
+    "category": "restaurant",
+    "lat": 30.2826448,
+    "lon": -97.7425463,
+    "osm_id": 1208522907,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "K-Bop",
+    "category": "restaurant",
+    "lat": 30.2828961,
+    "lon": -97.7423379,
+    "osm_id": 1208522909,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "The Hideout Coffee House",
+    "category": "restaurant",
+    "lat": 30.2685549,
+    "lon": -97.7421672,
+    "osm_id": 1213502018,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "allday",
+    "category": "restaurant",
+    "lat": 30.2624651,
+    "lon": -97.7235288,
+    "osm_id": 1221900056,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Cooper's Old Time Pit Bar-B-Que",
+    "category": "restaurant",
+    "lat": 30.264936,
+    "lon": -97.7436292,
+    "osm_id": 1239928162,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "OneTaco Taquer\u00eda",
+    "category": "restaurant",
+    "lat": 30.2698423,
+    "lon": -97.7481939,
+    "osm_id": 1243589076,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Thai Kitchen",
+    "category": "restaurant",
+    "lat": 30.2967234,
+    "lon": -97.7416365,
+    "osm_id": 1343876139,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Via 313",
+    "category": "restaurant",
+    "lat": 30.2701076,
+    "lon": -97.7484585,
+    "osm_id": 1350777573,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "J Carver\u2019s Oyster Bar & Chophouse",
+    "category": "restaurant",
+    "lat": 30.2695206,
+    "lon": -97.7494409,
+    "osm_id": 1362339086,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Flitch Coffee",
+    "category": "restaurant",
+    "lat": 30.2578321,
+    "lon": -97.7057639,
+    "osm_id": 1453954421,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Pueblo Viejo Tillery",
+    "category": "restaurant",
+    "lat": 30.2578681,
+    "lon": -97.7058024,
+    "osm_id": 1453954422,
+    "osm_type": "way",
+    "city": "austin"
+  },
+  {
+    "name": "Taqueria Fenix",
+    "category": "restaurant",
+    "lat": 30.2542881,
+    "lon": -97.7047884,
+    "osm_id": 1453958682,
+    "osm_type": "way",
+    "city": "austin"
+  }
+]
