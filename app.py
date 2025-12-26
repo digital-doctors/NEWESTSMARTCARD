@@ -473,6 +473,9 @@ def register_page():
     if 'user_email' in session:
         return redirect(url_for('index'))
     return render_template('register.html')
+@app.route('/google726ed8db2fc573c2.html')
+def google_verification():
+    return app.send_static_file('google726ed8db2fc573c2.html')
 
 @app.route('/api/auth/register', methods=['POST'])
 @rate_limit(limit=5, window=60)  # More strict for registration
