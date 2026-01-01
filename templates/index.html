@@ -1,0 +1,1540 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartCard</title>
+    <link href="https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #000000;
+            --primary-light: #1C1C1E;
+            --text-primary: #000000;
+            --text-secondary: #8E8E93;
+            --bg-primary: #FFFFFF;
+            --bg-secondary: #F2F2F7;
+            --border: #E5E5EA;
+            --shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+            
+            --card-blue: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --card-black: linear-gradient(135deg, #2C3E50 0%, #000000 100%);
+            --card-gold: linear-gradient(135deg, #f7971e 0%, #ffd200 100%);
+            --card-silver: linear-gradient(135deg, #bdc3c7 0%, #95a5a6 100%);
+            --card-green: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+            --card-red: linear-gradient(135deg, #eb3349 0%, #f45c43 100%);
+            
+            --card-height: 200px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        html, body {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            position: fixed;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+
+        .app-container {
+            width: 100vw;
+            height: 100vh;
+            max-width: 480px;
+            margin: 0 auto;
+            background: var(--bg-primary);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .navbar {
+            position: fixed;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100%;
+            max-width: 480px;
+            background: var(--bg-primary);
+            border-top: 1px solid var(--border);
+            padding: 8px 0 max(env(safe-area-inset-bottom), 8px);
+            z-index: 1000;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+
+        .nav-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4px;
+            padding: 6px 16px;
+            cursor: pointer;
+            text-decoration: none;
+            color: var(--text-secondary);
+            transition: all 0.2s;
+        }
+
+        .nav-item.active {
+            color: var(--primary);
+        }
+
+        .nav-item svg {
+            width: 24px;
+            height: 24px;
+        }
+
+        .nav-label {
+            font-size: 10px;
+            font-weight: 500;
+            letter-spacing: 0.3px;
+        }
+
+        .app-header {
+            padding: max(env(safe-area-inset-top), 16px) 20px 16px;
+            background: var(--bg-primary);
+            border-bottom: 1px solid var(--border);
+            flex-shrink: 0;
+        }
+
+        .app-header h1 {
+            font-size: 34px;
+            font-weight: 700;
+            letter-spacing: -0.8px;
+        }
+
+        .welcome-section {
+            padding: 20px 20px 0;
+            background: var(--bg-primary);
+            flex-shrink: 0;
+        }
+
+        .welcome-greeting h2 {
+            font-size: 20px;
+            font-weight: 600;
+            letter-spacing: -0.4px;
+            margin-bottom: 4px;
+            color: var(--text-primary);
+        }
+
+        .welcome-greeting #user-name {
+            color: var(--primary);
+        }
+
+        .welcome-greeting p {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-weight: 400;
+            margin-bottom: 20px;
+        }
+
+        /* Dashboard Stats */
+        .dashboard {
+            padding: 0 20px 20px;
+            background: var(--bg-primary);
+            flex-shrink: 0;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+        }
+
+        .stat-card {
+            background: var(--bg-secondary);
+            border-radius: 16px;
+            padding: 16px;
+            transition: transform 0.2s;
+        }
+
+        .stat-card:active {
+            transform: scale(0.98);
+        }
+
+        .stat-icon {
+            width: 36px;
+            height: 36px;
+            border-radius: 10px;
+            background: var(--primary);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 12px;
+        }
+
+        .stat-icon svg {
+            color: white;
+        }
+
+        .stat-value {
+            font-size: 28px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+            color: var(--text-primary);
+            margin-bottom: 4px;
+        }
+
+        .stat-label {
+            font-size: 13px;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        /* Quick Insights */
+        .quick-insights {
+            display: none;
+        }
+
+        /* Cards Section Header */
+        .cards-section-header {
+            padding: 16px 20px 12px;
+            background: var(--bg-primary);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-shrink: 0;
+        }
+
+        .cards-section-header h3 {
+            font-size: 18px;
+            font-weight: 600;
+            letter-spacing: -0.3px;
+        }
+
+        .cards-count {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .cards-container {
+            flex: 1;
+            overflow-y: auto;
+            overflow-x: hidden;
+            -webkit-overflow-scrolling: touch;
+            padding: 16px 20px;
+            padding-bottom: 100px;
+        }
+        
+        .cards-container::-webkit-scrollbar {
+            display: none;
+        }
+
+        .cards-stack {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .credit-card {
+            width: 100%;
+            height: var(--card-height);
+            border-radius: 20px;
+            padding: 24px;
+            position: relative;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .credit-card:active {
+            transform: scale(0.98);
+        }
+
+        .credit-card.blue { background: var(--card-blue); }
+        .credit-card.black { background: var(--card-black); }
+        .credit-card.gold { background: var(--card-gold); }
+        .credit-card.silver { background: var(--card-silver); }
+        .credit-card.green { background: var(--card-green); }
+        .credit-card.red { background: var(--card-red); }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .card-name {
+            font-size: 18px;
+            font-weight: 600;
+            letter-spacing: 0.3px;
+        }
+
+        .card-network {
+            font-size: 12px;
+            opacity: 0.9;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 500;
+        }
+
+        .card-body {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .card-rate {
+            font-size: 36px;
+            font-weight: 700;
+            letter-spacing: -1px;
+        }
+
+        .card-rate-label {
+            font-size: 13px;
+            opacity: 0.9;
+        }
+
+        .card-bonuses {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-top: 8px;
+        }
+
+        .bonus-badge {
+            background: rgba(255, 255, 255, 0.25);
+            backdrop-filter: blur(10px);
+            padding: 4px 10px;
+            border-radius: 8px;
+            font-size: 11px;
+            font-weight: 500;
+        }
+
+        .card-actions {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            gap: 8px;
+        }
+
+        .card-action-btn {
+            width: 32px;
+            height: 32px;
+            border: none;
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.25);
+            backdrop-filter: blur(10px);
+            color: white;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .empty-state {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 80px 20px;
+            color: var(--text-secondary);
+        }
+
+        .empty-icon {
+            margin-bottom: 16px;
+            opacity: 0.6;
+        }
+
+        .empty-state h2 {
+            font-size: 22px;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 8px;
+        }
+
+        .empty-state p {
+            font-size: 15px;
+        }
+
+        .recommendation-popup {
+            position: fixed;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100%;
+            max-width: 480px;
+            z-index: 2000;
+            pointer-events: none;
+        }
+
+        .recommendation-popup.show {
+            pointer-events: auto;
+        }
+
+        .popup-content {
+            margin: max(env(safe-area-inset-top), 16px) 16px 0;
+            background: var(--bg-primary);
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+            border: 1px solid var(--border);
+            transform: translateY(-150%);
+            transition: transform 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+            overflow: hidden;
+        }
+
+        .recommendation-popup.show .popup-content {
+            transform: translateY(0);
+        }
+
+        .popup-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            border-bottom: 1px solid var(--border);
+            background: var(--bg-primary);
+        }
+
+        .popup-header h3 {
+            font-size: 17px;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .popup-close {
+            width: 30px;
+            height: 30px;
+            border: none;
+            border-radius: 50%;
+            background: var(--bg-secondary);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-secondary);
+            transition: all 0.2s;
+        }
+
+        .popup-close:active {
+            transform: scale(0.9);
+        }
+
+        .popup-body {
+            padding: 16px 20px 20px;
+            background: var(--bg-primary);
+        }
+
+        .recommendation-card {
+            background: var(--bg-secondary);
+            border-radius: 16px;
+            padding: 20px;
+            margin-bottom: 12px;
+        }
+
+        .recommendation-card-name {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 4px;
+            color: var(--text-primary);
+        }
+
+        .recommendation-rate {
+            font-size: 32px;
+            font-weight: 700;
+            color: var(--primary);
+            margin: 12px 0;
+        }
+
+        .merchant-category {
+            background: var(--primary);
+            color: white;
+            padding: 6px 12px;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: 0.3px;
+            display: inline-block;
+        }
+
+        .merchant-info {
+            color: var(--text-secondary);
+            font-size: 14px;
+            margin-top: 8px;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.4);
+            z-index: 3000;
+            align-items: flex-end;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .modal.active {
+            display: flex;
+            opacity: 1;
+        }
+
+        .modal-content {
+            background: var(--bg-primary);
+            border-radius: 20px 20px 0 0;
+            width: 100%;
+            max-width: 480px;
+            max-height: 90vh;
+            overflow-y: auto;
+            margin: 0 auto;
+            box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.2);
+            transform: translateY(100%);
+            transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+        }
+
+        .modal.active .modal-content {
+            transform: translateY(0);
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 24px;
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            background: var(--bg-primary);
+            z-index: 10;
+        }
+
+        .modal-header h2 {
+            font-size: 20px;
+            font-weight: 600;
+        }
+
+        .modal-close {
+            width: 36px;
+            height: 36px;
+            border: none;
+            border-radius: 50%;
+            background: var(--bg-secondary);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .location-modal-content {
+            text-align: center;
+            padding: 40px 32px;
+            border-radius: 20px;
+            margin: auto;
+            max-height: none;
+            transform: scale(0.9);
+        }
+
+        .modal.active .location-modal-content {
+            transform: scale(1);
+        }
+
+        .modal-icon {
+            display: inline-flex;
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background: var(--bg-secondary);
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 24px;
+            color: var(--primary);
+        }
+
+        .location-modal-content h2 {
+            font-size: 24px;
+            margin-bottom: 12px;
+            font-weight: 600;
+        }
+
+        .location-modal-content p {
+            color: var(--text-secondary);
+            font-size: 15px;
+            line-height: 1.6;
+            margin-bottom: 32px;
+        }
+
+        .card-form {
+            padding: 0;
+        }
+
+        .form-section {
+            padding: 24px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .form-section:last-of-type {
+            border-bottom: none;
+        }
+
+        .form-section h3 {
+            font-size: 13px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+        }
+
+        .form-group {
+            margin-bottom: 24px;
+        }
+
+        .form-group:last-child {
+            margin-bottom: 0;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+        }
+
+        .form-group label {
+            display: block;
+            font-size: 13px;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: var(--text-primary);
+            letter-spacing: 0.2px;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 16px;
+            border: 2px solid var(--border);
+            border-radius: 14px;
+            font-size: 17px;
+            font-family: inherit;
+            background: var(--bg-primary);
+            transition: all 0.2s;
+            -webkit-appearance: none;
+        }
+
+        .form-group input:focus {
+            outline: none;
+            border-color: var(--primary);
+            background: var(--bg-primary);
+        }
+
+        .form-group input::placeholder {
+            color: #C7C7CC;
+        }
+
+        /* Custom Select Styling */
+        .select-wrapper {
+            position: relative;
+        }
+
+        .select-wrapper::after {
+            content: '';
+            position: absolute;
+            right: 16px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 0;
+            height: 0;
+            border-left: 5px solid transparent;
+            border-right: 5px solid transparent;
+            border-top: 6px solid var(--text-primary);
+            pointer-events: none;
+        }
+
+        .form-group select {
+            width: 100%;
+            padding: 16px;
+            padding-right: 40px;
+            border: 2px solid var(--border);
+            border-radius: 14px;
+            font-size: 17px;
+            font-family: inherit;
+            background: var(--bg-primary);
+            transition: all 0.2s;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+            cursor: pointer;
+        }
+
+        .form-group select:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        /* Color Options - Visual Preview */
+        .color-options {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+            margin-top: 10px;
+        }
+
+        .color-option {
+            position: relative;
+            height: 60px;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 3px solid transparent;
+        }
+
+        .color-option.blue { background: var(--card-blue); }
+        .color-option.black { background: var(--card-black); }
+        .color-option.gold { background: var(--card-gold); }
+        .color-option.silver { background: var(--card-silver); }
+        .color-option.green { background: var(--card-green); }
+        .color-option.red { background: var(--card-red); }
+
+        .color-option.selected {
+            border-color: var(--primary);
+            transform: scale(1.05);
+        }
+
+        .color-option::after {
+            content: '✓';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+            opacity: 0;
+            transition: opacity 0.2s;
+        }
+
+        .color-option.selected::after {
+            opacity: 1;
+        }
+
+        .color-label {
+            position: absolute;
+            bottom: 8px;
+            left: 0;
+            right: 0;
+            text-align: center;
+            color: white;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+        }
+
+        /* Network Options */
+        .network-options {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+            margin-top: 10px;
+        }
+
+        .network-option {
+            padding: 16px;
+            border: 2px solid var(--border);
+            border-radius: 14px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.2s;
+            background: var(--bg-primary);
+        }
+
+        .network-option:hover {
+            border-color: var(--text-secondary);
+        }
+
+        .network-option.selected {
+            border-color: var(--primary);
+            background: var(--bg-secondary);
+        }
+
+        .network-name {
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .bonus-item {
+            display: grid;
+            grid-template-columns: 1fr 100px 44px;
+            gap: 12px;
+            margin-bottom: 16px;
+            align-items: start;
+        }
+
+        .bonus-item select,
+        .bonus-item input {
+            padding: 14px;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            font-size: 15px;
+            background: var(--bg-primary);
+            -webkit-appearance: none;
+        }
+
+        .bonus-item select {
+            padding-right: 36px;
+        }
+        /* Add this to your existing CSS */
+.merchant-category {
+    margin-bottom: 12px; /* Adds space below the category label */
+}
+
+.recommendation-card-name {
+    margin-top: 8px; /* Adds space above the card name */
+}
+
+        .bonus-item .select-wrapper::after {
+            right: 12px;
+        }
+
+        .bonus-remove {
+            width: 44px;
+            height: 44px;
+            border: none;
+            border-radius: 12px;
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }
+
+        .bonus-remove:hover {
+            background: #FFE5E5;
+            color: #D32F2F;
+        }
+
+        .bonus-remove:active {
+            transform: scale(0.95);
+        }
+
+        .btn {
+            padding: 14px 24px;
+            border: none;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-family: inherit;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .btn-secondary {
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+        }
+
+        .btn-sm {
+            padding: 10px 18px;
+            font-size: 14px;
+        }
+
+        .modal-actions {
+            display: flex;
+            gap: 12px;
+        }
+
+        .modal-actions .btn {
+            flex: 1;
+        }
+
+        .modal-footer {
+            display: flex;
+            gap: 12px;
+            padding: 20px 24px;
+            border-top: 1px solid var(--border);
+            position: sticky;
+            bottom: 0;
+            background: var(--bg-primary);
+        }
+
+        .modal-footer .btn {
+            flex: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>SmartCard</h1>
+        </header>
+
+        <div class="welcome-section">
+            <div class="welcome-greeting">
+                <h2>Welcome back, <span id="user-name">Friend</span>! 👋</h2>
+                <p id="welcome-subtitle">Ready to maximize your rewards today?</p>
+            </div>
+        </div>
+
+        <!-- Dashboard Stats -->
+        <div class="dashboard">
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-icon">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <rect x="2" y="6" width="20" height="12" rx="2"/>
+                            <path d="M6 10h2M6 14h2"/>
+                        </svg>
+                    </div>
+                    <div class="stat-value" id="total-cards">0</div>
+                    <div class="stat-label">Total Cards</div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-icon">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="10"/>
+                            <path d="M12 6v6l4 2"/>
+                        </svg>
+                    </div>
+                    <div class="stat-value" id="avg-rewards">0%</div>
+                    <div class="stat-label">Avg. Rewards</div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-icon">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+                            <polyline points="9 22 9 12 15 12 15 22"/>
+                        </svg>
+                    </div>
+                    <div class="stat-value" id="top-category">—</div>
+                    <div class="stat-label">Top Category</div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-icon">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="12" y1="1" x2="12" y2="23"/>
+                            <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+                        </svg>
+                    </div>
+                    <div class="stat-value" id="total-bonuses">0</div>
+                    <div class="stat-label">Total Bonuses</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Cards Section Header -->
+        <div class="cards-section-header">
+            <h3>Your Cards</h3>
+            <span class="cards-count" id="cards-count-display">0 cards</span>
+        </div>
+
+        <main class="cards-container">
+            <div id="cards-stack" class="cards-stack"></div>
+            
+            <div id="empty-state" class="empty-state" style="display: none;">
+                <div class="empty-icon">
+                    <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <rect x="2" y="5" width="20" height="14" rx="2"/>
+                        <path d="M2 10h20"/>
+                    </svg>
+                </div>
+                <h2>No Cards Added</h2>
+                <p>Add your first credit card to start optimizing your rewards</p>
+            </div>
+        </main>
+            <div id="cards-stack" class="cards-stack"></div>
+            
+            <div id="empty-state" class="empty-state" style="display: none;">
+                <div class="empty-icon">
+                    <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <rect x="2" y="5" width="20" height="14" rx="2"/>
+                        <path d="M2 10h20"/>
+                    </svg>
+                </div>
+                <h2>No Cards Added</h2>
+                <p>Add your first credit card to start optimizing your rewards</p>
+            </div>
+        </main>
+
+        <nav class="navbar">
+            <a href="/" class="nav-item active">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect x="2" y="5" width="20" height="14" rx="2"/>
+                    <path d="M2 10h20"/>
+                </svg>
+                <span class="nav-label">Cards</span>
+            </a>
+            
+            <a href="/gift-cards" class="nav-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect x="2" y="7" width="20" height="10" rx="2"/>
+                    <line x1="12" y1="7" x2="12" y2="17"/>
+                    <path d="M12 7c-2-3-6-2-6 1 0 2 3 3 6 1"/>
+                    <path d="M12 7c2-3 6-2 6 1 0 2-3 3-6 1"/>
+                </svg>
+                <span class="nav-label">Gifts</span>
+            </a>
+            
+            <a href="/deals" class="nav-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M20.59 13.41L11 3H4v7l9.59 9.59a2 2 0 0 0 2.82 0l4.18-4.18a2 2 0 0 0 0-2.82z"/>
+                    <circle cx="7.5" cy="7.5" r="1.5"/>
+                </svg>
+                <span class="nav-label">Deals</span>
+            </a>
+            
+            <a href="#" class="nav-item" id="nav-add">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M12 5v14M5 12h14"/>
+                </svg>
+                <span class="nav-label">Add</span>
+            </a>
+            
+            <a href="#" class="nav-item" id="nav-logout">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/>
+                    <polyline points="16 17 21 12 16 7"/>
+                    <line x1="21" y1="12" x2="9" y2="12"/>
+                </svg>
+                <span class="nav-label">Logout</span>
+            </a>
+        </nav>
+    </div>
+
+    <div id="recommendation-popup" class="recommendation-popup">
+        <div class="popup-content">
+            <div class="popup-header">
+                <h3>Best Card Nearby</h3>
+                <br>
+                <button class="popup-close">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 6L6 18M6 6l12 12"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="popup-body">
+                <div id="recommendation-content"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="location-modal" class="modal">
+        <div class="modal-content location-modal-content">
+            <div class="modal-icon">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
+                    <circle cx="12" cy="10" r="3"/>
+                </svg>
+            </div>
+            <h2>Enable Location Services</h2>
+            <p>SmartCard uses your location to automatically recommend the best card for nearby merchants.</p>
+            <div class="modal-actions">
+                <button id="location-deny" class="btn btn-secondary">Not Now</button>
+                <button id="location-allow" class="btn btn-primary">Enable Location</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="card-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Add Card</h2>
+                <button class="modal-close">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 6L6 18M6 6l12 12"/>
+                    </svg>
+                </button>
+            </div>
+            
+            <form id="card-form" class="card-form">
+                <input type="hidden" id="edit-card-id">
+                <input type="hidden" id="card-network" value="visa">
+                <input type="hidden" id="card-color" value="blue">
+                
+                <div class="form-section">
+                    <h3>Card Information</h3>
+                    
+                    <div class="form-group">
+                        <label>Card Name</label>
+                        <input type="text" id="card-name" required placeholder="Chase Sapphire Reserve">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label>Base Cashback Rate (%)</label>
+                        <input type="number" id="base-rate" required step="0.01" min="0" placeholder="1.5">
+                    </div>
+                </div>
+
+                <div class="form-section">
+                    <h3>Card Network</h3>
+                    <div class="network-options">
+                        <div class="network-option selected" data-network="visa">
+                            <div class="network-name">Visa</div>
+                        </div>
+                        <div class="network-option" data-network="mastercard">
+                            <div class="network-name">Mastercard</div>
+                        </div>
+                        <div class="network-option" data-network="amex">
+                            <div class="network-name">Amex</div>
+                        </div>
+                        <div class="network-option" data-network="discover">
+                            <div class="network-name">Discover</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-section">
+                    <h3>Card Color</h3>
+                    <div class="color-options">
+                        <div class="color-option blue selected" data-color="blue">
+                            <span class="color-label">Blue</span>
+                        </div>
+                        <div class="color-option black" data-color="black">
+                            <span class="color-label">Black</span>
+                        </div>
+                        <div class="color-option gold" data-color="gold">
+                            <span class="color-label">Gold</span>
+                        </div>
+                        <div class="color-option silver" data-color="silver">
+                            <span class="color-label">Silver</span>
+                        </div>
+                        <div class="color-option green" data-color="green">
+                            <span class="color-label">Green</span>
+                        </div>
+                        <div class="color-option red" data-color="red">
+                            <span class="color-label">Red</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="form-section">
+                    <h3>Category Bonuses</h3>
+                    <div id="category-bonuses-list"></div>
+                    <button type="button" id="add-bonus-btn" class="btn btn-secondary btn-sm">+ Add Category Bonus</button>
+                </div>
+                
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary modal-cancel">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Save Card</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        let userCards = [];
+        let isEditMode = false;
+        let locationEnabled = false;
+
+        // Load cards and user info
+        async function loadCards() {
+            try {
+                const response = await fetch('/api/cards');
+                const data = await response.json();
+                userCards = data.cards || [];
+                locationEnabled = data.location_enabled || false;
+                renderCards();
+                
+                if (locationEnabled) {
+                    checkLocation();
+                }
+            } catch (error) {
+                console.error('Error loading cards:', error);
+            }
+        }
+
+        // Load user info
+        async function loadUserInfo() {
+            try {
+                const response = await fetch('/api/user/info');
+                const data = await response.json();
+                if (data.success) {
+                    document.getElementById('user-name').textContent = data.name.split(' ')[0];
+                }
+            } catch (error) {
+                console.error('Error loading user info:', error);
+            }
+        }
+
+        function renderCards() {
+            const container = document.getElementById('cards-stack');
+            const emptyState = document.getElementById('empty-state');
+            
+            // Update dashboard stats
+            updateDashboard();
+            
+            if (userCards.length === 0) {
+                container.innerHTML = '';
+                emptyState.style.display = 'flex';
+                return;
+            }
+            
+            emptyState.style.display = 'none';
+            container.innerHTML = userCards.map(card => `
+                <div class="credit-card ${card.color}">
+                    <div class="card-header">
+                        <div>
+                            <div class="card-name">${card.name}</div>
+                            <div class="card-network">${card.network.toUpperCase()}</div>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="card-rate">${card.base_rate}%</div>
+                        <div class="card-rate-label">Base Cashback</div>
+                        ${card.category_bonuses && card.category_bonuses.length > 0 ? `
+                            <div class="card-bonuses">
+                                ${card.category_bonuses.map(bonus => `
+                                    <span class="bonus-badge">${bonus.category}: ${bonus.rate}%</span>
+                                `).join('')}
+                            </div>
+                        ` : ''}
+                    </div>
+                    <div class="card-actions">
+                        <button class="card-action-btn" onclick="editCard('${card.id}')">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/>
+                                <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/>
+                            </svg>
+                        </button>
+                        <button class="card-action-btn" onclick="deleteCard('${card.id}')">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M3 6h18M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function updateDashboard() {
+            // Total cards
+            document.getElementById('total-cards').textContent = userCards.length;
+            document.getElementById('cards-count-display').textContent = 
+                `${userCards.length} ${userCards.length === 1 ? 'card' : 'cards'}`;
+            
+            // Calculate average rewards
+            if (userCards.length > 0) {
+                const avgRate = userCards.reduce((sum, card) => sum + parseFloat(card.base_rate), 0) / userCards.length;
+                document.getElementById('avg-rewards').textContent = avgRate.toFixed(1) + '%';
+            } else {
+                document.getElementById('avg-rewards').textContent = '0%';
+            }
+            
+            // Total bonuses and top category
+            let totalBonuses = 0;
+            const categoryCount = {};
+            
+            userCards.forEach(card => {
+                if (card.category_bonuses) {
+                    totalBonuses += card.category_bonuses.length;
+                    card.category_bonuses.forEach(bonus => {
+                        categoryCount[bonus.category] = (categoryCount[bonus.category] || 0) + 1;
+                    });
+                }
+            });
+            
+            document.getElementById('total-bonuses').textContent = totalBonuses;
+            
+            // Find top category
+            const topCategory = Object.keys(categoryCount).reduce((a, b) => 
+                categoryCount[a] > categoryCount[b] ? a : b, null);
+            
+            if (topCategory) {
+                const categoryNames = {
+                    'grocery': 'Grocery',
+                    'restaurant': 'Dining',
+                    'gas': 'Gas',
+                    'travel': 'Travel',
+                    'pharmacy': 'Pharmacy',
+                    'retail': 'Retail'
+                };
+                document.getElementById('top-category').textContent = categoryNames[topCategory] || topCategory;
+            } else {
+                document.getElementById('top-category').textContent = '—';
+            }
+            
+            // Update quick insights
+            // Removed - insights section hidden
+        }
+
+        async function checkLocation() {
+            if (!navigator.geolocation) return;
+            
+            navigator.geolocation.getCurrentPosition(async (position) => {
+                try {
+                    const response = await fetch('/api/location/check', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            latitude: position.coords.latitude,
+                            longitude: position.coords.longitude
+                        })
+                    });
+                    const data = await response.json();
+                    if (data.success && data.recommendation) {
+                        showRecommendation(data.recommendation);
+                    }
+                } catch (error) {
+                    console.error('Error checking location:', error);
+                }
+            });
+        }
+
+        function showRecommendation(rec) {
+            const content = document.getElementById('recommendation-content');
+            
+            if (rec.type === 'gift_card') {
+                content.innerHTML = `
+                    <div class="recommendation-card">
+                        <div class="merchant-category">GIFT CARD</div>
+                        <div class="recommendation-card-name">${rec.gift_card.merchant}</div>
+                        <div class="recommendation-rate">${rec.gift_card.balance}</div>
+                        <p class="merchant-info">Perfect for ${rec.merchant.name} nearby (${rec.merchant.distance.toFixed(1)} mi)</p>
+                    </div>
+                `;
+            } else if (rec.type === 'credit_card') {
+                content.innerHTML = `
+                    <div class="recommendation-card">
+                        <div class="merchant-category">${rec.merchant.category.toUpperCase()}</div>
+                        <div class="recommendation-card-name">${rec.card.name}</div>
+                        <div class="recommendation-rate">${rec.rate}% Back</div>
+                        <p class="merchant-info">Perfect for ${rec.merchant.name} nearby (${rec.merchant.distance.toFixed(1)} mi)</p>
+                    </div>
+                `;
+            }
+            
+            document.getElementById('recommendation-popup').classList.add('show');
+            setTimeout(() => {
+                document.getElementById('recommendation-popup').classList.remove('show');
+            }, 6000);
+        }
+
+        function openAddCardModal() {
+            isEditMode = false;
+            document.getElementById('modal-title').textContent = 'Add Card';
+            document.getElementById('card-form').reset();
+            document.getElementById('edit-card-id').value = '';
+            document.getElementById('card-network').value = 'visa';
+            document.getElementById('card-color').value = 'blue';
+            document.getElementById('category-bonuses-list').innerHTML = '';
+            
+            // Reset network selection UI
+            document.querySelectorAll('.network-option').forEach(o => {
+                o.classList.toggle('selected', o.dataset.network === 'visa');
+            });
+            
+            // Reset color selection UI
+            document.querySelectorAll('.color-option').forEach(o => {
+                o.classList.toggle('selected', o.dataset.color === 'blue');
+            });
+            
+            document.getElementById('card-modal').classList.add('active');
+        }
+
+        function editCard(cardId) {
+            isEditMode = true;
+            const card = userCards.find(c => c.id === cardId);
+            if (!card) return;
+            
+            document.getElementById('modal-title').textContent = 'Edit Card';
+            document.getElementById('edit-card-id').value = cardId;
+            document.getElementById('card-name').value = card.name;
+            document.getElementById('card-network').value = card.network;
+            document.getElementById('card-color').value = card.color;
+            document.getElementById('base-rate').value = card.base_rate;
+            
+            // Update network selection UI
+            document.querySelectorAll('.network-option').forEach(o => {
+                o.classList.toggle('selected', o.dataset.network === card.network);
+            });
+            
+            // Update color selection UI
+            document.querySelectorAll('.color-option').forEach(o => {
+                o.classList.toggle('selected', o.dataset.color === card.color);
+            });
+            
+            const bonusList = document.getElementById('category-bonuses-list');
+            bonusList.innerHTML = '';
+            if (card.category_bonuses) {
+                card.category_bonuses.forEach(bonus => addBonusField(bonus.category, bonus.rate));
+            }
+            
+            document.getElementById('card-modal').classList.add('active');
+        }
+
+        async function deleteCard(cardId) {
+            if (!confirm('Are you sure you want to delete this card?')) return;
+            
+            try {
+                const response = await fetch(`/api/cards/${cardId}`, { method: 'DELETE' });
+                if (response.ok) {
+                    await loadCards();
+                }
+            } catch (error) {
+                console.error('Error deleting card:', error);
+            }
+        }
+
+        function addBonusField(category = '', rate = '') {
+            const bonusList = document.getElementById('category-bonuses-list');
+            const bonusItem = document.createElement('div');
+            bonusItem.className = 'bonus-item';
+            bonusItem.innerHTML = `
+                <div class="select-wrapper">
+                    <select class="bonus-category">
+                        <option value="grocery" ${category === 'grocery' ? 'selected' : ''}>Grocery</option>
+                        <option value="restaurant" ${category === 'restaurant' ? 'selected' : ''}>Restaurant</option>
+                        <option value="gas" ${category === 'gas' ? 'selected' : ''}>Gas</option>
+                        <option value="travel" ${category === 'travel' ? 'selected' : ''}>Travel</option>
+                        <option value="pharmacy" ${category === 'pharmacy' ? 'selected' : ''}>Pharmacy</option>
+                        <option value="retail" ${category === 'retail' ? 'selected' : ''}>Retail</option>
+                    </select>
+                </div>
+                <input type="number" class="bonus-rate" placeholder="%" step="0.01" min="0" value="${rate}">
+                <button type="button" class="bonus-remove" onclick="this.parentElement.remove()">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 6L6 18M6 6l12 12"/>
+                    </svg>
+                </button>
+            `;
+            bonusList.appendChild(bonusItem);
+        }
+
+        // Color and Network selection handlers
+        document.addEventListener('click', (e) => {
+            // Color selection
+            if (e.target.closest('.color-option')) {
+                const option = e.target.closest('.color-option');
+                document.querySelectorAll('.color-option').forEach(o => o.classList.remove('selected'));
+                option.classList.add('selected');
+                document.getElementById('card-color').value = option.dataset.color;
+            }
+            
+            // Network selection
+            if (e.target.closest('.network-option')) {
+                const option = e.target.closest('.network-option');
+                document.querySelectorAll('.network-option').forEach(o => o.classList.remove('selected'));
+                option.classList.add('selected');
+                document.getElementById('card-network').value = option.dataset.network;
+            }
+        });
+
+        // Event Listeners
+        document.getElementById('nav-add').addEventListener('click', (e) => {
+            e.preventDefault();
+            openAddCardModal();
+        });
+
+        document.getElementById('nav-logout').addEventListener('click', async (e) => {
+            e.preventDefault();
+            try {
+                await fetch('/api/auth/logout', { method: 'POST' });
+                window.location.href = '/login';
+            } catch (error) {
+                console.error('Error logging out:', error);
+            }
+        });
+
+        document.getElementById('add-bonus-btn').addEventListener('click', () => {
+            addBonusField();
+        });
+
+        document.querySelectorAll('.modal-close, .modal-cancel').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.modal').forEach(m => m.classList.remove('active'));
+            });
+        });
+
+        document.querySelector('.popup-close').addEventListener('click', () => {
+            document.getElementById('recommendation-popup').classList.remove('show');
+        });
+
+        document.getElementById('location-allow').addEventListener('click', async () => {
+            try {
+                await fetch('/api/location/enable', { method: 'POST' });
+                locationEnabled = true;
+                document.getElementById('location-modal').classList.remove('active');
+                checkLocation();
+            } catch (error) {
+                console.error('Error enabling location:', error);
+            }
+        });
+
+        document.getElementById('location-deny').addEventListener('click', () => {
+            document.getElementById('location-modal').classList.remove('active');
+        });
+
+        document.getElementById('card-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const cardData = {
+                name: document.getElementById('card-name').value,
+                network: document.getElementById('card-network').value,
+                color: document.getElementById('card-color').value,
+                base_rate: parseFloat(document.getElementById('base-rate').value),
+                category_bonuses: []
+            };
+            
+            document.querySelectorAll('.bonus-item').forEach(item => {
+                const category = item.querySelector('.bonus-category').value;
+                const rate = parseFloat(item.querySelector('.bonus-rate').value);
+                if (category && rate) {
+                    cardData.category_bonuses.push({ category, rate });
+                }
+            });
+            
+            try {
+                const cardId = document.getElementById('edit-card-id').value;
+                const url = cardId ? `/api/cards/${cardId}` : '/api/cards';
+                const method = cardId ? 'PUT' : 'POST';
+                
+                const response = await fetch(url, {
+                    method: method,
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(cardData)
+                });
+                
+                if (response.ok) {
+                    document.getElementById('card-modal').classList.remove('active');
+                    await loadCards();
+                }
+            } catch (error) {
+                console.error('Error saving card:', error);
+            }
+        });
+
+        // Initialize
+        loadCards();
+        loadUserInfo();
+
+        // Show location modal if not enabled and has cards
+        setTimeout(() => {
+            if (!locationEnabled && userCards.length > 0) {
+                document.getElementById('location-modal').classList.add('active');
+            }
+        }, 1000);
+    </script>
+</body>
+</html>

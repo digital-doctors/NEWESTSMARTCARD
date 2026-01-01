@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gift Cards - SmartCard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        .gift-card {
+            width: 100%;
+            height: var(--card-height);
+            border-radius: 16px;
+            padding: 20px;
+            position: relative;
+            cursor: pointer;
+            transition: all 0.2s;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+            color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            overflow: hidden;
+            background: linear-gradient(135deg, #000000 0%, #000000 100%);
+        }
+
+        .gift-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.16);
+        }
+
+        .gift-card-balance {
+            font-size: 32px;
+            font-weight: 700;
+            letter-spacing: -1px;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .balance-label {
+            font-size: 13px;
+            opacity: 0.9;
+            margin-top: 4px;
+        }
+
+        .gift-card-merchant {
+            font-size: 18px;
+            font-weight: 600;
+            letter-spacing: 0.3px;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .gift-icon {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 32px;
+            opacity: 0.3;
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div style="display: flex; align-items: center; gap: 12px;">
+                <a href="{{ url_for('index') }}" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                </a>
+                <h1>Gift Cards</h1>
+            </div>
+
+            <div class="header-actions">
+                <div class="icon-wrap">
+                    <button id="add-gift-card-btn" class="icon-button">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 5v14M5 12h14"/>
+                        </svg>
+                    </button>
+                    <span class="icon-label">Add Gift Card</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Welcome Section -->
+        <div class="welcome-section">
+            <div class="welcome-greeting">
+                <h2>Your Gift Cards 🎁</h2>
+                <p id="total-balance">Total Balance: $0.00</p>
+            </div>
+        </div>
+
+        <!-- Gift Cards Display -->
+        <main class="cards-container">
+            <div id="gift-cards-stack" class="cards-stack">
+                <!-- Gift cards will be dynamically inserted here -->
+            </div>
+            
+            <div id="empty-state" class="empty-state" style="display: none;">
+                <div class="empty-icon">
+                    <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <rect x="2" y="7" width="20" height="10" rx="2"/>
+                        <line x1="12" y1="7" x2="12" y2="17"/>
+                        <path d="M12 7c-2-3-6-2-6 1 0 2 3 3 6 1"/>
+                        <path d="M12 7c2-3 6-2 6 1 0 2-3 3-6 1"/>
+                    </svg>
+                </div>
+                <h2>No Gift Cards Added</h2>
+                <p>Add your gift cards to track balances and get reminders to use them</p>
+            </div>
+        </main>
+    </div>
+
+    <!-- Add/Edit Gift Card Modal -->
+    <div id="gift-card-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Add Gift Card</h2>
+                <button class="modal-close">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 6L6 18M6 6l12 12"/>
+                    </svg>
+                </button>
+            </div>
+            
+            <form id="gift-card-form" class="card-form">
+                <div class="form-section">
+                    <h3>Gift Card Information</h3>
+                    
+                    <div class="form-group">
+                        <label>Merchant/Brand</label>
+                        <input type="text" id="merchant-name" required placeholder="Starbucks, Target, Amazon...">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label>Balance ($)</label>
+                        <input type="number" id="balance" required step="0.01" min="0" placeholder="50.00">
+                    </div>
+
+                    <div class="form-group">
+                        <label>Category (Optional)</label>
+                        <select id="gift-category">
+                            <option value="">Select category...</option>
+                            <option value="grocery">Grocery</option>
+                            <option value="restaurant">Restaurant</option>
+                            <option value="gas">Gas</option>
+                            <option value="pharmacy">Pharmacy</option>
+                            <option value="retail">Retail</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Notes (Optional)</label>
+                        <input type="text" id="notes" placeholder="Birthday gift, expires 12/2025...">
+                    </div>
+                </div>
+                
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary modal-cancel">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Save Gift Card</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        let editingGiftCardId = null;
+
+        // Load gift cards on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            loadGiftCards();
+        });
+
+        // Load and display gift cards
+        async function loadGiftCards() {
+            try {
+                const response = await fetch('/api/gift-cards');
+                const data = await response.json();
+                
+                displayGiftCards(data.gift_cards);
+                updateTotalBalance(data.gift_cards);
+            } catch (error) {
+                console.error('Error loading gift cards:', error);
+            }
+        }
+
+        // Display gift cards
+        function displayGiftCards(giftCards) {
+            const container = document.getElementById('gift-cards-stack');
+            const emptyState = document.getElementById('empty-state');
+            
+            if (!giftCards || giftCards.length === 0) {
+                container.innerHTML = '';
+                emptyState.style.display = 'flex';
+                return;
+            }
+            
+            emptyState.style.display = 'none';
+            
+            container.innerHTML = giftCards.map(card => `
+                <div class="gift-card" data-id="${card.id}">
+                    <div class="gift-icon">🎁</div>
+                    <div class="card-header">
+                        <div class="gift-card-merchant">${card.merchant}</div>
+                        ${card.category ? `<span class="merchant-category" style="background: rgba(255,255,255,0.25); display: inline-block; margin-top: 8px;">${card.category}</span>` : ''}
+                    </div>
+                    <div class="card-body" style="margin-top: auto;">
+                        <div class="gift-card-balance">$${parseFloat(card.balance).toFixed(2)}</div>
+                        <div class="balance-label">Available Balance</div>
+                        ${card.notes ? `<div class="balance-label" style="margin-top: 8px; opacity: 0.8;">📝 ${card.notes}</div>` : ''}
+                    </div>
+                    <div class="card-actions">
+                        <button class="card-action-btn" onclick="editGiftCard('${card.id}')" title="Edit">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/>
+                                <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/>
+                            </svg>
+                        </button>
+                        <button class="card-action-btn" onclick="deleteGiftCard('${card.id}')" title="Delete">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M3 6h18M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // Update total balance display
+        function updateTotalBalance(giftCards) {
+            const total = giftCards.reduce((sum, card) => sum + parseFloat(card.balance), 0);
+            document.getElementById('total-balance').textContent = `Total Balance: $${total.toFixed(2)}`;
+        }
+
+        // Modal controls
+        const modal = document.getElementById('gift-card-modal');
+        const addBtn = document.getElementById('add-gift-card-btn');
+        const closeBtn = modal.querySelector('.modal-close');
+        const cancelBtn = modal.querySelector('.modal-cancel');
+        const form = document.getElementById('gift-card-form');
+
+        addBtn.addEventListener('click', () => {
+            editingGiftCardId = null;
+            document.getElementById('modal-title').textContent = 'Add Gift Card';
+            form.reset();
+            modal.classList.add('active');
+        });
+
+        closeBtn.addEventListener('click', () => modal.classList.remove('active'));
+        cancelBtn.addEventListener('click', () => modal.classList.remove('active'));
+
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) modal.classList.remove('active');
+        });
+
+        // Edit gift card
+        window.editGiftCard = async function(id) {
+            const response = await fetch('/api/gift-cards');
+            const data = await response.json();
+            const card = data.gift_cards.find(c => c.id === id);
+            
+            if (!card) return;
+            
+            editingGiftCardId = id;
+            document.getElementById('modal-title').textContent = 'Edit Gift Card';
+            document.getElementById('merchant-name').value = card.merchant;
+            document.getElementById('balance').value = card.balance;
+            document.getElementById('gift-category').value = card.category || '';
+            document.getElementById('notes').value = card.notes || '';
+            
+            modal.classList.add('active');
+        };
+
+        // Delete gift card
+        window.deleteGiftCard = async function(id) {
+            if (!confirm('Are you sure you want to delete this gift card?')) return;
+            
+            try {
+                const response = await fetch(`/api/gift-cards/${id}`, {
+                    method: 'DELETE'
+                });
+                
+                if (response.ok) {
+                    loadGiftCards();
+                }
+            } catch (error) {
+                console.error('Error deleting gift card:', error);
+                alert('Failed to delete gift card');
+            }
+        };
+
+        // Form submission
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const giftCardData = {
+                merchant: document.getElementById('merchant-name').value,
+                balance: parseFloat(document.getElementById('balance').value),
+                category: document.getElementById('gift-category').value,
+                notes: document.getElementById('notes').value
+            };
+            
+            try {
+                const url = editingGiftCardId 
+                    ? `/api/gift-cards/${editingGiftCardId}`
+                    : '/api/gift-cards';
+                
+                const method = editingGiftCardId ? 'PUT' : 'POST';
+                
+                const response = await fetch(url, {
+                    method: method,
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(giftCardData)
+                });
+                
+                if (response.ok) {
+                    modal.classList.remove('active');
+                    loadGiftCards();
+                    form.reset();
+                } else {
+                    alert('Failed to save gift card');
+                }
+            } catch (error) {
+                console.error('Error saving gift card:', error);
+                alert('Failed to save gift card');
+            }
+        });
+    </script>
+</body>
+</html>

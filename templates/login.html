@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Sign In - SmartCard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        html, body {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            position: fixed;
+            overscroll-behavior: none;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #000000;
+            color: #FFFFFF;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            touch-action: pan-y;
+        }
+
+        .container {
+            width: 100%;
+            height: 100%;
+            max-width: 480px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding: 32px 24px;
+            position: relative;
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .logo-section {
+            text-align: center;
+            margin-bottom: 48px;
+            animation: fadeInDown 0.6s ease-out;
+        }
+
+        .logo-icon {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, #FFFFFF 0%, #E0E0E0 100%);
+            border-radius: 24px;
+            margin: 0 auto 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 40px;
+            font-weight: 800;
+            color: #000000;
+            box-shadow: 0 20px 60px rgba(255, 255, 255, 0.1);
+        }
+
+        .logo-section h1 {
+            font-size: 32px;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+            margin-bottom: 8px;
+            color: #FFFFFF;
+        }
+
+        .logo-section p {
+            font-size: 15px;
+            color: #808080;
+            font-weight: 500;
+        }
+
+        .form-container {
+            animation: fadeInUp 0.6s ease-out;
+        }
+
+        .error-message {
+            background: rgba(255, 59, 48, 0.15);
+            border: 1px solid rgba(255, 59, 48, 0.3);
+            color: #FF3B30;
+            padding: 16px 20px;
+            border-radius: 16px;
+            font-size: 14px;
+            font-weight: 500;
+            margin-bottom: 24px;
+            display: none;
+            animation: shake 0.4s ease-in-out;
+        }
+
+        .error-message.show {
+            display: block;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            font-size: 13px;
+            font-weight: 600;
+            color: #FFFFFF;
+            margin-bottom: 10px;
+            letter-spacing: 0.3px;
+            text-transform: uppercase;
+        }
+
+        .input-wrapper {
+            position: relative;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 18px 20px;
+            border: 2px solid #1C1C1E;
+            border-radius: 16px;
+            font-size: 16px;
+            font-family: inherit;
+            font-weight: 500;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            background: #1C1C1E;
+            color: #FFFFFF;
+        }
+
+        .form-group input:focus {
+            outline: none;
+            border-color: #FFFFFF;
+            background: #2C2C2E;
+            box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.1);
+        }
+
+        .form-group input::placeholder {
+            color: #636366;
+        }
+
+        .form-group input:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .btn {
+            width: 100%;
+            padding: 18px;
+            border: none;
+            border-radius: 16px;
+            font-size: 17px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            font-family: inherit;
+            letter-spacing: 0.3px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn-primary {
+            background: #FFFFFF;
+            color: #000000;
+            box-shadow: 0 8px 32px rgba(255, 255, 255, 0.2);
+            margin-top: 8px;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 40px rgba(255, 255, 255, 0.3);
+        }
+
+        .btn-primary:active {
+            transform: translateY(0);
+        }
+
+        .btn-primary:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .btn-primary .spinner {
+            display: none;
+            width: 20px;
+            height: 20px;
+            border: 3px solid rgba(0, 0, 0, 0.1);
+            border-top-color: #000000;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto;
+        }
+
+        .btn-primary.loading .btn-text {
+            display: none;
+        }
+
+        .btn-primary.loading .spinner {
+            display: block;
+        }
+
+        .divider {
+            text-align: center;
+            margin: 32px 0;
+            position: relative;
+            color: #636366;
+            font-size: 13px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .divider::before,
+        .divider::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            width: 42%;
+            height: 1px;
+            background: #2C2C2E;
+        }
+
+        .divider::before {
+            left: 0;
+        }
+
+        .divider::after {
+            right: 0;
+        }
+
+        .auth-link {
+            text-align: center;
+            margin-top: 32px;
+            font-size: 15px;
+            color: #808080;
+            font-weight: 500;
+        }
+
+        .auth-link a {
+            color: #FFFFFF;
+            text-decoration: none;
+            font-weight: 700;
+            transition: opacity 0.2s;
+            border-bottom: 2px solid #FFFFFF;
+            padding-bottom: 2px;
+        }
+
+        .auth-link a:hover {
+            opacity: 0.8;
+        }
+
+        .floating-decoration {
+            position: fixed;
+            width: 400px;
+            height: 400px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(255, 255, 255, 0.03) 0%, transparent 70%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .decoration-1 {
+            top: -200px;
+            right: -200px;
+        }
+
+        .decoration-2 {
+            bottom: -200px;
+            left: -200px;
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-10px); }
+            75% { transform: translateX(10px); }
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        @media (max-height: 700px) {
+            .logo-section {
+                margin-bottom: 32px;
+            }
+            .logo-icon {
+                width: 64px;
+                height: 64px;
+                font-size: 32px;
+            }
+            .logo-section h1 {
+                font-size: 28px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="floating-decoration decoration-1"></div>
+    <div class="floating-decoration decoration-2"></div>
+
+    <div class="container">
+        <div class="logo-section">
+            <h1>Welcome Back</h1>
+            <p>Sign in to continue to SmartCard</p>
+        </div>
+
+        <div class="form-container">
+            <div id="error-message" class="error-message"></div>
+
+            <form id="login-form">
+                <div class="form-group">
+                    <label for="email">Email Address</label>
+                    <div class="input-wrapper">
+                        <input type="email" id="email" name="email" placeholder="you@example.com" required autocomplete="email">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <div class="input-wrapper">
+                        <input type="password" id="password" name="password" placeholder="Enter your password" required autocomplete="current-password">
+                    </div>
+                </div>
+
+                <button type="submit" class="btn btn-primary" id="submit-btn">
+                    <span class="btn-text">Sign In</span>
+                    <div class="spinner"></div>
+                </button>
+            </form>
+
+            <div class="auth-link">
+                Don't have an account? <a href="/register">Create one</a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const form = document.getElementById('login-form');
+        const submitBtn = document.getElementById('submit-btn');
+        const errorMessage = document.getElementById('error-message');
+        const emailInput = document.getElementById('email');
+        const passwordInput = document.getElementById('password');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const email = emailInput.value;
+            const password = passwordInput.value;
+            
+            // Reset error message
+            errorMessage.classList.remove('show');
+            
+            // Show loading state
+            submitBtn.classList.add('loading');
+            submitBtn.disabled = true;
+            emailInput.disabled = true;
+            passwordInput.disabled = true;
+            
+            try {
+                const response = await fetch('/api/auth/login', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ email, password })
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    // Success - redirect
+                    window.location.href = '/';
+                } else {
+                    // Show error
+                    errorMessage.textContent = data.error || 'Login failed. Please try again.';
+                    errorMessage.classList.add('show');
+                    
+                    // Reset form state
+                    submitBtn.classList.remove('loading');
+                    submitBtn.disabled = false;
+                    emailInput.disabled = false;
+                    passwordInput.disabled = false;
+                }
+            } catch (error) {
+                errorMessage.textContent = 'An error occurred. Please try again.';
+                errorMessage.classList.add('show');
+                
+                // Reset form state
+                submitBtn.classList.remove('loading');
+                submitBtn.disabled = false;
+                emailInput.disabled = false;
+                passwordInput.disabled = false;
+            }
+        });
+
+        // Prevent zoom on input focus (iOS)
+        document.querySelectorAll('input').forEach(input => {
+            input.addEventListener('focus', () => {
+                input.style.fontSize = '16px';
+            });
+        });
+    </script>
+</body>
+</html>

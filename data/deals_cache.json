@@ -1,0 +1,55 @@
+{
+  "nikhi.kanda@gmail.com": {
+    "deals": [
+      {
+        "id": "b6adb97e-b6db-49fa-b183-f11d03f57928",
+        "merchant": "Walgreens",
+        "category": "pharmacy",
+        "distance": 0.4,
+        "deal_text": "Current promotions at Walgreens",
+        "timestamp": "2026-01-01T17:49:05.015859"
+      },
+      {
+        "id": "1af76b26-cc34-44cb-8f7c-b9310dce5978",
+        "merchant": "Walgreens",
+        "category": "pharmacy",
+        "distance": 0.4,
+        "deal_text": "Deals on pharmacy items",
+        "timestamp": "2026-01-01T17:49:05.016049"
+      },
+      {
+        "id": "e0b862e4-6702-4ba9-a630-607fc3ba81da",
+        "merchant": "Chipotle",
+        "category": "restaurant",
+        "distance": 0.7,
+        "deal_text": "Current promotions at Chipotle",
+        "timestamp": "2026-01-01T17:49:05.083727"
+      },
+      {
+        "id": "2d1e6405-11a4-4efc-a961-685fb30210d3",
+        "merchant": "Chipotle",
+        "category": "restaurant",
+        "distance": 0.7,
+        "deal_text": "Deals on restaurant items",
+        "timestamp": "2026-01-01T17:49:05.083758"
+      },
+      {
+        "id": "42f8579d-92b7-4bc9-a275-8b2b7a805b72",
+        "merchant": "Walmart Supercenter",
+        "category": "grocery",
+        "distance": 0.8,
+        "deal_text": "Current promotions at Walmart Supercenter",
+        "timestamp": "2026-01-01T17:49:05.145264"
+      },
+      {
+        "id": "f929faee-4e13-40a7-a9cc-a35ce7e6060d",
+        "merchant": "Walmart Supercenter",
+        "category": "grocery",
+        "distance": 0.8,
+        "deal_text": "Deals on grocery items",
+        "timestamp": "2026-01-01T17:49:05.145298"
+      }
+    ],
+    "timestamp": "2026-01-01T17:49:05.145653"
+  }
+}

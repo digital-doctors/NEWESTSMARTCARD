@@ -1,0 +1,596 @@
+[
+  {
+    "name": "Walmart Supercenter",
+    "lat": 42.1525444,
+    "lon": -87.9527576,
+    "category": "grocery"
+  },
+  {
+    "name": "McDonald's",
+    "lat": 42.1526975,
+    "lon": -87.9505408,
+    "category": "restaurant"
+  },
+  {
+    "name": "Target",
+    "lat": 42.1543625,
+    "lon": -87.9501964,
+    "category": "retail"
+  },
+  {
+    "name": "Vacant Restaurant",
+    "lat": 42.1527203,
+    "lon": -87.9755226,
+    "category": "restaurant"
+  },
+  {
+    "name": "Nawabi Hyderabad House",
+    "lat": 42.1533598,
+    "lon": -87.9763653,
+    "category": "restaurant"
+  },
+  {
+    "name": "Mobil Mart",
+    "lat": 42.1535245,
+    "lon": -87.9547329,
+    "category": "grocery"
+  },
+  {
+    "name": "Culver's",
+    "lat": 42.1612296,
+    "lon": -87.962227,
+    "category": "restaurant"
+  },
+  {
+    "name": "Kohl's",
+    "lat": 42.1409094,
+    "lon": -87.9921012,
+    "category": "retail"
+  },
+  {
+    "name": " Dominick's",
+    "lat": 42.1549752,
+    "lon": -87.9836531,
+    "category": "grocery"
+  },
+  {
+    "name": "BP",
+    "lat": 42.1625275,
+    "lon": -87.9645663,
+    "category": "gas"
+  },
+  {
+    "name": "BP Shop",
+    "lat": 42.1624895,
+    "lon": -87.9646603,
+    "category": "grocery"
+  },
+  {
+    "name": "Sunset Foods",
+    "lat": 42.1810193,
+    "lon": -87.9879173,
+    "category": "grocery"
+  },
+  {
+    "name": "Subway",
+    "lat": 42.1521542,
+    "lon": -87.9521659,
+    "category": "restaurant"
+  },
+  {
+    "name": "Dunkin'",
+    "lat": 42.1518286,
+    "lon": -87.9853682,
+    "category": "restaurant"
+  },
+  {
+    "name": "7-Eleven",
+    "lat": 42.1532694,
+    "lon": -87.986019,
+    "category": "grocery"
+  },
+  {
+    "name": "Yen Yen",
+    "lat": 42.1525077,
+    "lon": -87.9860199,
+    "category": "restaurant"
+  },
+  {
+    "name": "Pompei Pizza & Pasta",
+    "lat": 42.1522347,
+    "lon": -87.9859869,
+    "category": "restaurant"
+  },
+  {
+    "name": "Domino's",
+    "lat": 42.1552117,
+    "lon": -87.9844831,
+    "category": "restaurant"
+  },
+  {
+    "name": "Buffalo Restaurant & Ice Cream Parlor",
+    "lat": 42.1539429,
+    "lon": -87.9844599,
+    "category": "restaurant"
+  },
+  {
+    "name": "Casey's General Store",
+    "lat": 42.1741355,
+    "lon": -87.9841686,
+    "category": "gas"
+  },
+  {
+    "name": "Deerfield Bakery",
+    "lat": 42.1567508,
+    "lon": -87.9627372,
+    "category": "restaurant"
+  },
+  {
+    "name": "Bill Stasek Chevrolet",
+    "lat": 42.1399076,
+    "lon": -87.9334215,
+    "category": "retail"
+  },
+  {
+    "name": "Former Regal Lincolnshire & IMAX",
+    "lat": 42.1799113,
+    "lon": -87.9321764,
+    "category": "retail"
+  },
+  {
+    "name": "American Mattress",
+    "lat": 42.1563141,
+    "lon": -87.9593152,
+    "category": "retail"
+  },
+  {
+    "name": "Shell",
+    "lat": 42.1737665,
+    "lon": -87.9857994,
+    "category": "gas"
+  },
+  {
+    "name": "McDonald's",
+    "lat": 42.1734726,
+    "lon": -87.9858084,
+    "category": "restaurant"
+  },
+  {
+    "name": "Café Zupas",
+    "lat": 42.154571,
+    "lon": -87.9542655,
+    "category": "restaurant"
+  },
+  {
+    "name": "Former Burger King",
+    "lat": 42.1549353,
+    "lon": -87.96001,
+    "category": "restaurant"
+  },
+  {
+    "name": "Food Mart",
+    "lat": 42.1544515,
+    "lon": -87.9600795,
+    "category": "grocery"
+  },
+  {
+    "name": "Walgreens",
+    "lat": 42.1540991,
+    "lon": -87.9615901,
+    "category": "pharmacy"
+  },
+  {
+    "name": "Chicago Jewish Funerals LTD.",
+    "lat": 42.1562677,
+    "lon": -87.9634361,
+    "category": "retail"
+  },
+  {
+    "name": "BP Auto Complete Repair",
+    "lat": 42.1545941,
+    "lon": -87.9625889,
+    "category": "retail"
+  },
+  {
+    "name": "CVS Pharmacy",
+    "lat": 42.1803218,
+    "lon": -87.9887832,
+    "category": "pharmacy"
+  },
+  {
+    "name": "Sal & Tony's Italian Restaurant",
+    "lat": 42.1531188,
+    "lon": -87.9683966,
+    "category": "restaurant"
+  },
+  {
+    "name": "Former Boston Market",
+    "lat": 42.156081,
+    "lon": -87.9604697,
+    "category": "restaurant"
+  },
+  {
+    "name": "Jacobson Electric",
+    "lat": 42.1528712,
+    "lon": -87.9416122,
+    "category": "retail"
+  },
+  {
+    "name": "Shell",
+    "lat": 42.1535651,
+    "lon": -87.9426711,
+    "category": "gas"
+  },
+  {
+    "name": "Walgreens",
+    "lat": 42.182097,
+    "lon": -87.9645438,
+    "category": "pharmacy"
+  },
+  {
+    "name": "Shell",
+    "lat": 42.1542776,
+    "lon": -87.9599357,
+    "category": "gas"
+  },
+  {
+    "name": "Lou Malnati's Pizzeria",
+    "lat": 42.1528644,
+    "lon": -87.9605515,
+    "category": "restaurant"
+  },
+  {
+    "name": "Ricky Rocket",
+    "lat": 42.1538867,
+    "lon": -87.9427534,
+    "category": "grocery"
+  },
+  {
+    "name": "Casey's General Store",
+    "lat": 42.1743975,
+    "lon": -87.9840677,
+    "category": "grocery"
+  },
+  {
+    "name": "Dunkin'",
+    "lat": 42.1741239,
+    "lon": -87.9834388,
+    "category": "restaurant"
+  },
+  {
+    "name": "Exxon",
+    "lat": 42.1537268,
+    "lon": -87.9546248,
+    "category": "gas"
+  },
+  {
+    "name": "Public Storage",
+    "lat": 42.142062,
+    "lon": -87.9360648,
+    "category": "retail"
+  },
+  {
+    "name": "Public Storage",
+    "lat": 42.1419079,
+    "lon": -87.9358589,
+    "category": "retail"
+  },
+  {
+    "name": "Public Storage",
+    "lat": 42.1417885,
+    "lon": -87.9355476,
+    "category": "retail"
+  },
+  {
+    "name": "Public Storage",
+    "lat": 42.1416622,
+    "lon": -87.9352978,
+    "category": "retail"
+  },
+  {
+    "name": "Public Storage",
+    "lat": 42.1415159,
+    "lon": -87.9351457,
+    "category": "retail"
+  },
+  {
+    "name": "Jewel-Osco",
+    "lat": 42.1551441,
+    "lon": -87.9577034,
+    "category": "grocery"
+  },
+  {
+    "name": "Guzman y Gomez",
+    "lat": 42.1556134,
+    "lon": -87.9605856,
+    "category": "restaurant"
+  },
+  {
+    "name": "Amazon Fresh",
+    "lat": 42.1551361,
+    "lon": -87.9615402,
+    "category": "grocery"
+  },
+  {
+    "name": "Chick-fil-A",
+    "lat": 42.1581812,
+    "lon": -87.9607267,
+    "category": "restaurant"
+  },
+  {
+    "name": "Lazy Dog",
+    "lat": 42.1545218,
+    "lon": -87.9589906,
+    "category": "restaurant"
+  },
+  {
+    "name": "Walgreens",
+    "lat": 42.1821013,
+    "lon": -87.9645287,
+    "category": "pharmacy"
+  },
+  {
+    "name": "Sport Clips",
+    "lat": 42.179997,
+    "lon": -87.9879539,
+    "category": "retail"
+  },
+  {
+    "name": "Starbucks",
+    "lat": 42.15288,
+    "lon": -87.9432992,
+    "category": "restaurant"
+  },
+  {
+    "name": "Original Bagel & Bialy",
+    "lat": 42.1560273,
+    "lon": -87.9578761,
+    "category": "restaurant"
+  },
+  {
+    "name": "The UPS Store",
+    "lat": 42.1562421,
+    "lon": -87.9577254,
+    "category": "retail"
+  },
+  {
+    "name": "Potbelly",
+    "lat": 42.1545792,
+    "lon": -87.9528427,
+    "category": "restaurant"
+  },
+  {
+    "name": "Binny's Beverage Depot",
+    "lat": 42.1548132,
+    "lon": -87.9533727,
+    "category": "retail"
+  },
+  {
+    "name": "Chipotle",
+    "lat": 42.1550371,
+    "lon": -87.9540101,
+    "category": "restaurant"
+  },
+  {
+    "name": "Hair Cuttery",
+    "lat": 42.1546174,
+    "lon": -87.9530612,
+    "category": "retail"
+  },
+  {
+    "name": "Crumbl Cookies",
+    "lat": 42.154593,
+    "lon": -87.9529175,
+    "category": "restaurant"
+  },
+  {
+    "name": "Dunkin'",
+    "lat": 42.1570733,
+    "lon": -87.9592502,
+    "category": "restaurant"
+  },
+  {
+    "name": "Bowlero Restaurant",
+    "lat": 42.1593305,
+    "lon": -87.9609774,
+    "category": "restaurant"
+  },
+  {
+    "name": "Giordano's Pizzeria",
+    "lat": 42.1579722,
+    "lon": -87.9617923,
+    "category": "restaurant"
+  },
+  {
+    "name": "Allegro Deli",
+    "lat": 42.1406004,
+    "lon": -87.957765,
+    "category": "restaurant"
+  },
+  {
+    "name": "Java Junction",
+    "lat": 42.1685171,
+    "lon": -87.941388,
+    "category": "restaurant"
+  },
+  {
+    "name": "Continental Breakfast",
+    "lat": 42.1401486,
+    "lon": -87.9602695,
+    "category": "restaurant"
+  },
+  {
+    "name": "Garden Fresh Market",
+    "lat": 42.1407407,
+    "lon": -87.9602218,
+    "category": "grocery"
+  },
+  {
+    "name": "Wiener Take All",
+    "lat": 42.1718872,
+    "lon": -87.9483858,
+    "category": "restaurant"
+  },
+  {
+    "name": "Starbucks",
+    "lat": 42.1816761,
+    "lon": -87.964759,
+    "category": "restaurant"
+  },
+  {
+    "name": "Hatch - Wheeling",
+    "lat": 42.1542078,
+    "lon": -87.9528809,
+    "category": "retail"
+  },
+  {
+    "name": "Eye Q Optique",
+    "lat": 42.1413201,
+    "lon": -87.959526,
+    "category": "retail"
+  },
+  {
+    "name": "Carnicerias Jimenez",
+    "lat": 42.1406896,
+    "lon": -87.9304417,
+    "category": "grocery"
+  },
+  {
+    "name": "Sushi Grove",
+    "lat": 42.1584729,
+    "lon": -87.9618468,
+    "category": "restaurant"
+  },
+  {
+    "name": "T-Mobile",
+    "lat": 42.1546339,
+    "lon": -87.9531638,
+    "category": "retail"
+  },
+  {
+    "name": "Sweet Cafe (Frozen Yogurt & Boba)",
+    "lat": 42.1549746,
+    "lon": -87.9538926,
+    "category": "restaurant"
+  },
+  {
+    "name": "Masa's Sushi",
+    "lat": 42.1581992,
+    "lon": -87.9618714,
+    "category": "restaurant"
+  },
+  {
+    "name": "Nails & Spa Studio-BG",
+    "lat": 42.1582818,
+    "lon": -87.9618863,
+    "category": "retail"
+  },
+  {
+    "name": "Toe the Line Dance Store",
+    "lat": 42.1587285,
+    "lon": -87.9617967,
+    "category": "retail"
+  },
+  {
+    "name": "Jersey Mike's Subs",
+    "lat": 42.1562505,
+    "lon": -87.9587088,
+    "category": "restaurant"
+  },
+  {
+    "name": "Taste of Tokyo",
+    "lat": 42.1562507,
+    "lon": -87.9585969,
+    "category": "restaurant"
+  },
+  {
+    "name": "Dev Liquor & Wine",
+    "lat": 42.1732286,
+    "lon": -87.9833822,
+    "category": "retail"
+  },
+  {
+    "name": "Dorfler's Meat Market",
+    "lat": 42.1733257,
+    "lon": -87.9837945,
+    "category": "grocery"
+  },
+  {
+    "name": "Shalom Kosher Bakery",
+    "lat": 42.1731158,
+    "lon": -87.9843116,
+    "category": "restaurant"
+  },
+  {
+    "name": "Shell",
+    "lat": 42.173497,
+    "lon": -87.9858831,
+    "category": "grocery"
+  },
+  {
+    "name": "ALDI",
+    "lat": 42.1400563,
+    "lon": -87.9861645,
+    "category": "grocery"
+  },
+  {
+    "name": "VarenychOK",
+    "lat": 42.155126,
+    "lon": -87.9844828,
+    "category": "restaurant"
+  },
+  {
+    "name": "LUXART",
+    "lat": 42.1547358,
+    "lon": -87.9844368,
+    "category": "retail"
+  },
+  {
+    "name": "Smoke Hut",
+    "lat": 42.154725,
+    "lon": -87.9825171,
+    "category": "retail"
+  },
+  {
+    "name": "Arrow Grocery",
+    "lat": 42.1543513,
+    "lon": -87.9620503,
+    "category": "grocery"
+  },
+  {
+    "name": "Smokey's",
+    "lat": 42.1544055,
+    "lon": -87.9620917,
+    "category": "retail"
+  },
+  {
+    "name": "T&J Nails",
+    "lat": 42.1544518,
+    "lon": -87.9621418,
+    "category": "retail"
+  },
+  {
+    "name": "Lavender Spa",
+    "lat": 42.1545957,
+    "lon": -87.9622887,
+    "category": "retail"
+  },
+  {
+    "name": "Panda Express",
+    "lat": 42.1576151,
+    "lon": -87.9604782,
+    "category": "restaurant"
+  },
+  {
+    "name": "Jamba",
+    "lat": 42.1574915,
+    "lon": -87.9605338,
+    "category": "restaurant"
+  },
+  {
+    "name": "Cinnabon",
+    "lat": 42.1574974,
+    "lon": -87.960461,
+    "category": "restaurant"
+  }
+]
