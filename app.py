@@ -6,8 +6,8 @@ from datetime import datetime
 import uuid
 import math
 import hashlib
-from google import genai
-from google.genai import types
+import google.generativeai as genai
+from google.generativeai import types
 import time
 from collections import defaultdict
 
