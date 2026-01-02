@@ -7,7 +7,7 @@ import uuid
 import math
 import hashlib
 import google.generativeai as genai
-from google.generativeai import types
+from google.generativeai.types import GenerationConfig
 import time
 from collections import defaultdict
 
@@ -18,7 +18,7 @@ app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
 
 
 GEMINI_API_KEY = "AIzaSyDQ6TEXoUqX963Mop7f71heOG9a---lwPM"
-gemini_client = genai.Client(api_key=GEMINI_API_KEY)
+gemini_client = genai.configure(api_key=GEMINI_API_KEY)
 
 
 USERS_FILE = os.path.join("data", "users.json")
@@ -416,14 +416,11 @@ Format each deal as a short, catchy phrase (max 50 characters). Return ONLY a JS
 
 Do not include any other text, just the JSON array."""
 
-        grounding_tool = types.Tool(google_search=types.GoogleSearch())
-        config = types.GenerateContentConfig(tools=[grounding_tool])
+        # Create the model
+        model = genai.GenerativeModel('gemini-pro')
         
-        response = gemini_client.models.generate_content(
-            model="gemini-2.5-flash-lite",
-            contents=prompt,
-            config=config,
-        )
+        # Generate content
+        response = model.generate_content(prompt)
         
         # Parse the response
         response_text = response.text.strip()
@@ -453,6 +450,8 @@ Do not include any other text, just the JSON array."""
             f"Current promotions at {store_name}",
             f"Deals on {category} items"
         ]
+
+
 
 # ==============================
 # AUTHENTICATION ROUTES
