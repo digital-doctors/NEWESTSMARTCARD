@@ -464,6 +464,7 @@
             font-weight: 600;
             letter-spacing: 0.3px;
             display: inline-block;
+            margin-bottom: 12px;
         }
 
         .merchant-info {
@@ -796,14 +797,6 @@
         .bonus-item select {
             padding-right: 36px;
         }
-        /* Add this to your existing CSS */
-.merchant-category {
-    margin-bottom: 12px; /* Adds space below the category label */
-}
-
-.recommendation-card-name {
-    margin-top: 8px; /* Adds space above the card name */
-}
 
         .bonus-item .select-wrapper::after {
             right: 12px;
@@ -919,7 +912,6 @@
                     <div class="stat-value" id="avg-rewards">0%</div>
                     <div class="stat-label">Avg. Rewards</div>
                 </div>
-
             </div>
         </div>
 
@@ -929,20 +921,8 @@
             <span class="cards-count" id="cards-count-display">0 cards</span>
         </div>
 
+        <!-- Cards Container - FIXED: Only one instance -->
         <main class="cards-container">
-            <div id="cards-stack" class="cards-stack"></div>
-            
-            <div id="empty-state" class="empty-state" style="display: none;">
-                <div class="empty-icon">
-                    <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-                        <rect x="2" y="5" width="20" height="14" rx="2"/>
-                        <path d="M2 10h20"/>
-                    </svg>
-                </div>
-                <h2>No Cards Added</h2>
-                <p>Add your first credit card to start optimizing your rewards</p>
-            </div>
-        </main>
             <div id="cards-stack" class="cards-stack"></div>
             
             <div id="empty-state" class="empty-state" style="display: none;">
@@ -1006,7 +986,6 @@
         <div class="popup-content">
             <div class="popup-header">
                 <h3>Best Card Nearby</h3>
-                <br>
                 <button class="popup-close">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M18 6L6 18M6 6l12 12"/>
@@ -1220,42 +1199,6 @@
             } else {
                 document.getElementById('avg-rewards').textContent = '0%';
             }
-            
-            // Total bonuses and top category
-            let totalBonuses = 0;
-            const categoryCount = {};
-            
-            userCards.forEach(card => {
-                if (card.category_bonuses) {
-                    totalBonuses += card.category_bonuses.length;
-                    card.category_bonuses.forEach(bonus => {
-                        categoryCount[bonus.category] = (categoryCount[bonus.category] || 0) + 1;
-                    });
-                }
-            });
-            
-            document.getElementById('total-bonuses').textContent = totalBonuses;
-            
-            // Find top category
-            const topCategory = Object.keys(categoryCount).reduce((a, b) => 
-                categoryCount[a] > categoryCount[b] ? a : b, null);
-            
-            if (topCategory) {
-                const categoryNames = {
-                    'grocery': 'Grocery',
-                    'restaurant': 'Dining',
-                    'gas': 'Gas',
-                    'travel': 'Travel',
-                    'pharmacy': 'Pharmacy',
-                    'retail': 'Retail'
-                };
-                document.getElementById('top-category').textContent = categoryNames[topCategory] || topCategory;
-            } else {
-                document.getElementById('top-category').textContent = '—';
-            }
-            
-            // Update quick insights
-            // Removed - insights section hidden
         }
 
         async function checkLocation() {
